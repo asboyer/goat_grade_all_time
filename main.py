@@ -52,4 +52,4 @@ def get_team_stats(team):
             h += 1
     with open('stats.json', 'w+') as file:
         file.write(json.dumps(stats, indent=4, ensure_ascii=False))
-get_team_stats('OKC')
+get_team_stats('BOS')
