@@ -29,7 +29,7 @@ def get_player_stats(name, num):
 
     stats = {}
 
-    ps = soup.findAll('p')
+    ps = soup.findAll('p')[0:3]
     for p in range(len(ps)):
 
         t = text(ps[p])
@@ -49,12 +49,12 @@ def get_player_stats(name, num):
             if 'instagram' in t.lower() and 'twitter' not in t.lower():
                 stats['instagram'] = ats[1].split(": ")[1]
         if (p == 1 or p == 2) and '(born' in t.lower():
-            stats['former_name'] = t.split("(born ")[1].replace(")", "").split(".")[0]
+            stats['former_name'] = t.split("(born ")[1].replace(")", "")
         if (p == 1 or p == 2 or p == 3) and '(' in t.lower() and '(born' not in t.lower():
             stats['nicknames'] = t.replace("(", "").replace(")", "").split(", ")
     return stats
 
-name = 'Shaquille ONeal'
+name = 'Michael Jordan'
 s = get_player_stats(name, 1)
-with open(name.replace(" ", "_").lower() + ".json", 'w+') as file:
+with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+') as file:
     file.write(json.dumps(s, indent=4, ensure_ascii=False))
