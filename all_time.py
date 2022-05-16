@@ -6,10 +6,16 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 def text(raw):
-    t = raw.getText().strip().replace("\n", "")
-    while "  " in t:
-        t = t.replace("  ", " ")
-    return t
+    if 'span class="desc"' in str(raw):
+        t = raw.getText().strip().replace("\n", "")
+        while "  " in t:
+            t = t.replace("  ", " ")
+        return t + "<i>"
+    else:
+        t = raw.getText().strip().replace("\n", "")
+        while "  " in t:
+            t = t.replace("  ", " ")
+        return t
 
 def get_player_stats(name, num):
     l = name.lower().split(" ")
@@ -21,7 +27,7 @@ def get_player_stats(name, num):
         html = urlopen(url)
     except:
         print('player not found')
-        return
+        return False
     soup = BeautifulSoup(html, 'html.parser')
 
     with open('file.html', 'w+') as file:
@@ -29,11 +35,10 @@ def get_player_stats(name, num):
 
     stats = {}
 
-    ps = soup.findAll('p')[0:3]
+    ps = soup.findAll('p')
     for p in range(len(ps)):
 
         t = text(ps[p])
-
         if p == 0 and "pronunciation" in t.lower():
             t = text(ps[p + 1])
         if p == 0 and "▪" not in t.lower():
@@ -48,13 +53,24 @@ def get_player_stats(name, num):
                 stats['twitter'] = ats[1].split(": ")[1]
             if 'instagram' in t.lower() and 'twitter' not in t.lower():
                 stats['instagram'] = ats[1].split(": ")[1]
-        if (p == 1 or p == 2) and '(born' in t.lower():
-            stats['former_name'] = t.split("(born ")[1].replace(")", "")
-        if (p == 1 or p == 2 or p == 3) and '(' in t.lower() and '(born' not in t.lower():
+        if (p == 1 or p == 2) and '<i>' in t.lower():
+            stats['former_name'] = t.split("<i>")[0].replace(")", "").replace("(", "")
+        if (p in list(range(0, 5))) and t.lower()[0] == '(' and '<i>' not in t.lower() and t[1] != '-':
             stats['nicknames'] = t.replace("(", "").replace(")", "").split(", ")
+        if p in list(range(0, 6)) and 'position: ' in t.lower():
+            stats['position'] = t.lower().split('position: ')[1].split(' ▪')[0]
+            stats['shooting_hand'] = t.lower().split('shoots: ')[1]
+        if p in list(range(1, 10)) and t[1] == '-':
+            stats['height'] = t.split(',')[0]
+            stats['weight'] = t.split(',')[1].split('lb')[0].strip()
+        if p in list(range(2, 11)) and t.lower()[0:6] == 'born: ':
+            stats['birthday'] = t.lower().split('born')[1].split(' in')[0]
+            stats['birthplace'] = t.lower().split('in ')[1].replace(', ', ', ')
+
     return stats
 
-name = 'Michael Jordan'
+name = 'James Harden'
 s = get_player_stats(name, 1)
-with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+') as file:
-    file.write(json.dumps(s, indent=4, ensure_ascii=False))
+if s != False:
+    with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+', encoding='utf-8') as file:
+        file.write(json.dumps(s, indent=4, ensure_ascii=False))
