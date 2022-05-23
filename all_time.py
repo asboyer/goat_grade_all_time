@@ -64,12 +64,18 @@ def get_player_stats(name, num):
             stats['height'] = t.split(',')[0]
             stats['weight'] = t.split(',')[1].split('lb')[0].strip()
         if p in list(range(2, 11)) and t.lower()[0:6] == 'born: ':
-            stats['birthday'] = t.lower().split('born')[1].split(' in')[0]
-            stats['birthplace'] = t.lower().split('in ')[1].replace(', ', ', ')
-
+            stats['birthday'] = (t.lower().split('born')[1].split(' in')[0])[2:]
+            stats['birthplace'] = t.lower().split('in ')[1].replace(', ', ', ')[0:-2] + " " + t.lower()[len(t)-2:len(t)].upper()
+        if p in list(range(2, 12)) and t.lower()[0:6] == 'died: ':
+            stats['died'] = (t.lower().split('died')[1].split('(')[0])[2:].replace(' ', ' ')
+        if p in list(range(2, 14)) and (t.lower()[0:9] == 'college: ' or t.lower()[0:10] == 'colleges: '):
+            if 'college: ' in t.lower():
+                stats['college'] = t.lower().split('college:')[1][1:]
+            if 'colleges: ' in t.lower():
+                stats['colleges'] = t.lower().split('colleges:')[1][1:].split(', ')
     return stats
 
-name = 'James Harden'
+name = 'duncan robinson'
 s = get_player_stats(name, 1)
 if s != False:
     with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+', encoding='utf-8') as file:
