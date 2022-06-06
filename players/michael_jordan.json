@@ -18,5 +18,26 @@
     "height": "6-6",
     "weight": "198",
     "birthday": "february 17, 1963",
-    "birthplace": "brooklyn, new york US"
+    "birthplace": "brooklyn, new york US",
+    "college": "unc",
+    "high school": " emsley a. laney in wilmington, north carolina",
+    "drafted_to": "chicago bulls, 1984",
+    "draft_pick": "1st round (3rd pick 3rd overall)",
+    "debut": "october 26, 1984",
+    "accomplishments": [
+        "hall of fame",
+        "14x all star",
+        "10x scoring champ",
+        "3x stl champ",
+        "6x nba champ",
+        "11x all-nba",
+        "1984-85 all-rookie",
+        "1984-85 roy",
+        "9x all-defensive",
+        "3x as mvp",
+        "1987-88 def. poy",
+        "5x mvp",
+        "6x finals mvp",
+        "nba 75th anniv. team"
+    ]
 }

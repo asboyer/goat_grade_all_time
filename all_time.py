@@ -73,9 +73,29 @@ def get_player_stats(name, num):
                 stats['college'] = t.lower().split('college:')[1][1:]
             if 'colleges: ' in t.lower():
                 stats['colleges'] = t.lower().split('colleges:')[1][1:].split(', ')
+        if p in list(range(2, 16)) and t.lower().startswith("high school"):
+            stats['high school'] = t.lower()[12:]
+        if p in list(range(2, 18)) and t.lower().startswith('draft: '):
+            stats['drafted_to'] = t.lower().split('draft: ')[1].split(',')[0] + ", " + t.lower().split('), ')[1].replace(' nba draft', '')
+            stats['draft_pick'] = t.lower().split('draft: ')[1].split(',')[1][1:] + t.lower().split('draft: ')[1].split(',')[2]  
+        if p in list(range(2, 20)) and t.lower().startswith('nba debut: '):
+            stats['debut'] = t.lower().split(': ')[1]
+
+    
+    # bling = r.text.split('<ul id="bling">')[1].split('</ul>')[0]
+    # blings = bling.split('<a>')
+    try:
+        awards = []
+        blings = soup.findAll('ul', {'id': 'bling'})[0].findAll('li')
+        for b in blings:
+            awards.append(b.getText().lower())
+
+        stats['accomplishments'] = awards
+    except IndexError:
+        pass
     return stats
 
-name = 'duncan robinson'
+name = 'bill russell'
 s = get_player_stats(name, 1)
 if s != False:
     with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+', encoding='utf-8') as file:

@@ -16,5 +16,19 @@
     "weight": "220",
     "birthday": "august 26, 1989",
     "birthplace": "los angeles, california US",
-    "college": "arizona state"
+    "college": "arizona state",
+    "high school": " artesia in lakewood, california",
+    "drafted_to": "oklahoma city thunder, 2009",
+    "draft_pick": "1st round (3rd pick 3rd overall)",
+    "debut": "october 28, 2009",
+    "accomplishments": [
+        "10x all star",
+        "3x scoring champ",
+        "2016-17 ast champ",
+        "7x all-nba",
+        "2009-10 all-rookie",
+        "2011-12 sixth man",
+        "2017-18 mvp",
+        "nba 75th anniv. team"
+    ]
 }
