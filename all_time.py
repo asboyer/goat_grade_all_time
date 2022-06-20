@@ -82,8 +82,6 @@ def get_player_stats(name, num):
             stats['debut'] = t.lower().split(': ')[1]
 
     
-    # bling = r.text.split('<ul id="bling">')[1].split('</ul>')[0]
-    # blings = bling.split('<a>')
     try:
         awards = []
         blings = soup.findAll('ul', {'id': 'bling'})[0].findAll('li')
@@ -93,9 +91,30 @@ def get_player_stats(name, num):
         stats['accomplishments'] = awards
     except IndexError:
         pass
+
+
+    stats['career_summary'] = {}
+
+    career_div = soup.findAll('div', {'class': 'stats_pullout'})[0]
+    # print(r.text.split('<span><strong>SUMMARY</strong></span>')[1].split('<strong>WS</strong>')[0])
+    stat_fields = career_div.findAll('span', {'class': 'poptip'})
+    stat_names = []
+    for stat_line in stat_fields:
+        stat = str(stat_line)
+        stat_name = stat.split('<strong>')[1].split('</strong>')[0]
+        stat_names.append(stat_name)
+
+    p_tags = career_div.findAll('p')[2:]
+    
+    counter = 0
+    for p in range(1, len(p_tags), 2):
+        stats['career_summary'][stat_names[counter]] = p_tags[p].getText()
+        counter += 1
+
     return stats
 
-name = 'bill russell'
+
+name = 'james harden'
 s = get_player_stats(name, 1)
 if s != False:
     with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+', encoding='utf-8') as file:
