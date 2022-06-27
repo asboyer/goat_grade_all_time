@@ -1,0 +1,110 @@
+<th aria-label="Franchise" class="poptip sort_default_asc center" data-stat="franch_name" scope="col">Franchise</th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/ATL/">Atlanta Hawks</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/BOS/">Boston Celtics</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/NJN/">Brooklyn Nets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/CHA/">Charlotte Hornets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/CHI/">Chicago Bulls</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/CLE/">Cleveland Cavaliers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/DAL/">Dallas Mavericks</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/DEN/">Denver Nuggets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/DET/">Detroit Pistons</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/GSW/">Golden State Warriors</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/HOU/">Houston Rockets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/IND/">Indiana Pacers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/LAC/">Los Angeles Clippers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/LAL/">Los Angeles Lakers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/MEM/">Memphis Grizzlies</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/MIA/">Miami Heat</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/MIL/">Milwaukee Bucks</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/MIN/">Minnesota Timberwolves</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/NOH/">New Orleans Pelicans</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/NYK/">New York Knicks</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/OKC/">Oklahoma City Thunder</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/ORL/">Orlando Magic</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/PHI/">Philadelphia 76ers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/PHO/">Phoenix Suns</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/POR/">Portland Trail Blazers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/SAC/">Sacramento Kings</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/SAS/">San Antonio Spurs</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/TOR/">Toronto Raptors</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/UTA/">Utah Jazz</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/WAS/">Washington Wizards</a></th>
+__________________
+<th aria-label="Franchise" class="poptip sort_default_asc center" data-stat="franch_name" scope="col">Franchise</th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/AND/">Anderson Packers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/BLB/">Baltimore Bullets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/CHS/">Chicago Stags</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/CLR/">Cleveland Rebels</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/DNN/">Denver Nuggets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/DTF/">Detroit Falcons</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/INJ/">Indianapolis Jets</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/INO/">Indianapolis Olympians</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/KEN/">Kentucky Colonels</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/MMS/">Memphis Sounds</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/PTC/">Pittsburgh Condors</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/PIT/">Pittsburgh Ironmen</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/PRO/">Providence Steam Rollers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/SDS/">San Diego Sails</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/SHE/">Sheboygan Red Skins</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/SSL/">Spirits of St. Louis</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/STB/">St. Louis Bombers</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/FLO/">The Floridians</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/TRH/">Toronto Huskies</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/UTS/">Utah Stars</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/VIR/">Virginia Squires</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/WSC/">Washington Capitols</a></th>
+__________________
+<th class="left" data-stat="franch_name" scope="row"><a href="/teams/WAT/">Waterloo Hawks</a></th>
+__________________
