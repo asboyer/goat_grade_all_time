@@ -1,0 +1,24 @@
+{
+    "name": "Sihugo Green",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "185",
+    "birthday": "august 20, 1933",
+    "birthplace": "new york, new york US",
+    "died": "october 4, 1980",
+    "college": "duquesne",
+    "high school": " boys in brooklyn, new york",
+    "draft": "rochester royals, 1st round (1st pick, 1st overall), 1956 nba draft",
+    "debut": "october 27, 1956",
+    "career_summary": {
+        "G": "504",
+        "PTS": "9.2",
+        "TRB": "4.3",
+        "AST": "3.3",
+        "FG%": "38.7",
+        "FT%": "67.6",
+        "PER": "11.2",
+        "WS": "11.1"
+    }
+}

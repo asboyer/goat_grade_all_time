@@ -1,0 +1,21 @@
+{
+    "name": "Kenneth Lawrence Rohloff",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "195",
+    "birthday": "april 18, 1939",
+    "college": "nc state",
+    "draft": "st. louis hawks, 7th round (6th pick, 60th overall), 1963 nba draft",
+    "debut": "march 17, 1964",
+    "career_summary": {
+        "G": "2",
+        "PTS": "0.0",
+        "TRB": "0.0",
+        "AST": "0.5",
+        "FG%": "0.0",
+        "FT%": "-",
+        "PER": "-9.6",
+        "WS": "0.0"
+    }
+}

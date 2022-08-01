@@ -1,0 +1,31 @@
+{
+    "name": "Wesley Lavon Person",
+    "nicknames": [
+        "Wes"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "195",
+    "birthday": "march 28, 1971",
+    "birthplace": "crenshaw, alabama US",
+    "college": "auburn",
+    "high school": " brantley in brantley, alabama",
+    "draft": "phoenix suns, 1st round (23rd pick, 23rd overall), 1994 nba draft",
+    "debut": "november 4, 1994",
+    "accomplishments": [
+        "1994-95 all-rookie"
+    ],
+    "career_summary": {
+        "G": "733",
+        "PTS": "11.2",
+        "TRB": "3.3",
+        "AST": "1.7",
+        "FG%": "45.7",
+        "FG3%": "41.8",
+        "FT%": "77.8",
+        "eFG%": "54.1",
+        "PER": "14.1",
+        "WS": "44.0"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Edward Burton",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "225",
+    "birthday": "august 13, 1939",
+    "died": "may 28, 2012",
+    "college": "michigan state",
+    "high school": " muskegon heights in muskegon heights, michigan",
+    "debut": "october 19, 1961",
+    "career_summary": {
+        "G": "15",
+        "PTS": "2.2",
+        "TRB": "1.2",
+        "AST": "0.2",
+        "FG%": "41.2",
+        "FT%": "45.5",
+        "PER": "9.8",
+        "WS": "0.0"
+    }
+}

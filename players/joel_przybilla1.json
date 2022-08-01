@@ -1,0 +1,29 @@
+{
+    "name": "Joel Anthony Przybilla",
+    "nicknames": [
+        "Vanilla Gorilla",
+        "Ghostface"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-1",
+    "weight": "255",
+    "birthday": "october 10, 1979",
+    "birthplace": "monticello, minnesota US",
+    "college": "minnesota",
+    "high school": " monticello in monticello, minnesota",
+    "draft": "houston rockets, 1st round (9th pick, 9th overall), 2000 nba draft",
+    "debut": "november 4, 2000",
+    "career_summary": {
+        "G": "592",
+        "PTS": "3.9",
+        "TRB": "6.2",
+        "AST": "0.4",
+        "FG%": "55.2",
+        "FG3%": "0.0",
+        "FT%": "55.7",
+        "eFG%": "55.2",
+        "PER": "12.0",
+        "WS": "23.0"
+    }
+}

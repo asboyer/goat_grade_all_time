@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Treveon Graham"
+    ],
+    "twitter": "TreBall21",
+    "instagram": "fr8train21",
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "219",
+    "birthday": "october 28, 1993",
+    "birthplace": "temple hills, maryland US",
+    "college": "vcu",
+    "high school": " st. mary's ryken in leonardtown, maryland",
+    "debut": "november 2, 2016",
+    "career_summary": {
+        "G": "180",
+        "PTS": "4.2",
+        "TRB": "2.2",
+        "AST": "0.8",
+        "FG%": "38.3",
+        "FG3%": "33.3",
+        "FT%": "69.1",
+        "eFG%": "47.0",
+        "PER": "7.6",
+        "WS": "2.8"
+    }
+}

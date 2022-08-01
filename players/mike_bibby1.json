@@ -1,0 +1,31 @@
+{
+    "name": "Michael Bibby",
+    "nicknames": [
+        "Bib"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "190",
+    "birthday": "may 13, 1978",
+    "birthplace": "cherry hill, new jersey US",
+    "college": "arizona",
+    "high school": " shadow mountain in phoenix, arizona",
+    "draft": "vancouver grizzlies, 1st round (2nd pick, 2nd overall), 1998 nba draft",
+    "debut": "february 7, 1999",
+    "accomplishments": [
+        "1998-99 all-rookie"
+    ],
+    "career_summary": {
+        "G": "1001",
+        "PTS": "14.7",
+        "TRB": "3.1",
+        "AST": "5.5",
+        "FG%": "43.6",
+        "FG3%": "37.9",
+        "FT%": "80.2",
+        "eFG%": "49.7",
+        "PER": "16.1",
+        "WS": "73.2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Alfred Lee",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "185",
+    "birthday": "december 5, 1956",
+    "birthplace": "santurce, puerto rico PR",
+    "college": "marquette",
+    "high school": " dewitt clinton in bronx, new york",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 1978 nba draft",
+    "debut": "october 13, 1978",
+    "accomplishments": [
+        "1980 nba champ"
+    ],
+    "career_summary": {
+        "G": "96",
+        "PTS": "8.1",
+        "TRB": "1.4",
+        "AST": "3.2",
+        "FG%": "45.0",
+        "FG3%": "-",
+        "FT%": "76.1",
+        "eFG%": "45.0",
+        "PER": "13.5",
+        "WS": "2.4"
+    }
+}

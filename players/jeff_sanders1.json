@@ -1,0 +1,28 @@
+{
+    "name": "Jeffery Raynard Sanders",
+    "nicknames": [
+        "Jazzy J"
+    ],
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "january 14, 1966",
+    "birthplace": "augusta, georgia US",
+    "college": "georgia southern university",
+    "high school": " t.w. josey in augusta, georgia",
+    "draft": "chicago bulls, 1st round (20th pick, 20th overall), 1989 nba draft",
+    "debut": "december 20, 1989",
+    "career_summary": {
+        "G": "55",
+        "PTS": "2.0",
+        "TRB": "1.9",
+        "AST": "0.5",
+        "FG%": "39.5",
+        "FG3%": "-",
+        "FT%": "60.9",
+        "eFG%": "39.5",
+        "PER": "7.1",
+        "WS": "-0.1"
+    }
+}

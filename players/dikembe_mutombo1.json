@@ -1,0 +1,43 @@
+{
+    "name": [
+        "Dikembe Mutombo"
+    ],
+    "twitter": "officialmutombo",
+    "former_name": "born Dikembe Mutombo Mpolondo Mukamba Jean-Jacques Wamutombo",
+    "nicknames": [
+        "Deke",
+        "Mt. Mutombo"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-2",
+    "weight": "245",
+    "birthday": "june 25, 1966",
+    "birthplace": "kinshasa, democratic republic of the congo CD",
+    "college": "georgetown",
+    "high school": " institute boboto in kinshasa, democratic republic of the congo",
+    "draft": "denver nuggets, 1st round (4th pick, 4th overall), 1991 nba draft",
+    "debut": "november 1, 1991",
+    "accomplishments": [
+        "hall of fame",
+        "8x all star",
+        "2x trb champ",
+        "3x blk champ",
+        "3x all-nba",
+        "1991-92 all-rookie",
+        "6x all-defensive",
+        "4x def. poy"
+    ],
+    "career_summary": {
+        "G": "1196",
+        "PTS": "9.8",
+        "TRB": "10.3",
+        "AST": "1.0",
+        "FG%": "51.8",
+        "FG3%": "0.0",
+        "FT%": "68.4",
+        "eFG%": "51.8",
+        "PER": "17.2",
+        "WS": "117.0"
+    }
+}

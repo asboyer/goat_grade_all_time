@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Howard Davis",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "198",
+    "birthday": "may 1, 1954",
+    "birthplace": "phoenix, arizona US",
+    "college": "washington state",
+    "high school": " maryvale in phoenix, arizona",
+    "draft": "atlanta hawks, 5th round (2nd pick, 70th overall), 1976 nba draft",
+    "debut": "november 17, 1976",
+    "career_summary": {
+        "G": "78",
+        "PTS": "5.3",
+        "TRB": "1.8",
+        "AST": "0.7",
+        "FG%": "42.0",
+        "FG3%": "25.0",
+        "FT%": "57.1",
+        "eFG%": "42.2",
+        "PER": "10.7",
+        "WS": "0.1"
+    }
+}

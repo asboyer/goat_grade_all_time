@@ -1,0 +1,21 @@
+{
+    "name": "Christopher R. Harris",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "august 11, 1933",
+    "birthplace": "southampton, united kingdom GB",
+    "college": "dayton",
+    "debut": "november 5, 1955",
+    "career_summary": {
+        "G": "41",
+        "PTS": "2.5",
+        "TRB": "1.1",
+        "AST": "1.1",
+        "FG%": "24.8",
+        "FT%": "60.0",
+        "PER": "3.7",
+        "WS": "-0.8"
+    }
+}

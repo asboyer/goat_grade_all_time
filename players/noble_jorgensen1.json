@@ -1,0 +1,26 @@
+{
+    "name": "Noble Gordon Jorgensen",
+    "nicknames": [
+        "Jorgy"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "228",
+    "birthday": "may 18, 1925",
+    "birthplace": "columbus, ohio US",
+    "died": "november 2, 1982",
+    "college": "iowa",
+    "high school": " allderdice in pittsburgh, pennsylvania",
+    "debut": "february 6, 1947",
+    "career_summary": {
+        "G": "268",
+        "PTS": "8.8",
+        "TRB": "4.3",
+        "AST": "1.2",
+        "FG%": "36.0",
+        "FT%": "74.2",
+        "PER": "13.1",
+        "WS": "13.5"
+    }
+}

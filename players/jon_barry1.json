@@ -1,0 +1,31 @@
+{
+    "name": "Jon Alan Barry",
+    "nicknames": [
+        "J.B."
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "195",
+    "birthday": "july 25, 1969",
+    "birthplace": "oakland, california US",
+    "colleges": [
+        "university of the pacific",
+        "georgia tech"
+    ],
+    "high school": " de la salle catholic in concord, california",
+    "draft": "boston celtics, 1st round (21st pick, 21st overall), 1992 nba draft",
+    "debut": "december 8, 1992",
+    "career_summary": {
+        "G": "821",
+        "PTS": "5.7",
+        "TRB": "1.8",
+        "AST": "2.2",
+        "FG%": "43.4",
+        "FG3%": "39.2",
+        "FT%": "84.8",
+        "eFG%": "52.4",
+        "PER": "14.7",
+        "WS": "37.2"
+    }
+}

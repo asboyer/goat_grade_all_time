@@ -1,0 +1,23 @@
+{
+    "name": "Jeffrey Halliburton",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "193",
+    "birthday": "july 3, 1949",
+    "birthplace": "rockville centre, new york US",
+    "college": "drake university",
+    "high school": " malverne in malverne, new york",
+    "draft": "atlanta hawks, 3rd round (4th pick, 39th overall), 1971 nba draft",
+    "debut": "october 12, 1971",
+    "career_summary": {
+        "G": "92",
+        "PTS": "6.1",
+        "TRB": "1.6",
+        "AST": "1.3",
+        "FG%": "44.0",
+        "FT%": "81.4",
+        "PER": "13.9",
+        "WS": "1.4"
+    }
+}

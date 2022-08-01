@@ -1,0 +1,24 @@
+{
+    "name": "Eugene Daniel Berce",
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "175",
+    "birthday": "november 22, 1926",
+    "birthplace": "milwaukee, wisconsin US",
+    "died": "november 17, 2018",
+    "college": "marquette",
+    "high school": " marquette university in milwaukee, wisconsin",
+    "draft": "new york knicks, 6th round, 1948 baa draft",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "3",
+        "PTS": "3.3",
+        "TRB": "-",
+        "AST": "0.7",
+        "FG%": "31.3",
+        "FT%": "0.0",
+        "PER": "-",
+        "WS": "-0.1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Corey Dwight Benjamin",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "200",
+    "birthday": "february 24, 1978",
+    "birthplace": "compton, california US",
+    "college": "oregon state",
+    "high school": " fontana in fontana, california",
+    "draft": "chicago bulls, 1st round (28th pick, 28th overall), 1998 nba draft",
+    "debut": "february 7, 1999",
+    "career_summary": {
+        "G": "153",
+        "PTS": "5.5",
+        "TRB": "1.7",
+        "AST": "0.9",
+        "FG%": "39.0",
+        "FG3%": "28.9",
+        "FT%": "65.2",
+        "eFG%": "42.5",
+        "PER": "8.9",
+        "WS": "-0.9"
+    }
+}

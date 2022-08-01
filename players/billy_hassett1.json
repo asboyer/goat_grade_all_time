@@ -1,0 +1,26 @@
+{
+    "name": "William Joseph Hassett",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "180",
+    "birthday": "october 21, 1921",
+    "birthplace": "new york, new york US",
+    "died": "november 18, 1992",
+    "college": "notre dame",
+    "high school": " la salle academy in new york, new york",
+    "debut": "october 29, 1949",
+    "accomplishments": [
+        "1950 nba champ"
+    ],
+    "career_summary": {
+        "G": "91",
+        "PTS": "4.5",
+        "TRB": "1.1",
+        "AST": "2.0",
+        "FG%": "27.9",
+        "FT%": "65.6",
+        "PER": "-",
+        "WS": "1.6"
+    }
+}

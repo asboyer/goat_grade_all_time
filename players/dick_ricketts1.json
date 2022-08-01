@@ -1,0 +1,24 @@
+{
+    "name": "Richard James Ricketts Jr.",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "215",
+    "birthday": "december 4, 1933",
+    "birthplace": "pottstown, pennsylvania US",
+    "died": "march 6, 1988",
+    "college": "duquesne",
+    "high school": " pottstown in pottstown, pennsylvania",
+    "draft": "st. louis hawks, 1st round (1st pick, 1st overall), 1955 nba draft",
+    "debut": "november 5, 1955",
+    "career_summary": {
+        "G": "212",
+        "PTS": "9.3",
+        "TRB": "6.3",
+        "AST": "2.1",
+        "FG%": "32.8",
+        "FT%": "69.2",
+        "PER": "9.6",
+        "WS": "2.1"
+    }
+}

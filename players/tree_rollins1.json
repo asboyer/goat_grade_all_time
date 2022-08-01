@@ -1,0 +1,29 @@
+{
+    "name": "Wayne Monte Rollins",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-1",
+    "weight": "235",
+    "birthday": "june 16, 1955",
+    "birthplace": "winter haven, florida US",
+    "college": "clemson",
+    "high school": " crisp county in cordele, georgia",
+    "draft": "atlanta hawks, 1st round (14th pick, 14th overall), 1977 nba draft",
+    "debut": "october 22, 1977",
+    "accomplishments": [
+        "1982-83 blk champ",
+        "2x all-defensive"
+    ],
+    "career_summary": {
+        "G": "1156",
+        "PTS": "5.4",
+        "TRB": "5.8",
+        "AST": "0.6",
+        "FG%": "52.2",
+        "FG3%": "0.0",
+        "FT%": "70.0",
+        "eFG%": "52.2",
+        "PER": "13.6",
+        "WS": "63.9"
+    }
+}

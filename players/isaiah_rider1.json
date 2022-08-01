@@ -1,0 +1,32 @@
+{
+    "name": "Isaiah Rider Jr.",
+    "nicknames": [
+        "J.R."
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "215",
+    "birthday": "march 12, 1971",
+    "birthplace": "oakland, california US",
+    "college": "unlv",
+    "high school": " encinal in alameda, california",
+    "draft": "minnesota timberwolves, 1st round (5th pick, 5th overall), 1993 nba draft",
+    "debut": "november 5, 1993",
+    "accomplishments": [
+        "2001 nba champ",
+        "1993-94 all-rookie"
+    ],
+    "career_summary": {
+        "G": "563",
+        "PTS": "16.7",
+        "TRB": "3.8",
+        "AST": "2.7",
+        "FG%": "44.3",
+        "FG3%": "35.2",
+        "FT%": "81.2",
+        "eFG%": "48.4",
+        "PER": "14.7",
+        "WS": "22.8"
+    }
+}

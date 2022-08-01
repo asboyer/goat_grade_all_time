@@ -1,0 +1,39 @@
+{
+    "name": "Zelmo Beaty Jr.",
+    "nicknames": [
+        "Big Z",
+        "Z",
+        "The Franchise"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "october 25, 1939",
+    "birthplace": "hillister, texas US",
+    "died": "august 27, 2013",
+    "college": "prairie view a&m university",
+    "high school": " woodville in woodville, texas",
+    "draft": "st. louis hawks, 1st round (3rd pick, 3rd overall), 1962 nba draft",
+    "debut": "october 20, 1962 &blacksquare aba debut",
+    "accomplishments": [
+        "hall of fame",
+        "5x all star",
+        "1971 aba champ",
+        "1962-63 all-rookie",
+        "2x all-aba",
+        "aba all-time team"
+    ],
+    "career_summary": {
+        "G": "889",
+        "PTS": "17.1",
+        "TRB": "10.9",
+        "AST": "1.5",
+        "FG%": "49.4",
+        "FG3%": "15.4",
+        "FT%": "77.1",
+        "eFG%": "49.4",
+        "PER": "18.7",
+        "WS": "106.0"
+    }
+}

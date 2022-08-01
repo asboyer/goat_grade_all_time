@@ -1,0 +1,27 @@
+{
+    "name": "John Joseph McCarthy",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "185",
+    "birthday": "april 25, 1934",
+    "birthplace": "buffalo, new york US",
+    "died": "april 9, 2020",
+    "college": "canisius",
+    "high school": " bishop timon in buffalo, new york",
+    "draft": "rochester royals, 4th round (1st pick, 25th overall), 1956 nba draft",
+    "debut": "october 27, 1956",
+    "accomplishments": [
+        "1964 nba champ"
+    ],
+    "career_summary": {
+        "G": "316",
+        "PTS": "7.8",
+        "TRB": "3.6",
+        "AST": "3.7",
+        "FG%": "35.3",
+        "FT%": "62.2",
+        "PER": "8.8",
+        "WS": "4.7"
+    }
+}

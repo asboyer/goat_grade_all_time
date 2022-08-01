@@ -1,0 +1,30 @@
+{
+    "name": "Charles Edward Share",
+    "nicknames": [
+        "Charlie"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "235",
+    "birthday": "march 14, 1927",
+    "birthplace": "akron, ohio US",
+    "died": "june 7, 2012",
+    "college": "bowling green",
+    "high school": " western hills in cincinnati, ohio",
+    "draft": "boston celtics, 1st round (1st pick, 1st overall), 1950 nba draft",
+    "debut": "november 1, 1951",
+    "accomplishments": [
+        "1958 nba champ"
+    ],
+    "career_summary": {
+        "G": "596",
+        "PTS": "8.3",
+        "TRB": "8.4",
+        "AST": "1.4",
+        "FG%": "40.0",
+        "FT%": "69.3",
+        "PER": "17.7",
+        "WS": "42.0"
+    }
+}

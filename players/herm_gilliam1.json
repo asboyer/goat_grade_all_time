@@ -1,0 +1,30 @@
+{
+    "name": "Herman L. Gilliam Jr.",
+    "nicknames": [
+        "The Trickster"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "may 5, 1946",
+    "birthplace": "winston-salem, north carolina US",
+    "died": "april 16, 2005",
+    "college": "purdue",
+    "high school": " atkins in winston-salem, north carolina",
+    "draft": "chicago bulls, 13th round (3rd pick, 163rd overall), 1968 nba draft, and cincinnati royals, 1st round (8th pick, 8th overall), 1969 nba draft",
+    "debut": "october 15, 1969",
+    "accomplishments": [
+        "1977 nba champ"
+    ],
+    "career_summary": {
+        "G": "578",
+        "PTS": "10.8",
+        "TRB": "3.8",
+        "AST": "3.8",
+        "FG%": "44.1",
+        "FT%": "79.2",
+        "PER": "13.8",
+        "WS": "20.8"
+    }
+}

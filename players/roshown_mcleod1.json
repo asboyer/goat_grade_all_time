@@ -1,0 +1,28 @@
+{
+    "name": "Roshown McLeod",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "221",
+    "birthday": "november 17, 1975",
+    "birthplace": "jersey city, new jersey US",
+    "colleges": [
+        "st. john's",
+        "duke"
+    ],
+    "high school": " st. anthony in jersey city, new jersey",
+    "draft": "atlanta hawks, 1st round (20th pick, 20th overall), 1998 nba draft",
+    "debut": "february 11, 1999",
+    "career_summary": {
+        "G": "113",
+        "PTS": "7.2",
+        "TRB": "2.7",
+        "AST": "1.1",
+        "FG%": "40.9",
+        "FG3%": "11.1",
+        "FT%": "81.9",
+        "eFG%": "41.2",
+        "PER": "10.1",
+        "WS": "0.2"
+    }
+}

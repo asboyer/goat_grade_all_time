@@ -1,0 +1,32 @@
+{
+    "name": "Michael Ray McGee",
+    "nicknames": [
+        "Geeter",
+        "The Offensive Machine"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "190",
+    "birthday": "july 29, 1959",
+    "birthplace": "tyler, texas US",
+    "college": "michigan",
+    "high school": " omaha north in omaha, nebraska",
+    "draft": "los angeles lakers, 1st round (19th pick, 19th overall), 1981 nba draft",
+    "debut": "november 3, 1981",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "520",
+        "PTS": "9.6",
+        "TRB": "2.1",
+        "AST": "1.2",
+        "FG%": "48.7",
+        "FG3%": "35.4",
+        "FT%": "59.7",
+        "eFG%": "52.3",
+        "PER": "14.0",
+        "WS": "15.1"
+    }
+}

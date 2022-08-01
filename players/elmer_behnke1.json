@@ -1,0 +1,24 @@
+{
+    "name": "Elmer Herman Behnke",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "210",
+    "birthday": "february 3, 1929",
+    "birthplace": "elgin, illinois US",
+    "died": "may 25, 2018",
+    "college": "bradley",
+    "high school": " marengo in marengo, illinois",
+    "draft": "rochester royals, 4th round (8th pick, 38th overall), 1951 nba draft",
+    "debut": "november 3, 1951",
+    "career_summary": {
+        "G": "4",
+        "PTS": "4.0",
+        "TRB": "4.3",
+        "AST": "1.0",
+        "FG%": "27.3",
+        "FT%": "57.1",
+        "PER": "7.8",
+        "WS": "-0.1"
+    }
+}

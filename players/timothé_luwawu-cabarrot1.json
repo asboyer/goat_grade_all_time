@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Timothé Luwawu-Cabarrot"
+    ],
+    "twitter": "timcabs",
+    "instagram": "7tlc",
+    "nicknames": [
+        "Timo",
+        "TLC"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "may 9, 1995",
+    "birthplace": "cannes, france FR",
+    "draft": "philadelphia 76ers, 1st round (24th pick, 24th overall), 2016 nba draft",
+    "debut": "october 29, 2016",
+    "career_summary": {
+        "G": "328",
+        "PTS": "5.9",
+        "TRB": "2.0",
+        "AST": "0.9",
+        "FG%": "39.1",
+        "FG3%": "33.5",
+        "FT%": "82.9",
+        "eFG%": "48.8",
+        "PER": "8.6",
+        "WS": "4.7"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Clinton Renard Moore",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "225",
+    "birthday": "november 4, 1975",
+    "birthplace": "orangeburg, south carolina US",
+    "college": "nebraska",
+    "high school": " blacksburg in blacksburg, south carolina",
+    "debut": "february 16, 1999",
+    "career_summary": {
+        "G": "564",
+        "PTS": "5.8",
+        "TRB": "3.9",
+        "AST": "0.7",
+        "FG%": "55.1",
+        "FG3%": "15.4",
+        "FT%": "74.3",
+        "eFG%": "55.1",
+        "PER": "12.5",
+        "WS": "22.5"
+    }
+}

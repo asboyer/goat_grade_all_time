@@ -1,0 +1,25 @@
+{
+    "name": "Sidney Rochell Lowe",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "195",
+    "birthday": "january 21, 1960",
+    "birthplace": "washington, district of columbia US",
+    "college": "nc state",
+    "high school": " dematha catholic in hyattsville, maryland",
+    "draft": "chicago bulls, 2nd round (1st pick, 25th overall), 1983 nba draft",
+    "debut": "october 28, 1983",
+    "career_summary": {
+        "G": "193",
+        "PTS": "2.9",
+        "TRB": "1.7",
+        "AST": "3.9",
+        "FG%": "36.7",
+        "FG3%": "13.3",
+        "FT%": "76.4",
+        "eFG%": "37.0",
+        "PER": "10.4",
+        "WS": "3.9"
+    }
+}

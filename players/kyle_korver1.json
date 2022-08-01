@@ -1,0 +1,37 @@
+{
+    "name": [
+        "Kyle Elliot Korver"
+    ],
+    "twitter": "KyleKorver",
+    "instagram": "kkorv26",
+    "nicknames": [
+        "Threezus",
+        "Machine Gun",
+        "Hot Sauce"
+    ],
+    "position": "shooting guard, small forward, and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "212",
+    "birthday": "march 17, 1981",
+    "birthplace": "lakewood, california US",
+    "college": "creighton",
+    "high school": " pella in pella, iowa",
+    "draft": "new jersey nets, 2nd round (22nd pick, 51st overall), 2003 nba draft",
+    "debut": "october 28, 2003",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "1232",
+        "PTS": "9.7",
+        "TRB": "3.0",
+        "AST": "1.7",
+        "FG%": "44.2",
+        "FG3%": "42.9",
+        "FT%": "87.7",
+        "eFG%": "57.4",
+        "PER": "12.8",
+        "WS": "73.4"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Adreian DeAngleo Payne"
+    ],
+    "twitter": "Adreian_Payne",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "237",
+    "birthday": "february 19, 1991",
+    "birthplace": "dayton, ohio US",
+    "died": "may 9, 2022",
+    "college": "michigan state",
+    "high school": " jefferson township in dayton, ohio",
+    "draft": "atlanta hawks, 1st round (15th pick, 15th overall), 2014 nba draft",
+    "debut": "december 26, 2014",
+    "career_summary": {
+        "G": "107",
+        "PTS": "4.0",
+        "TRB": "2.9",
+        "AST": "0.6",
+        "FG%": "40.6",
+        "FG3%": "25.4",
+        "FT%": "68.0",
+        "eFG%": "42.3",
+        "PER": "8.0",
+        "WS": "-0.6"
+    }
+}

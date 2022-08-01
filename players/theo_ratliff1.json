@@ -1,0 +1,33 @@
+{
+    "name": [
+        "Theophalus Curtis Ratliff"
+    ],
+    "twitter": "shotblocker42",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "225",
+    "birthday": "april 17, 1973",
+    "birthplace": "demopolis, alabama US",
+    "college": "wyoming",
+    "high school": " demopolis in demopolis, alabama",
+    "draft": "detroit pistons, 1st round (18th pick, 18th overall), 1995 nba draft",
+    "debut": "november 3, 1995",
+    "accomplishments": [
+        "1x all star",
+        "3x blk champ",
+        "2x all-defensive"
+    ],
+    "career_summary": {
+        "G": "810",
+        "PTS": "7.2",
+        "TRB": "5.7",
+        "AST": "0.6",
+        "FG%": "49.6",
+        "FG3%": "0.0",
+        "FT%": "71.0",
+        "eFG%": "49.6",
+        "PER": "14.3",
+        "WS": "47.9"
+    }
+}

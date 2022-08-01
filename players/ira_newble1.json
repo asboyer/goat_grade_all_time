@@ -1,0 +1,24 @@
+{
+    "name": "Ira Reynolds Newble II",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "january 20, 1975",
+    "birthplace": "southfield, michigan US",
+    "college": "miami university",
+    "high school": " southfield in southfield, michigan",
+    "debut": "november 22, 2000",
+    "career_summary": {
+        "G": "380",
+        "PTS": "5.1",
+        "TRB": "2.9",
+        "AST": "0.9",
+        "FG%": "44.6",
+        "FG3%": "34.1",
+        "FT%": "77.8",
+        "eFG%": "47.0",
+        "PER": "9.6",
+        "WS": "9.3"
+    }
+}

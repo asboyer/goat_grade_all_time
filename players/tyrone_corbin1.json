@@ -1,0 +1,29 @@
+{
+    "name": "Tyrone Kennedy Corbin",
+    "nicknames": [
+        "Ty",
+        "The Milkman"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "210",
+    "birthday": "december 31, 1962",
+    "birthplace": "columbia, south carolina US",
+    "college": "depaul",
+    "high school": " a.c. flora in columbia, south carolina",
+    "draft": "san antonio spurs, 2nd round (11th pick, 35th overall), 1985 nba draft",
+    "debut": "november 14, 1985",
+    "career_summary": {
+        "G": "1065",
+        "PTS": "9.2",
+        "TRB": "4.7",
+        "AST": "1.8",
+        "FG%": "45.6",
+        "FG3%": "29.9",
+        "FT%": "79.1",
+        "eFG%": "46.8",
+        "PER": "13.1",
+        "WS": "56.5"
+    }
+}

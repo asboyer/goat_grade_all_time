@@ -1,0 +1,31 @@
+{
+    "name": "Johnny Reginald Davis",
+    "nicknames": [
+        "J.D."
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "170",
+    "birthday": "october 21, 1955",
+    "birthplace": "detroit, michigan US",
+    "college": "dayton",
+    "high school": " murray-wright in detroit, michigan",
+    "draft": "portland trail blazers, 2nd round (5th pick, 22nd overall), 1976 nba draft",
+    "debut": "october 23, 1976",
+    "accomplishments": [
+        "1977 nba champ"
+    ],
+    "career_summary": {
+        "G": "750",
+        "PTS": "12.9",
+        "TRB": "2.0",
+        "AST": "4.5",
+        "FG%": "44.8",
+        "FG3%": "17.6",
+        "FT%": "82.1",
+        "eFG%": "45.0",
+        "PER": "14.3",
+        "WS": "38.5"
+    }
+}

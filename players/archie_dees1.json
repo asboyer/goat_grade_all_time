@@ -1,0 +1,24 @@
+{
+    "name": "Archie William Dees",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "february 22, 1936",
+    "birthplace": "ethel, mississippi US",
+    "died": "april 4, 2016",
+    "college": "indiana",
+    "high school": " mount carmel in mount carmel, illinois",
+    "draft": "cincinnati royals, 1st round (2nd pick, 2nd overall), 1958 nba draft",
+    "debut": "october 22, 1958",
+    "career_summary": {
+        "G": "190",
+        "PTS": "8.1",
+        "TRB": "4.8",
+        "AST": "0.7",
+        "FG%": "40.2",
+        "FT%": "79.4",
+        "PER": "15.1",
+        "WS": "5.4"
+    }
+}

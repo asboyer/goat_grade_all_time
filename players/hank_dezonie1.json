@@ -1,0 +1,22 @@
+{
+    "name": "Henry Lincoln DeZonie",
+    "position": "center/forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "215",
+    "birthday": "february 12, 1922",
+    "birthplace": "new york, new york US",
+    "died": "january 2, 2009",
+    "college": "clark atlanta university",
+    "debut": "december 3, 1950",
+    "career_summary": {
+        "G": "5",
+        "PTS": "3.4",
+        "TRB": "3.6",
+        "AST": "1.8",
+        "FG%": "24.0",
+        "FT%": "71.4",
+        "PER": "-",
+        "WS": "-0.1"
+    }
+}

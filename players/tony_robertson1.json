@@ -1,0 +1,22 @@
+{
+    "name": "Darryl Robertson",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "195",
+    "birthday": "january 1, 1956",
+    "birthplace": "detroit, michigan US",
+    "college": "west virginia",
+    "draft": "los angeles lakers, 4th round (22nd pick, 88th overall), 1977 nba draft",
+    "debut": "november 10, 1977",
+    "career_summary": {
+        "G": "75",
+        "PTS": "5.5",
+        "TRB": "1.1",
+        "AST": "1.4",
+        "FG%": "43.5",
+        "FT%": "69.4",
+        "PER": "10.6",
+        "WS": "0.4"
+    }
+}

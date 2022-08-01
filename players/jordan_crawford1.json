@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Joseph Reshard Crawford III"
+    ],
+    "twitter": "JoeCrawford5",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "june 17, 1986",
+    "birthplace": "detroit, michigan US",
+    "college": "kentucky",
+    "high school": " renaissance in detroit, michigan",
+    "draft": "los angeles lakers, 2nd round (28th pick, 58th overall), 2008 nba draft",
+    "debut": "april 8, 2009",
+    "career_summary": {
+        "G": "2",
+        "PTS": "4.5",
+        "TRB": "2.0",
+        "AST": "0.5",
+        "FG%": "30.0",
+        "FG3%": "25.0",
+        "FT%": "100.0",
+        "eFG%": "35.0",
+        "PER": "10.8",
+        "WS": "0.0"
+    }
+}

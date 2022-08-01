@@ -1,0 +1,24 @@
+{
+    "name": "Phillip Roger Martin",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "april 2, 1928",
+    "birthplace": "jackson, michigan US",
+    "died": "june 24, 2008",
+    "college": "toledo",
+    "high school": " jackson in jackson, michigan",
+    "draft": "milwaukee hawks, 4th round (2nd pick, 29th overall), 1954 nba draft",
+    "debut": "october 30, 1954",
+    "career_summary": {
+        "G": "7",
+        "PTS": "1.7",
+        "TRB": "1.4",
+        "AST": "0.9",
+        "FG%": "26.3",
+        "FT%": "100.0",
+        "PER": "6.8",
+        "WS": "-0.1"
+    }
+}

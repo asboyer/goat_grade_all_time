@@ -1,0 +1,25 @@
+{
+    "name": "Steven Sherburne Hawes",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "220",
+    "birthday": "may 26, 1950",
+    "birthplace": "seattle, washington US",
+    "college": "washington",
+    "high school": " mercer island in mercer island, washington",
+    "draft": "cleveland cavaliers, 2nd round (11th pick, 24th overall), 1972 nba draft",
+    "debut": "october 18, 1974",
+    "career_summary": {
+        "G": "688",
+        "PTS": "8.4",
+        "TRB": "6.2",
+        "AST": "1.9",
+        "FG%": "48.3",
+        "FG3%": "29.8",
+        "FT%": "79.0",
+        "eFG%": "48.5",
+        "PER": "14.3",
+        "WS": "37.1"
+    }
+}

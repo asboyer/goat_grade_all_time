@@ -1,0 +1,43 @@
+{
+    "name": [
+        "Dwight David Howard"
+    ],
+    "twitter": "DwightHoward",
+    "instagram": "dwighthoward",
+    "nicknames": [
+        "Superman",
+        "D12",
+        "The Daily Double"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "265",
+    "birthday": "december 8, 1985",
+    "birthplace": "atlanta, georgia US",
+    "high school": " southwest atlanta christian academy in atlanta, georgia",
+    "draft": "orlando magic, 1st round (1st pick, 1st overall), 2004 nba draft",
+    "debut": "november 3, 2004",
+    "accomplishments": [
+        "8x all star",
+        "5x trb champ",
+        "2x blk champ",
+        "2020 nba champ",
+        "8x all-nba",
+        "2004-05 all-rookie",
+        "5x all-defensive",
+        "3x def. poy"
+    ],
+    "career_summary": {
+        "G": "1242",
+        "PTS": "15.7",
+        "TRB": "11.8",
+        "AST": "1.3",
+        "FG%": "58.7",
+        "FG3%": "21.4",
+        "FT%": "56.7",
+        "eFG%": "58.8",
+        "PER": "21.3",
+        "WS": "141.7"
+    }
+}

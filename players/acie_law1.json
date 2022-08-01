@@ -1,0 +1,28 @@
+{
+    "name": "Acie Law IV",
+    "nicknames": [
+        "Captain Clutch"
+    ],
+    "position": "point guard",
+    "shooting_hand": "left",
+    "height": "6-3",
+    "weight": "195",
+    "birthday": "january 25, 1985",
+    "birthplace": "dallas, texas US",
+    "college": "texas a&m",
+    "high school": " justin f. kimball in dallas, texas",
+    "draft": "atlanta hawks, 1st round (11th pick, 11th overall), 2007 nba draft",
+    "debut": "november 2, 2007",
+    "career_summary": {
+        "G": "188",
+        "PTS": "3.9",
+        "TRB": "1.0",
+        "AST": "1.6",
+        "FG%": "41.3",
+        "FG3%": "23.5",
+        "FT%": "77.8",
+        "eFG%": "43.4",
+        "PER": "9.9",
+        "WS": "1.6"
+    }
+}

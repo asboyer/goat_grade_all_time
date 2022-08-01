@@ -1,0 +1,25 @@
+{
+    "name": "Pace Shewan Mannion",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "190",
+    "birthday": "september 22, 1960",
+    "birthplace": "salt lake city, utah US",
+    "college": "utah",
+    "high school": " chaparral in las vegas, nevada",
+    "draft": "golden state warriors, 2nd round (19th pick, 43rd overall), 1983 nba draft",
+    "debut": "october 28, 1983",
+    "career_summary": {
+        "G": "216",
+        "PTS": "3.1",
+        "TRB": "1.2",
+        "AST": "1.1",
+        "FG%": "41.3",
+        "FG3%": "20.3",
+        "FT%": "66.3",
+        "eFG%": "42.5",
+        "PER": "9.4",
+        "WS": "1.7"
+    }
+}

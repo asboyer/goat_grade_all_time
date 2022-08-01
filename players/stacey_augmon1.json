@@ -1,0 +1,31 @@
+{
+    "name": "Stacey Orlando Augmon",
+    "nicknames": [
+        "The Plastic Man"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "left",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "august 1, 1968",
+    "birthplace": "pasadena, california US",
+    "college": "unlv",
+    "high school": " john muir in pasadena, california",
+    "draft": "atlanta hawks, 1st round (9th pick, 9th overall), 1991 nba draft",
+    "debut": "november 2, 1991",
+    "accomplishments": [
+        "1991-92 all-rookie"
+    ],
+    "career_summary": {
+        "G": "1001",
+        "PTS": "8.0",
+        "TRB": "3.2",
+        "AST": "1.6",
+        "FG%": "46.9",
+        "FG3%": "15.2",
+        "FT%": "72.8",
+        "eFG%": "47.0",
+        "PER": "13.7",
+        "WS": "43.8"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Joel Craig Ehlo",
+    "nicknames": [
+        "Eggs",
+        "Mr. Everything"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "180",
+    "birthday": "august 11, 1961",
+    "birthplace": "lubbock, texas US",
+    "college": "washington state",
+    "high school": " monterey in lubbock, texas",
+    "draft": "houston rockets, 3rd round (1st pick, 48th overall), 1983 nba draft",
+    "debut": "april 2, 1984",
+    "career_summary": {
+        "G": "873",
+        "PTS": "8.6",
+        "TRB": "3.6",
+        "AST": "2.8",
+        "FG%": "45.3",
+        "FG3%": "36.9",
+        "FT%": "68.9",
+        "eFG%": "50.0",
+        "PER": "13.4",
+        "WS": "41.2"
+    }
+}

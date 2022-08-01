@@ -1,0 +1,30 @@
+{
+    "name": "Paul Theron Silas",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "july 12, 1943",
+    "birthplace": "prescott, arkansas US",
+    "college": "creighton",
+    "high school": " mcclymonds in oakland, california",
+    "draft": "st. louis hawks, 2nd round (3rd pick, 12th overall), 1964 nba draft",
+    "debut": "october 17, 1964",
+    "accomplishments": [
+        "2x all star",
+        "3x nba champ",
+        "5x all-defensive"
+    ],
+    "career_summary": {
+        "G": "1254",
+        "PTS": "9.4",
+        "TRB": "9.9",
+        "AST": "2.1",
+        "FG%": "43.2",
+        "FG3%": "-",
+        "FT%": "67.3",
+        "eFG%": "43.2",
+        "PER": "13.9",
+        "WS": "79.9"
+    }
+}

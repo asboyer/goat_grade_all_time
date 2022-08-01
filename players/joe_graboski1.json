@@ -1,0 +1,26 @@
+{
+    "name": "Joseph W. Graboski",
+    "nicknames": [
+        "Grabbo"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "195",
+    "birthday": "january 15, 1930",
+    "died": "july 2, 1998",
+    "high school": " tuley in chicago, illinois",
+    "accomplishments": [
+        "1956 nba champ"
+    ],
+    "career_summary": {
+        "G": "845",
+        "PTS": "11.0",
+        "TRB": "8.1",
+        "AST": "1.8",
+        "FG%": "35.2",
+        "FT%": "70.0",
+        "PER": "13.8",
+        "WS": "25.3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "William Holzman",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "175",
+    "birthday": "august 10, 1920",
+    "birthplace": "brooklyn, new york US",
+    "died": "november 13, 1998",
+    "college": "city college of new york",
+    "high school": " franklin k. lane in brooklyn, new york",
+    "debut": "november 6, 1948",
+    "accomplishments": [
+        "hall of fame",
+        "1951 nba champ"
+    ],
+    "career_summary": {
+        "G": "358",
+        "PTS": "6.1",
+        "TRB": "1.5",
+        "AST": "2.0",
+        "FG%": "31.7",
+        "FT%": "68.2",
+        "PER": "7.3",
+        "WS": "1.8"
+    }
+}

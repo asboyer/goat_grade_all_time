@@ -1,0 +1,28 @@
+{
+    "name": "Alan Lybrooks Henderson",
+    "position": "power forward, center, and small forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "december 2, 1972",
+    "birthplace": "indianapolis, indiana US",
+    "college": "indiana",
+    "high school": " brebeuf jesuit in indianapolis, indiana",
+    "draft": "atlanta hawks, 1st round (16th pick, 16th overall), 1995 nba draft",
+    "debut": "november 3, 1995",
+    "accomplishments": [
+        "1997-98 most improved"
+    ],
+    "career_summary": {
+        "G": "652",
+        "PTS": "7.8",
+        "TRB": "5.0",
+        "AST": "0.6",
+        "FG%": "46.9",
+        "FG3%": "19.2",
+        "FT%": "63.9",
+        "eFG%": "46.9",
+        "PER": "14.5",
+        "WS": "28.0"
+    }
+}

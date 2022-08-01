@@ -1,0 +1,24 @@
+{
+    "name": "Thomas Wayne Hovasse",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "january 31, 1967",
+    "birthplace": "durango, colorado US",
+    "college": "penn state",
+    "high school": " widefield in security-widefield, colorado",
+    "debut": "november 4, 1994",
+    "career_summary": {
+        "G": "2",
+        "PTS": "0.0",
+        "TRB": "0.0",
+        "AST": "0.0",
+        "FG%": "0.0",
+        "FG3%": "0.0",
+        "FT%": "-",
+        "eFG%": "0.0",
+        "PER": "0.2",
+        "WS": "0.0"
+    }
+}

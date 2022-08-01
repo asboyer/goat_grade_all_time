@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Montreace Grundy",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "april 15, 1979",
+    "birthplace": "louisville, kentucky US",
+    "died": "november 14, 2019",
+    "college": "nc state",
+    "high school": " warren central in bowling green, kentucky",
+    "debut": "march 29, 2006",
+    "career_summary": {
+        "G": "12",
+        "PTS": "4.3",
+        "TRB": "1.4",
+        "AST": "0.8",
+        "FG%": "50.0",
+        "FG3%": "33.3",
+        "FT%": "64.3",
+        "eFG%": "56.6",
+        "PER": "16.6",
+        "WS": "0.2"
+    }
+}

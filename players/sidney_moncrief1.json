@@ -1,0 +1,38 @@
+{
+    "name": "Sidney Alvin Moncrief",
+    "nicknames": [
+        "Sid",
+        "The Squid",
+        "Sir Sid",
+        "El Sid"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "180",
+    "birthday": "september 21, 1957",
+    "birthplace": "little rock, arkansas US",
+    "college": "arkansas",
+    "high school": " hall in little rock, arkansas",
+    "draft": "milwaukee bucks, 1st round (5th pick, 5th overall), 1979 nba draft",
+    "debut": "october 12, 1979",
+    "accomplishments": [
+        "hall of fame",
+        "5x all star",
+        "5x all-nba",
+        "5x all-defensive",
+        "2x def. poy"
+    ],
+    "career_summary": {
+        "G": "767",
+        "PTS": "15.6",
+        "TRB": "4.7",
+        "AST": "3.6",
+        "FG%": "50.2",
+        "FG3%": "28.4",
+        "FT%": "83.1",
+        "eFG%": "50.9",
+        "PER": "18.7",
+        "WS": "90.3"
+    }
+}

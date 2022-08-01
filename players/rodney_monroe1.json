@@ -1,0 +1,28 @@
+{
+    "name": "Rodney Eugene Monroe",
+    "nicknames": [
+        "Ice"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "april 16, 1968",
+    "birthplace": "baltimore, maryland US",
+    "college": "nc state",
+    "high school": " saint maria goretti in hagerstown, maryland",
+    "draft": "atlanta hawks, 2nd round (3rd pick, 30th overall), 1991 nba draft",
+    "debut": "november 6, 1991",
+    "career_summary": {
+        "G": "38",
+        "PTS": "3.4",
+        "TRB": "0.9",
+        "AST": "0.7",
+        "FG%": "36.8",
+        "FG3%": "22.2",
+        "FT%": "82.6",
+        "eFG%": "38.9",
+        "PER": "8.8",
+        "WS": "-0.2"
+    }
+}

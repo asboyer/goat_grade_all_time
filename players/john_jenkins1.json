@@ -1,0 +1,32 @@
+{
+    "name": [
+        "John Logan Jenkins III"
+    ],
+    "twitter": "JohnnyCashVU23",
+    "instagram": "johnnycash_12",
+    "nicknames": [
+        "Johnny J"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "215",
+    "birthday": "march 6, 1991",
+    "birthplace": "nashville, tennessee US",
+    "college": "vanderbilt",
+    "high school": " station camp in gallatin, tennessee",
+    "draft": "atlanta hawks, 1st round (23rd pick, 23rd overall), 2012 nba draft",
+    "debut": "november 11, 2012",
+    "career_summary": {
+        "G": "171",
+        "PTS": "5.0",
+        "TRB": "1.5",
+        "AST": "0.8",
+        "FG%": "44.1",
+        "FG3%": "36.7",
+        "FT%": "84.7",
+        "eFG%": "52.4",
+        "PER": "11.7",
+        "WS": "3.0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "John Howard Getty Johnson",
+    "nicknames": [
+        "J.J."
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "200",
+    "birthday": "october 18, 1947",
+    "birthplace": "carthage, mississippi US",
+    "died": "january 7, 2016",
+    "college": "iowa",
+    "high school": " messmer in milwaukee, wisconsin",
+    "draft": "cleveland cavaliers, 1st round (7th pick, 7th overall), 1970 nba draft",
+    "debut": "october 14, 1970",
+    "accomplishments": [
+        "2x all star",
+        "1979 nba champ"
+    ],
+    "career_summary": {
+        "G": "869",
+        "PTS": "12.9",
+        "TRB": "5.5",
+        "AST": "3.8",
+        "FG%": "44.6",
+        "FG3%": "0.0",
+        "FT%": "77.9",
+        "eFG%": "44.6",
+        "PER": "14.1",
+        "WS": "37.1"
+    }
+}

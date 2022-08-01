@@ -1,0 +1,27 @@
+{
+    "name": [
+        "Malcolm Hakeem Delaney"
+    ],
+    "twitter": "foe23",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "march 11, 1989",
+    "birthplace": "baltimore, maryland US",
+    "college": "virginia tech",
+    "high school": " towson catholic in towson, maryland",
+    "debut": "october 27, 2016",
+    "career_summary": {
+        "G": "127",
+        "PTS": "5.7",
+        "TRB": "1.8",
+        "AST": "2.8",
+        "FG%": "37.7",
+        "FG3%": "30.8",
+        "FT%": "80.5",
+        "eFG%": "43.1",
+        "PER": "8.9",
+        "WS": "1.1"
+    }
+}

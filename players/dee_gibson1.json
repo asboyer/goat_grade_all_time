@@ -1,0 +1,27 @@
+{
+    "name": "Robert Dee Gibson Jr.",
+    "nicknames": [
+        "Gibby"
+    ],
+    "position": "forward/guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "175",
+    "birthday": "august 25, 1923",
+    "birthplace": "cleveland, tennessee US",
+    "died": "april 8, 2003",
+    "college": "western kentucky",
+    "high school": " bradley in cleveland, tennessee",
+    "draft": "minneapolis lakers, 5th round, 1948 baa draft",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "44",
+        "PTS": "6.4",
+        "TRB": "-",
+        "AST": "2.9",
+        "FG%": "31.4",
+        "FT%": "71.8",
+        "PER": "-",
+        "WS": "2.7"
+    }
+}

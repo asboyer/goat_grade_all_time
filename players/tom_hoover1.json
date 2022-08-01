@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Lee Hoover Jr.",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "230",
+    "birthday": "january 23, 1941",
+    "birthplace": "washington, district of columbia US",
+    "college": "villanova",
+    "high school": " archbishop carroll in washington, district of columbia",
+    "draft": "philadelphia 76ers, 1st round (7th pick, 7th overall), 1963 nba draft",
+    "debut": "october 29, 1963 &blacksquare aba debut",
+    "career_summary": {
+        "G": "223",
+        "PTS": "5.9",
+        "TRB": "6.2",
+        "AST": "1.1",
+        "FG%": "44.7",
+        "FG3%": "33.3",
+        "FT%": "62.6",
+        "eFG%": "44.8",
+        "PER": "10.2",
+        "WS": "7.6"
+    }
+}

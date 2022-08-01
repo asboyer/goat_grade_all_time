@@ -1,0 +1,26 @@
+{
+    "name": "Bob Christian",
+    "nicknames": [
+        "Bobby"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "255",
+    "birthday": "may 11, 1946",
+    "college": "grambling state university",
+    "draft": "atlanta hawks, 8th round (10th pick, 109th overall), 1969 nba draft",
+    "debut": "october 21, 1970 &blacksquare aba debut",
+    "career_summary": {
+        "G": "248",
+        "PTS": "3.8",
+        "TRB": "4.1",
+        "AST": "0.8",
+        "FG%": "48.5",
+        "FG3%": "-",
+        "FT%": "70.4",
+        "eFG%": "48.5",
+        "PER": "12.3",
+        "WS": "5.7"
+    }
+}

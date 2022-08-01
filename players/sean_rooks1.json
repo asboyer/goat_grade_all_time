@@ -1,0 +1,29 @@
+{
+    "name": "Sean Lester Rooks",
+    "nicknames": [
+        "Wookie"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "250",
+    "birthday": "september 9, 1969",
+    "birthplace": "new york, new york US",
+    "died": "june 7, 2016",
+    "college": "arizona",
+    "high school": " fontana in fontana, california",
+    "draft": "dallas mavericks, 2nd round (3rd pick, 30th overall), 1992 nba draft",
+    "debut": "november 7, 1992",
+    "career_summary": {
+        "G": "749",
+        "PTS": "6.2",
+        "TRB": "3.8",
+        "AST": "0.8",
+        "FG%": "45.9",
+        "FG3%": "9.1",
+        "FT%": "69.9",
+        "eFG%": "45.9",
+        "PER": "12.0",
+        "WS": "16.2"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": [
+        "James Arthur Jackson"
+    ],
+    "twitter": "jimjackson419",
+    "nicknames": [
+        "Jimmy"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "october 14, 1970",
+    "birthplace": "toledo, ohio US",
+    "college": "ohio state",
+    "high school": " macomber-whitney in toledo, ohio",
+    "draft": "dallas mavericks, 1st round (4th pick, 4th overall), 1992 nba draft",
+    "debut": "march 5, 1993",
+    "career_summary": {
+        "G": "885",
+        "PTS": "14.3",
+        "TRB": "4.7",
+        "AST": "3.2",
+        "FG%": "42.8",
+        "FG3%": "36.5",
+        "FT%": "82.5",
+        "eFG%": "46.7",
+        "PER": "13.5",
+        "WS": "35.8"
+    }
+}

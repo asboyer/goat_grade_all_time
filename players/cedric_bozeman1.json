@@ -1,0 +1,27 @@
+{
+    "name": "Cedric R. Bozeman",
+    "nicknames": [
+        "Ced"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "207",
+    "birthday": "march 7, 1983",
+    "birthplace": "los angeles, california US",
+    "college": "ucla",
+    "high school": " mater dei in santa ana, california",
+    "debut": "november 1, 2006",
+    "career_summary": {
+        "G": "23",
+        "PTS": "1.1",
+        "TRB": "1.0",
+        "AST": "0.4",
+        "FG%": "28.2",
+        "FG3%": "15.4",
+        "FT%": "33.3",
+        "eFG%": "30.8",
+        "PER": "-0.1",
+        "WS": "-0.3"
+    }
+}

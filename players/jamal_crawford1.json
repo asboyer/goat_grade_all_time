@@ -1,0 +1,35 @@
+{
+    "name": [
+        "Aaron Jamal Crawford"
+    ],
+    "twitter": "JCrossover",
+    "instagram": "jamalcrossover",
+    "nicknames": [
+        "JC"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "185",
+    "birthday": "march 20, 1980",
+    "birthplace": "seattle, washington US",
+    "college": "michigan",
+    "high school": " rainier beach in seattle, washington",
+    "draft": "cleveland cavaliers, 1st round (8th pick, 8th overall), 2000 nba draft",
+    "debut": "october 31, 2000",
+    "accomplishments": [
+        "3x sixth man"
+    ],
+    "career_summary": {
+        "G": "1327",
+        "PTS": "14.6",
+        "TRB": "2.2",
+        "AST": "3.4",
+        "FG%": "41.0",
+        "FG3%": "34.8",
+        "FT%": "86.2",
+        "eFG%": "47.7",
+        "PER": "15.1",
+        "WS": "60.7"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Sharife Omar Cooper"
+    ],
+    "twitter": "SharifeCooper",
+    "instagram": "sharife.cooper",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "june 11, 2001",
+    "birthplace": "newark, new jersey US",
+    "college": "auburn",
+    "high school": " mceachern in powder springs, georgia",
+    "draft": "atlanta hawks, 2nd round (18th pick, 48th overall), 2021 nba draft",
+    "debut": "october 21, 2021",
+    "career_summary": {
+        "G": "13",
+        "PTS": "0.5",
+        "TRB": "0.4",
+        "AST": "0.4",
+        "FG%": "21.4",
+        "FG3%": "16.7",
+        "FT%": "-",
+        "eFG%": "25.0",
+        "PER": "-5.4",
+        "WS": "-0.2"
+    }
+}

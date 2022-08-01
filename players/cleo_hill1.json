@@ -1,0 +1,27 @@
+{
+    "name": "Cleo Hill",
+    "nicknames": [
+        "Machine Gun"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "185",
+    "birthday": "may 24, 1938",
+    "birthplace": "newark, new jersey US",
+    "died": "august 10, 2015",
+    "college": "winston-salem state",
+    "high school": " south side in newark, new jersey",
+    "draft": "st. louis hawks, 1st round (8th pick, 8th overall), 1961 nba draft",
+    "debut": "october 21, 1961",
+    "career_summary": {
+        "G": "58",
+        "PTS": "5.5",
+        "TRB": "3.1",
+        "AST": "2.0",
+        "FG%": "34.6",
+        "FT%": "77.4",
+        "PER": "9.2",
+        "WS": "0.3"
+    }
+}

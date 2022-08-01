@@ -1,0 +1,25 @@
+{
+    "name": "James Charles McElroy Jr.",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "october 4, 1953",
+    "birthplace": "cotton plant, arkansas US",
+    "college": "central michigan university",
+    "high school": " murray-wright in detroit, michigan",
+    "draft": "new orleans jazz, 3rd round (2nd pick, 38th overall), 1975 nba draft",
+    "debut": "october 23, 1975",
+    "career_summary": {
+        "G": "418",
+        "PTS": "9.9",
+        "TRB": "2.0",
+        "AST": "3.5",
+        "FG%": "46.8",
+        "FG3%": "20.6",
+        "FT%": "76.4",
+        "eFG%": "46.9",
+        "PER": "12.9",
+        "WS": "14.0"
+    }
+}

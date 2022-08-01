@@ -1,0 +1,30 @@
+{
+    "name": "Kenneth Darnel Norman",
+    "former_name": "known as Ken Colliers in high school",
+    "nicknames": [
+        "Kenny",
+        "Snake"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "215",
+    "birthday": "september 5, 1964",
+    "birthplace": "chicago, illinois US",
+    "college": "illinois",
+    "high school": " crane technical preparatory in chicago, illinois",
+    "draft": "los angeles clippers, 1st round (19th pick, 19th overall), 1987 nba draft",
+    "debut": "november 6, 1987",
+    "career_summary": {
+        "G": "646",
+        "PTS": "13.5",
+        "TRB": "6.1",
+        "AST": "2.1",
+        "FG%": "48.6",
+        "FG3%": "31.2",
+        "FT%": "56.7",
+        "eFG%": "50.1",
+        "PER": "14.5",
+        "WS": "27.1"
+    }
+}

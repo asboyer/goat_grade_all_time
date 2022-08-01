@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Brandon Goodwin"
+    ],
+    "twitter": "goodysav",
+    "instagram": "toughlay",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "180",
+    "birthday": "october 2, 1995",
+    "birthplace": "norcross, georgia US",
+    "colleges": [
+        "central florida",
+        "florida gulf coast"
+    ],
+    "high school": " norcross in norcross, georgia",
+    "debut": "december 18, 2018",
+    "career_summary": {
+        "G": "133",
+        "PTS": "4.7",
+        "TRB": "1.6",
+        "AST": "1.9",
+        "FG%": "39.0",
+        "FG3%": "31.5",
+        "FT%": "73.0",
+        "eFG%": "45.7",
+        "PER": "10.6",
+        "WS": "1.0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "John Arlington Hargis",
+    "nicknames": [
+        "Shotgun"
+    ],
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "180",
+    "birthday": "august 20, 1920",
+    "birthplace": "nacogdoches, texas US",
+    "died": "january 2, 1986",
+    "college": "texas",
+    "high school": " nacogdoches in nacogdoches, texas",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "89",
+        "PTS": "8.6",
+        "TRB": "2.3",
+        "AST": "1.4",
+        "FG%": "40.0",
+        "FT%": "70.2",
+        "PER": "-",
+        "WS": "9.1"
+    }
+}

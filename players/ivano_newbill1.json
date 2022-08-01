@@ -1,0 +1,24 @@
+{
+    "name": "Ivano Miguel Newbill",
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "245",
+    "birthday": "december 12, 1970",
+    "birthplace": "sedalia, missouri US",
+    "college": "georgia tech",
+    "high school": " southwest in macon, georgia",
+    "debut": "december 10, 1994",
+    "career_summary": {
+        "G": "134",
+        "PTS": "1.5",
+        "TRB": "2.6",
+        "AST": "0.4",
+        "FG%": "39.4",
+        "FG3%": "100.0",
+        "FT%": "43.3",
+        "eFG%": "39.6",
+        "PER": "7.0",
+        "WS": "1.1"
+    }
+}

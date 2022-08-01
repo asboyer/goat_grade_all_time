@@ -1,0 +1,35 @@
+{
+    "name": "Joe Louis Caldwell",
+    "nicknames": [
+        "Pogo",
+        "Jumpin' Joe"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "november 1, 1941",
+    "birthplace": "texas city, texas US",
+    "college": "arizona state",
+    "high school": " john c. fremont in los angeles, california",
+    "draft": "detroit pistons, 1st round (2nd pick, 2nd overall), 1964 nba draft",
+    "debut": "october 30, 1964 &blacksquare aba debut",
+    "accomplishments": [
+        "4x all star",
+        "1964-65 all-rookie",
+        "2x all-defensive",
+        "1970-71 all-aba"
+    ],
+    "career_summary": {
+        "G": "782",
+        "PTS": "16.1",
+        "TRB": "5.3",
+        "AST": "3.4",
+        "FG%": "46.6",
+        "FG3%": "22.5",
+        "FT%": "57.2",
+        "eFG%": "46.7",
+        "PER": "14.7",
+        "WS": "37.8"
+    }
+}

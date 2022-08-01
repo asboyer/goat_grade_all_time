@@ -1,0 +1,29 @@
+{
+    "name": "Donald L. Adams",
+    "nicknames": [
+        "Smart"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "210",
+    "birthday": "november 27, 1947",
+    "birthplace": "atlanta, georgia US",
+    "died": "december 25, 2013",
+    "college": "northwestern",
+    "high school": " south fulton in south fulton, georgia",
+    "draft": "san diego rockets, 8th round (1st pick, 120th overall), 1970 nba draft",
+    "debut": "october 13, 1970 &blacksquare aba debut",
+    "career_summary": {
+        "G": "523",
+        "PTS": "8.8",
+        "TRB": "5.6",
+        "AST": "1.9",
+        "FG%": "40.2",
+        "FG3%": "0.0",
+        "FT%": "74.1",
+        "eFG%": "40.2",
+        "PER": "10.7",
+        "WS": "11.7"
+    }
+}

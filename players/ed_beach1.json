@@ -1,0 +1,24 @@
+{
+    "name": "Edward Leon Beach Jr.",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "200",
+    "birthday": "january 25, 1929",
+    "birthplace": "elizabeth, new jersey US",
+    "died": "march 15, 1996",
+    "college": "west virginia",
+    "high school": " thomas jefferson in elizabeth, new jersey",
+    "draft": "minneapolis lakers, 5th round (11th pick, 59th overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "career_summary": {
+        "G": "12",
+        "PTS": "1.8",
+        "TRB": "2.1",
+        "AST": "0.3",
+        "FG%": "21.1",
+        "FT%": "66.7",
+        "PER": "-",
+        "WS": "-0.3"
+    }
+}

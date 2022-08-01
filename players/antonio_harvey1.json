@@ -1,0 +1,28 @@
+{
+    "name": "Antonio Harvey",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "225",
+    "birthday": "july 6, 1970",
+    "birthplace": "pascagoula, mississippi US",
+    "colleges": [
+        "southern illinois",
+        "georgia",
+        "pfeiffer university"
+    ],
+    "high school": " pascagoula in pascagoula, mississippi",
+    "debut": "november 5, 1993",
+    "career_summary": {
+        "G": "187",
+        "PTS": "3.0",
+        "TRB": "2.3",
+        "AST": "0.3",
+        "FG%": "40.7",
+        "FG3%": "33.3",
+        "FT%": "51.1",
+        "eFG%": "40.8",
+        "PER": "9.7",
+        "WS": "0.3"
+    }
+}

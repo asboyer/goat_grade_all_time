@@ -1,0 +1,31 @@
+{
+    "name": "LaPhonso Darnell Ellis",
+    "nicknames": [
+        "The Fonz"
+    ],
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "240",
+    "birthday": "may 5, 1970",
+    "birthplace": "east st. louis, illinois US",
+    "college": "notre dame",
+    "high school": " lincoln in east st. louis, illinois",
+    "draft": "denver nuggets, 1st round (5th pick, 5th overall), 1992 nba draft",
+    "debut": "november 7, 1992",
+    "accomplishments": [
+        "1992-93 all-rookie"
+    ],
+    "career_summary": {
+        "G": "624",
+        "PTS": "11.9",
+        "TRB": "6.5",
+        "AST": "1.6",
+        "FG%": "45.2",
+        "FG3%": "30.2",
+        "FT%": "73.0",
+        "eFG%": "47.1",
+        "PER": "14.6",
+        "WS": "32.8"
+    }
+}

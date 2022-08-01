@@ -1,0 +1,23 @@
+{
+    "name": "Henry Joseph Darcey III",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "217",
+    "birthday": "march 3, 1930",
+    "birthplace": "oklahoma city, oklahoma US",
+    "died": "august 31, 2009",
+    "college": "oklahoma state",
+    "high school": " classen in oklahoma city, oklahoma",
+    "debut": "november 1, 1952",
+    "career_summary": {
+        "G": "12",
+        "PTS": "0.9",
+        "TRB": "0.8",
+        "AST": "0.2",
+        "FG%": "16.7",
+        "FT%": "55.6",
+        "PER": "-5.7",
+        "WS": "-0.2"
+    }
+}

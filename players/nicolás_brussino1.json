@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Nicolás Brussino"
+    ],
+    "twitter": "nicoobrussino",
+    "nicknames": [
+        "Nico",
+        "Lapro"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "195",
+    "birthday": "march 2, 1993",
+    "birthplace": "santa fe, argentina AR",
+    "debut": "october 26, 2016",
+    "career_summary": {
+        "G": "58",
+        "PTS": "2.6",
+        "TRB": "1.7",
+        "AST": "0.8",
+        "FG%": "36.4",
+        "FG3%": "29.9",
+        "FT%": "77.3",
+        "eFG%": "46.5",
+        "PER": "10.5",
+        "WS": "0.6"
+    }
+}

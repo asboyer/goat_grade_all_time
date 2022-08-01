@@ -1,0 +1,28 @@
+{
+    "name": "Anthony Miller",
+    "nicknames": [
+        "Pig"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "october 22, 1971",
+    "birthplace": "benton harbor, michigan US",
+    "college": "michigan state",
+    "high school": " benton harbor in benton harbor, michigan",
+    "draft": "golden state warriors, 2nd round (12th pick, 39th overall), 1994 nba draft",
+    "debut": "november 4, 1994",
+    "career_summary": {
+        "G": "181",
+        "PTS": "2.8",
+        "TRB": "2.7",
+        "AST": "0.4",
+        "FG%": "51.0",
+        "FG3%": "25.0",
+        "FT%": "57.6",
+        "eFG%": "51.3",
+        "PER": "13.6",
+        "WS": "3.8"
+    }
+}

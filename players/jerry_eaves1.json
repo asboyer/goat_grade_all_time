@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Lee Eaves",
+    "position": "point guard",
+    "shooting_hand": "left",
+    "height": "6-4",
+    "weight": "180",
+    "birthday": "february 8, 1959",
+    "birthplace": "louisville, kentucky US",
+    "college": "louisville",
+    "high school": " ballard in louisville, kentucky",
+    "draft": "utah jazz, 3rd round (9th pick, 55th overall), 1982 nba draft",
+    "debut": "october 29, 1982",
+    "career_summary": {
+        "G": "168",
+        "PTS": "6.7",
+        "TRB": "1.2",
+        "AST": "2.5",
+        "FG%": "47.2",
+        "FG3%": "7.1",
+        "FT%": "77.3",
+        "eFG%": "47.2",
+        "PER": "11.8",
+        "WS": "2.6"
+    }
+}

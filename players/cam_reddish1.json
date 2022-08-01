@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Cameron Elijah Reddish"
+    ],
+    "twitter": "camreddish",
+    "instagram": "camreddish",
+    "nicknames": [
+        "Killer Cam"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "218",
+    "birthday": "september 1, 1999",
+    "birthplace": "norristown, pennsylvania US",
+    "college": "duke",
+    "high school": ": the haverford school in haverford, pennsylvania, westtown school in west chester, pennsylvania",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 2019 nba draft",
+    "debut": "october 24, 2019",
+    "career_summary": {
+        "G": "133",
+        "PTS": "10.5",
+        "TRB": "3.2",
+        "AST": "1.3",
+        "FG%": "38.7",
+        "FG3%": "32.5",
+        "FT%": "84.1",
+        "eFG%": "46.1",
+        "PER": "10.2",
+        "WS": "1.0"
+    }
+}

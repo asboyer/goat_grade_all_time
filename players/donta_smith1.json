@@ -1,0 +1,23 @@
+{
+    "name": "Donald Everett Smith",
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "190",
+    "birthday": "july 27, 1920",
+    "birthplace": "minnesota US",
+    "died": "march 1, 1996",
+    "college": "minnesota",
+    "high school": " roosevelt in minneapolis, minnesota",
+    "draft": "chicago stags, 8th round, 1947 baa draft",
+    "career_summary": {
+        "G": "8",
+        "PTS": "0.8",
+        "TRB": "-",
+        "AST": "0.3",
+        "FG%": "15.4",
+        "FT%": "66.7",
+        "PER": "-",
+        "WS": "-0.1"
+    }
+}

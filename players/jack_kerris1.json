@@ -1,0 +1,24 @@
+{
+    "name": "John Edward Kerris",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "215",
+    "birthday": "january 30, 1925",
+    "birthplace": "chicago, illinois US",
+    "died": "december 4, 1983",
+    "college": "loyola chicago",
+    "high school": " de la salle institute in chicago, illinois",
+    "draft": "chicago stags, 2nd round (10th pick, 22nd overall), 1949 baa draft",
+    "debut": "november 1, 1949",
+    "career_summary": {
+        "G": "271",
+        "PTS": "7.6",
+        "TRB": "6.3",
+        "AST": "2.5",
+        "FG%": "36.3",
+        "FT%": "66.2",
+        "PER": "14.7",
+        "WS": "17.8"
+    }
+}

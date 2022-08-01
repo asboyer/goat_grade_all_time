@@ -1,0 +1,31 @@
+{
+    "name": "Gregory Clinton Foster",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "240",
+    "birthday": "october 3, 1968",
+    "birthplace": "oakland, california US",
+    "colleges": [
+        "ucla",
+        "texas-el paso"
+    ],
+    "high school": " skyline in oakland, california",
+    "draft": "washington bullets, 2nd round (8th pick, 35th overall), 1990 nba draft",
+    "debut": "november 2, 1990",
+    "accomplishments": [
+        "2001 nba champ"
+    ],
+    "career_summary": {
+        "G": "656",
+        "PTS": "3.9",
+        "TRB": "2.6",
+        "AST": "0.5",
+        "FG%": "44.0",
+        "FG3%": "22.5",
+        "FT%": "74.8",
+        "eFG%": "44.4",
+        "PER": "8.9",
+        "WS": "5.6"
+    }
+}

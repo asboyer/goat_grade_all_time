@@ -1,0 +1,33 @@
+{
+    "name": "Woodrow Sauldsberry Jr.",
+    "nicknames": [
+        "Sauldy",
+        "Sling Shot"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "july 11, 1934",
+    "birthplace": "winnsboro, louisiana US",
+    "died": "september 3, 2007",
+    "college": "texas southern",
+    "high school": " compton in compton, california",
+    "draft": "philadelphia warriors, 8th round (5th pick, 60th overall), 1957 nba draft",
+    "debut": "october 25, 1957",
+    "accomplishments": [
+        "1x all star",
+        "1966 nba champ",
+        "1957-58 roy"
+    ],
+    "career_summary": {
+        "G": "462",
+        "PTS": "10.7",
+        "TRB": "7.8",
+        "AST": "1.1",
+        "FG%": "34.8",
+        "FT%": "61.0",
+        "PER": "8.9",
+        "WS": "-10.7"
+    }
+}

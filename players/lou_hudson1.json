@@ -1,0 +1,34 @@
+{
+    "name": "Louis Clyde Hudson",
+    "nicknames": [
+        "Sweet Lou",
+        "Super Lou"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "july 11, 1944",
+    "birthplace": "greensboro, north carolina US",
+    "died": "april 11, 2014",
+    "college": "minnesota",
+    "high school": " dudley in greensboro, north carolina",
+    "draft": "st. louis hawks, 1st round (4th pick, 4th overall), 1966 nba draft",
+    "debut": "october 15, 1966",
+    "accomplishments": [
+        "hall of fame",
+        "6x all star",
+        "1969-70 all-nba",
+        "1966-67 all-rookie"
+    ],
+    "career_summary": {
+        "G": "890",
+        "PTS": "20.2",
+        "TRB": "4.4",
+        "AST": "2.7",
+        "FG%": "48.9",
+        "FT%": "79.7",
+        "PER": "17.4",
+        "WS": "81.0"
+    }
+}

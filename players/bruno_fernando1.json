@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Bruno Afonso David Fernandes Fernando"
+    ],
+    "twitter": "BrunoFernandoMV",
+    "instagram": "the_angolan_bf",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "240",
+    "birthday": "august 15, 1998",
+    "birthplace": "luanda, angola AO",
+    "college": "maryland",
+    "high school": " img academy in bradenton, florida",
+    "draft": "philadelphia 76ers, 2nd round (4th pick, 34th overall), 2019 nba draft",
+    "debut": "october 24, 2019",
+    "career_summary": {
+        "G": "119",
+        "PTS": "3.2",
+        "TRB": "2.8",
+        "AST": "0.6",
+        "FG%": "52.7",
+        "FG3%": "14.6",
+        "FT%": "60.8",
+        "eFG%": "53.7",
+        "PER": "12.0",
+        "WS": "1.2"
+    }
+}

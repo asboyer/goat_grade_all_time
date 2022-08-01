@@ -1,0 +1,28 @@
+{
+    "name": "Rumeal James Robinson",
+    "nicknames": [
+        "Meal Time"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "195",
+    "birthday": "november 13, 1966",
+    "birthplace": "mandeville, jamaica JM",
+    "college": "michigan",
+    "high school": " cambridge rindge & latin in cambridge, massachusetts",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 1990 nba draft",
+    "debut": "november 2, 1990",
+    "career_summary": {
+        "G": "336",
+        "PTS": "7.6",
+        "TRB": "1.8",
+        "AST": "3.5",
+        "FG%": "43.2",
+        "FG3%": "34.4",
+        "FT%": "61.1",
+        "eFG%": "45.6",
+        "PER": "12.9",
+        "WS": "5.2"
+    }
+}

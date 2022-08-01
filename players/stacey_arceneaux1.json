@@ -1,0 +1,23 @@
+{
+    "name": "Stacey Arceneaux",
+    "former_name": "born Robert L. Stacey",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "210",
+    "birthday": "february 17, 1936",
+    "died": "march 4, 2015",
+    "college": "iowa state",
+    "high school": " taft in bronx, new york",
+    "debut": "march 2, 1962",
+    "career_summary": {
+        "G": "7",
+        "PTS": "7.1",
+        "TRB": "4.6",
+        "AST": "0.6",
+        "FG%": "39.3",
+        "FT%": "46.2",
+        "PER": "10.5",
+        "WS": "-0.1"
+    }
+}

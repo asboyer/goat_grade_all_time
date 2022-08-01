@@ -1,0 +1,24 @@
+{
+    "name": "Raymond Charles Corley",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "180",
+    "birthday": "january 14, 1928",
+    "birthplace": "staten island, new york US",
+    "died": "february 5, 2007",
+    "college": "georgetown",
+    "high school": " st. peter's boys' in staten island, new york",
+    "draft": "providence steamrollers, 5th round, 1949 baa draft",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "102",
+        "PTS": "4.3",
+        "TRB": "2.0",
+        "AST": "1.7",
+        "FG%": "30.4",
+        "FT%": "60.1",
+        "PER": "-6.9",
+        "WS": "0.9"
+    }
+}

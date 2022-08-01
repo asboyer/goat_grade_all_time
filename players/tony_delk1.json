@@ -1,0 +1,25 @@
+{
+    "name": "Tony Lorenzo Delk",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "189",
+    "birthday": "january 28, 1974",
+    "birthplace": "covington, tennessee US",
+    "college": "kentucky",
+    "high school": " haywood in brownsville, tennessee",
+    "draft": "charlotte hornets, 1st round (16th pick, 16th overall), 1996 nba draft",
+    "debut": "november 3, 1996",
+    "career_summary": {
+        "G": "545",
+        "PTS": "9.1",
+        "TRB": "2.5",
+        "AST": "1.9",
+        "FG%": "40.8",
+        "FG3%": "34.3",
+        "FT%": "76.9",
+        "eFG%": "45.9",
+        "PER": "13.7",
+        "WS": "19.5"
+    }
+}

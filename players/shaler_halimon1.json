@@ -1,0 +1,26 @@
+{
+    "name": "Shaler Halimon Jr.",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "left",
+    "height": "6-5",
+    "weight": "199",
+    "birthday": "march 30, 1945",
+    "birthplace": "tampa, florida US",
+    "died": "april 19, 2021",
+    "college": "utah state university",
+    "high school": " romulus in romulus, michigan",
+    "draft": "philadelphia 76ers, 1st round (14th pick, 14th overall), 1968 nba draft",
+    "debut": "october 26, 1968 &blacksquare aba debut",
+    "career_summary": {
+        "G": "254",
+        "PTS": "6.2",
+        "TRB": "3.1",
+        "AST": "1.7",
+        "FG%": "40.0",
+        "FG3%": "11.1",
+        "FT%": "64.4",
+        "eFG%": "40.1",
+        "PER": "11.8",
+        "WS": "0.5"
+    }
+}

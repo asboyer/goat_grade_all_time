@@ -1,0 +1,24 @@
+{
+    "name": "George E. Johnson",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "245",
+    "birthday": "june 19, 1947",
+    "birthplace": "harleton, texas US",
+    "college": "stephen f. austin",
+    "draft": "baltimore bullets, 1st round (9th pick, 9th overall), 1970 nba draft",
+    "debut": "january 10, 1971 &blacksquare aba debut",
+    "career_summary": {
+        "G": "136",
+        "PTS": "3.7",
+        "TRB": "5.0",
+        "AST": "0.6",
+        "FG%": "44.9",
+        "FG3%": "-",
+        "FT%": "53.9",
+        "eFG%": "44.9",
+        "PER": "8.6",
+        "WS": "3.0"
+    }
+}

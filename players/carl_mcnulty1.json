@@ -1,0 +1,24 @@
+{
+    "name": "Carl Edwin McNulty",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "february 14, 1930",
+    "birthplace": "logansport, indiana US",
+    "died": "january 14, 2020",
+    "college": "purdue",
+    "high school": " washington township in valparaiso, indiana",
+    "draft": "minneapolis lakers, 3rd round, 1952 nba draft",
+    "debut": "february 20, 1955",
+    "career_summary": {
+        "G": "1",
+        "PTS": "2.0",
+        "TRB": "0.0",
+        "AST": "0.0",
+        "FG%": "16.7",
+        "FT%": "-",
+        "PER": "-9.9",
+        "WS": "-0.1"
+    }
+}

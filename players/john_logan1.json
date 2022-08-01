@@ -1,0 +1,28 @@
+{
+    "name": "John Arnold Logan",
+    "nicknames": [
+        "Johnny"
+    ],
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "175",
+    "birthday": "january 1, 1921",
+    "birthplace": "richmond, indiana US",
+    "died": "september 2, 1977",
+    "college": "indiana",
+    "debut": "november 2, 1946",
+    "accomplishments": [
+        "3x all-baa"
+    ],
+    "career_summary": {
+        "G": "258",
+        "PTS": "12.4",
+        "TRB": "4.5",
+        "AST": "3.0",
+        "FG%": "31.2",
+        "FT%": "76.7",
+        "PER": "-",
+        "WS": "27.8"
+    }
+}

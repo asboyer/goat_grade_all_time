@@ -1,0 +1,26 @@
+{
+    "name": "Clyde Wayne Lee",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "205",
+    "birthday": "march 14, 1944",
+    "birthplace": "nashville, tennessee US",
+    "college": "vanderbilt",
+    "high school": " david lipscomb in nashville, tennessee",
+    "draft": "san francisco warriors, 1st round (3rd pick, 3rd overall), 1966 nba draft",
+    "debut": "october 21, 1966",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "742",
+        "PTS": "7.7",
+        "TRB": "10.3",
+        "AST": "1.1",
+        "FG%": "43.2",
+        "FT%": "61.4",
+        "PER": "11.9",
+        "WS": "33.5"
+    }
+}

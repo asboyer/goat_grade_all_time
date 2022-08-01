@@ -1,0 +1,29 @@
+{
+    "name": "Vernell Eufaye Coles",
+    "nicknames": [
+        "Colsie",
+        "B. Coles"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "april 22, 1968",
+    "birthplace": "covington, virginia US",
+    "college": "virginia tech",
+    "high school": " greenbriar east in lewisburg, west virginia",
+    "draft": "sacramento kings, 2nd round (13th pick, 40th overall), 1990 nba draft",
+    "debut": "november 2, 1990",
+    "career_summary": {
+        "G": "852",
+        "PTS": "7.8",
+        "TRB": "2.1",
+        "AST": "3.9",
+        "FG%": "42.5",
+        "FG3%": "26.7",
+        "FT%": "81.1",
+        "eFG%": "44.7",
+        "PER": "12.1",
+        "WS": "27.4"
+    }
+}

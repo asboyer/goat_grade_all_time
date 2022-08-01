@@ -1,0 +1,30 @@
+{
+    "name": "Thomas M. Kron",
+    "nicknames": [
+        "Tom",
+        "Krash"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "200",
+    "birthday": "february 28, 1943",
+    "birthplace": "owensboro, kentucky US",
+    "died": "november 29, 2007",
+    "college": "kentucky",
+    "high school": " tell city in tell city, indiana",
+    "draft": "st. louis hawks, 3rd round (4th pick, 24th overall), 1966 nba draft",
+    "debut": "october 21, 1966 &blacksquare aba debut",
+    "career_summary": {
+        "G": "224",
+        "PTS": "6.0",
+        "TRB": "3.0",
+        "AST": "2.7",
+        "FG%": "38.7",
+        "FG3%": "36.8",
+        "FT%": "76.8",
+        "eFG%": "39.0",
+        "PER": "11.4",
+        "WS": "2.6"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": [
+        "Jeremy Shu-How Lin"
+    ],
+    "twitter": "JLin7",
+    "instagram": "jlin7",
+    "nicknames": [
+        "Linsanity"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "200",
+    "birthday": "august 23, 1988",
+    "birthplace": "torrance, california US",
+    "college": "harvard university",
+    "high school": " palo alto in palo alto, california",
+    "debut": "october 29, 2010",
+    "accomplishments": [
+        "2019 nba champ"
+    ],
+    "career_summary": {
+        "G": "480",
+        "PTS": "11.6",
+        "TRB": "2.8",
+        "AST": "4.3",
+        "FG%": "43.3",
+        "FG3%": "34.2",
+        "FT%": "80.9",
+        "eFG%": "48.5",
+        "PER": "15.3",
+        "WS": "23.5"
+    }
+}

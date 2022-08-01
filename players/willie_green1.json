@@ -1,0 +1,25 @@
+{
+    "name": "Willie J. Green",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "200",
+    "birthday": "july 28, 1981",
+    "birthplace": "detroit, michigan US",
+    "college": "detroit mercy",
+    "high school": " cooley in detroit, michigan",
+    "draft": "seattle supersonics, 2nd round (12th pick, 41st overall), 2003 nba draft",
+    "debut": "october 28, 2003",
+    "career_summary": {
+        "G": "731",
+        "PTS": "8.3",
+        "TRB": "1.8",
+        "AST": "1.4",
+        "FG%": "42.5",
+        "FG3%": "34.6",
+        "FT%": "76.5",
+        "eFG%": "47.1",
+        "PER": "11.0",
+        "WS": "12.9"
+    }
+}

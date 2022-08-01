@@ -1,0 +1,27 @@
+{
+    "name": "Maurice Eugene Evans",
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "220",
+    "birthday": "november 8, 1978",
+    "birthplace": "wichita, kansas US",
+    "colleges": [
+        "wichita state",
+        "texas"
+    ],
+    "high school": " wichita collegiate in wichita, kansas",
+    "debut": "december 19, 2001",
+    "career_summary": {
+        "G": "562",
+        "PTS": "6.7",
+        "TRB": "2.5",
+        "AST": "0.7",
+        "FG%": "44.2",
+        "FG3%": "36.3",
+        "FT%": "78.5",
+        "eFG%": "50.8",
+        "PER": "11.9",
+        "WS": "21.7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "James L. Owens",
+    "nicknames": [
+        "Jim",
+        "Jamie"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "september 2, 1925",
+    "birthplace": "texas US",
+    "died": "october 11, 1988",
+    "college": "baylor",
+    "high school": " jefferson davis in houston, texas",
+    "draft": "washington capitols, 2nd round (9th pick, 21st overall), 1949 baa draft",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "90",
+        "PTS": "5.2",
+        "TRB": "3.5",
+        "AST": "1.5",
+        "FG%": "31.3",
+        "FT%": "61.4",
+        "PER": "11.3",
+        "WS": "1.6"
+    }
+}

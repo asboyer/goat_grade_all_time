@@ -1,0 +1,28 @@
+{
+    "name": "David L. Newmark",
+    "nicknames": [
+        "Shorty"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "240",
+    "birthday": "september 11, 1946",
+    "birthplace": "brooklyn, new york US",
+    "college": "columbia university",
+    "high school": " abraham lincoln in brooklyn, new york",
+    "draft": "chicago bulls, 3rd round (9th pick, 31st overall), 1968 nba draft",
+    "debut": "october 15, 1968 &blacksquare aba debut",
+    "career_summary": {
+        "G": "176",
+        "PTS": "5.7",
+        "TRB": "3.9",
+        "AST": "0.7",
+        "FG%": "42.0",
+        "FG3%": "-",
+        "FT%": "64.9",
+        "eFG%": "42.0",
+        "PER": "12.3",
+        "WS": "1.9"
+    }
+}

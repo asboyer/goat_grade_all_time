@@ -1,0 +1,23 @@
+{
+    "name": "Gene E. Englund",
+    "position": "forward/center",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "205",
+    "birthday": "october 21, 1917",
+    "birthplace": "kenosha, wisconsin US",
+    "died": "november 5, 1995",
+    "college": "wisconsin",
+    "high school": " rhinelander in rhinelander, wisconsin",
+    "debut": "december 6, 1949",
+    "career_summary": {
+        "G": "46",
+        "PTS": "7.8",
+        "TRB": "-",
+        "AST": "0.9",
+        "FG%": "38.0",
+        "FT%": "79.2",
+        "PER": "-",
+        "WS": "4.2"
+    }
+}

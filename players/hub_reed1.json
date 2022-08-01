@@ -1,0 +1,23 @@
+{
+    "name": "Hubert Franklin Reed",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "215",
+    "birthday": "october 4, 1936",
+    "birthplace": "harrah, oklahoma US",
+    "college": "oklahoma city university",
+    "high school": " capitol hill in oklahoma city, oklahoma",
+    "draft": "st. louis hawks, 2nd round (7th pick, 15th overall), 1958 nba draft",
+    "debut": "october 23, 1958",
+    "career_summary": {
+        "G": "479",
+        "PTS": "5.5",
+        "TRB": "5.1",
+        "AST": "0.8",
+        "FG%": "43.6",
+        "FT%": "72.4",
+        "PER": "10.5",
+        "WS": "9.3"
+    }
+}

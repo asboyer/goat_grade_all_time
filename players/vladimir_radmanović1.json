@@ -1,0 +1,29 @@
+{
+    "name": "Vladimir Radmanović",
+    "nicknames": [
+        "Vlad Rad"
+    ],
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "227",
+    "birthday": "november 19, 1980",
+    "birthplace": "trebinje, bosnia and herzegovina BA",
+    "draft": "seattle supersonics, 1st round (12th pick, 12th overall), 2001 nba draft",
+    "debut": "october 30, 2001",
+    "accomplishments": [
+        "2001-02 all-rookie"
+    ],
+    "career_summary": {
+        "G": "737",
+        "PTS": "8.0",
+        "TRB": "3.8",
+        "AST": "1.4",
+        "FG%": "41.5",
+        "FG3%": "37.8",
+        "FT%": "75.8",
+        "eFG%": "50.9",
+        "PER": "12.7",
+        "WS": "26.5"
+    }
+}

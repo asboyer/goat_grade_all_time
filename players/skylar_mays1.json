@@ -1,0 +1,33 @@
+{
+    "name": [
+        "Skylar Justin Mays"
+    ],
+    "twitter": "skylarmays4",
+    "instagram": "skylarmays",
+    "nicknames": [
+        "Doctor",
+        "Dr. Mays"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "205",
+    "birthday": "september 5, 1997",
+    "birthplace": "baton rouge, louisiana US",
+    "college": "lsu",
+    "high school": ": louisiana state university laboratory school in baton rouge, louisiana, findlay prep in henderson, nevada",
+    "draft": "atlanta hawks, 2nd round (20th pick, 50th overall), 2020 nba draft",
+    "debut": "december 23, 2020",
+    "career_summary": {
+        "G": "61",
+        "PTS": "3.3",
+        "TRB": "1.0",
+        "AST": "0.8",
+        "FG%": "46.9",
+        "FG3%": "33.8",
+        "FT%": "88.2",
+        "eFG%": "53.7",
+        "PER": "14.5",
+        "WS": "1.1"
+    }
+}

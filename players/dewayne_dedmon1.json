@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Dewayne Jamal Dedmon"
+    ],
+    "twitter": "d_dedmon3",
+    "instagram": "d_dedmon3",
+    "nicknames": [
+        "The Mechanic"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "245",
+    "birthday": "august 12, 1989",
+    "birthplace": "lancaster, california US",
+    "college": "usc",
+    "high school": " lancaster in lancaster, california",
+    "debut": "november 18, 2013",
+    "career_summary": {
+        "G": "477",
+        "PTS": "6.4",
+        "TRB": "5.9",
+        "AST": "0.7",
+        "FG%": "52.7",
+        "FG3%": "33.8",
+        "FT%": "73.5",
+        "eFG%": "56.6",
+        "PER": "15.1",
+        "WS": "22.2"
+    }
+}

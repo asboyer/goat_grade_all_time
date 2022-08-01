@@ -1,0 +1,27 @@
+{
+    "name": "Duane Ferrell",
+    "nicknames": [
+        "Paco"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "209",
+    "birthday": "february 28, 1965",
+    "birthplace": "baltimore, maryland US",
+    "college": "georgia tech",
+    "high school": " calvert hall in towson, maryland",
+    "debut": "november 11, 1988",
+    "career_summary": {
+        "G": "583",
+        "PTS": "6.4",
+        "TRB": "1.9",
+        "AST": "0.9",
+        "FG%": "48.0",
+        "FG3%": "28.8",
+        "FT%": "75.0",
+        "eFG%": "48.7",
+        "PER": "12.9",
+        "WS": "15.7"
+    }
+}

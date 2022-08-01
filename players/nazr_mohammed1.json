@@ -1,0 +1,37 @@
+{
+    "name": [
+        "Nazr Tahiru Mohammed"
+    ],
+    "twitter": "NazrMohammed",
+    "nicknames": [
+        "Naz",
+        "Nasty",
+        "Big Nasty",
+        "Big Z"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "221",
+    "birthday": "september 5, 1977",
+    "birthplace": "chicago, illinois US",
+    "college": "kentucky",
+    "high school": " kenwood in chicago, illinois",
+    "draft": "utah jazz, 1st round (29th pick, 29th overall), 1998 nba draft",
+    "debut": "february 5, 1999",
+    "accomplishments": [
+        "2005 nba champ"
+    ],
+    "career_summary": {
+        "G": "1005",
+        "PTS": "5.8",
+        "TRB": "4.7",
+        "AST": "0.4",
+        "FG%": "48.6",
+        "FG3%": "0.0",
+        "FT%": "64.0",
+        "eFG%": "48.6",
+        "PER": "15.0",
+        "WS": "34.3"
+    }
+}

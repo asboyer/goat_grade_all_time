@@ -1,0 +1,25 @@
+{
+    "name": "Darrin Hancock",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "205",
+    "birthday": "november 3, 1971",
+    "birthplace": "birmingham, alabama US",
+    "college": "kansas",
+    "high school": " griffin in griffin, georgia",
+    "draft": "charlotte hornets, 2nd round (11th pick, 38th overall), 1994 nba draft",
+    "debut": "november 5, 1994",
+    "career_summary": {
+        "G": "133",
+        "PTS": "3.5",
+        "TRB": "1.3",
+        "AST": "0.7",
+        "FG%": "53.0",
+        "FG3%": "33.3",
+        "FT%": "57.9",
+        "eFG%": "53.2",
+        "PER": "10.5",
+        "WS": "1.1"
+    }
+}

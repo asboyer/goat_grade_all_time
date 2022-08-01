@@ -1,0 +1,31 @@
+{
+    "name": "Melvin Ray Hutchins",
+    "nicknames": [
+        "Hutch"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "200",
+    "birthday": "november 22, 1928",
+    "birthplace": "sacramento, california US",
+    "died": "december 19, 2018",
+    "college": "byu",
+    "draft": "tri-cities blackhawks, 1st round (2nd pick, 2nd overall), 1951 nba draft",
+    "debut": "november 3, 1951",
+    "accomplishments": [
+        "4x all star",
+        "1951-52 trb champ",
+        "1951-52 roy *"
+    ],
+    "career_summary": {
+        "G": "437",
+        "PTS": "11.1",
+        "TRB": "9.6",
+        "AST": "3.0",
+        "FG%": "38.9",
+        "FT%": "67.3",
+        "PER": "14.8",
+        "WS": "27.9"
+    }
+}

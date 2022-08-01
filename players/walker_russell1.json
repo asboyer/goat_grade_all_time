@@ -1,0 +1,28 @@
+{
+    "name": "Walker Dwayne Russell Sr.",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "october 26, 1960",
+    "birthplace": "pontiac, michigan US",
+    "colleges": [
+        "houston",
+        "western michigan"
+    ],
+    "high school": " central in pontiac, michigan",
+    "draft": "detroit pistons, 4th round (9th pick, 78th overall), 1982 nba draft",
+    "debut": "october 31, 1982",
+    "career_summary": {
+        "G": "155",
+        "PTS": "3.0",
+        "TRB": "1.2",
+        "AST": "2.3",
+        "FG%": "39.3",
+        "FG3%": "15.8",
+        "FT%": "80.0",
+        "eFG%": "39.9",
+        "PER": "7.5",
+        "WS": "-0.7"
+    }
+}

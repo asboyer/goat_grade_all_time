@@ -1,0 +1,25 @@
+{
+    "name": "Hilton Julius Armstrong Jr.",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "235",
+    "birthday": "november 11, 1984",
+    "birthplace": "peekskill, new york US",
+    "college": "uconn",
+    "high school": " peekskill in peekskill, new york",
+    "draft": "new orleans/oklahoma city hornets, 1st round (12th pick, 12th overall), 2006 nba draft",
+    "debut": "november 1, 2006",
+    "career_summary": {
+        "G": "292",
+        "PTS": "3.0",
+        "TRB": "2.6",
+        "AST": "0.3",
+        "FG%": "50.1",
+        "FG3%": "28.6",
+        "FT%": "58.2",
+        "eFG%": "50.2",
+        "PER": "9.9",
+        "WS": "3.9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Richard V. Guerin",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "195",
+    "birthday": "may 29, 1932",
+    "birthplace": "new york, new york US",
+    "college": "iona college",
+    "high school": " mount saint michael in bronx, new york",
+    "draft": "new york knicks, 2nd round (8th pick, 17th overall), 1954 nba draft",
+    "debut": "october 27, 1956",
+    "accomplishments": [
+        "hall of fame",
+        "6x all star",
+        "3x all-nba"
+    ],
+    "career_summary": {
+        "G": "848",
+        "PTS": "17.3",
+        "TRB": "5.0",
+        "AST": "5.0",
+        "FG%": "41.6",
+        "FT%": "78.0",
+        "PER": "17.3",
+        "WS": "69.2"
+    }
+}

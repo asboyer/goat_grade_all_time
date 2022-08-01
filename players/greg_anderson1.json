@@ -1,0 +1,31 @@
+{
+    "name": "Gregory Wayne Anderson",
+    "nicknames": [
+        "Cadillac"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "230",
+    "birthday": "june 22, 1964",
+    "birthplace": "houston, texas US",
+    "college": "houston",
+    "high school": " evan e. worthing in houston, texas",
+    "draft": "san antonio spurs, 1st round (23rd pick, 23rd overall), 1987 nba draft",
+    "debut": "november 6, 1987",
+    "accomplishments": [
+        "1987-88 all-rookie"
+    ],
+    "career_summary": {
+        "G": "680",
+        "PTS": "7.3",
+        "TRB": "6.2",
+        "AST": "0.6",
+        "FG%": "49.2",
+        "FG3%": "8.7",
+        "FT%": "55.7",
+        "eFG%": "49.2",
+        "PER": "13.0",
+        "WS": "18.7"
+    }
+}

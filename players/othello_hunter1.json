@@ -1,0 +1,24 @@
+{
+    "name": "Tegba Othello Hunter",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "may 28, 1986",
+    "birthplace": "winston-salem, north carolina US",
+    "college": "ohio state",
+    "high school": " r.j. reynolds in winston-salem, north carolina",
+    "debut": "november 11, 2008",
+    "career_summary": {
+        "G": "23",
+        "PTS": "1.4",
+        "TRB": "1.6",
+        "AST": "0.0",
+        "FG%": "46.9",
+        "FG3%": "-",
+        "FT%": "33.3",
+        "eFG%": "46.9",
+        "PER": "11.0",
+        "WS": "0.2"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Blair Allen Rasmussen",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "250",
+    "birthday": "november 13, 1962",
+    "birthplace": "auburn, washington US",
+    "college": "oregon",
+    "high school": " auburn in auburn, washington",
+    "draft": "denver nuggets, 1st round (15th pick, 15th overall), 1985 nba draft",
+    "debut": "october 25, 1985",
+    "career_summary": {
+        "G": "532",
+        "PTS": "9.6",
+        "TRB": "5.7",
+        "AST": "0.9",
+        "FG%": "47.2",
+        "FG3%": "25.7",
+        "FT%": "76.7",
+        "eFG%": "47.3",
+        "PER": "13.3",
+        "WS": "19.0"
+    }
+}

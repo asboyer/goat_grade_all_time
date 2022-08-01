@@ -1,0 +1,27 @@
+{
+    "name": "Frank Benjamin Saul Jr.",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "185",
+    "birthday": "february 16, 1924",
+    "birthplace": "west orange, new jersey US",
+    "died": "november 7, 2019",
+    "college": "seton hall",
+    "high school": " seton hall prep in west orange, new jersey",
+    "draft": "rochester royals, 1st round (12th pick, 12th overall), 1949 baa draft",
+    "debut": "november 1, 1949",
+    "accomplishments": [
+        "4x nba champ"
+    ],
+    "career_summary": {
+        "G": "384",
+        "PTS": "5.6",
+        "TRB": "2.0",
+        "AST": "1.6",
+        "FG%": "36.0",
+        "FT%": "73.9",
+        "PER": "10.5",
+        "WS": "12.7"
+    }
+}

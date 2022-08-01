@@ -1,0 +1,35 @@
+{
+    "name": [
+        "Daniel Ricardo Manning"
+    ],
+    "twitter": "coachdmanning",
+    "nicknames": [
+        "D"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "230",
+    "birthday": "may 17, 1966",
+    "birthplace": "hattiesburg, mississippi US",
+    "college": "kansas",
+    "high school": " lawrence in lawrence, kansas",
+    "draft": "los angeles clippers, 1st round (1st pick, 1st overall), 1988 nba draft",
+    "debut": "november 12, 1988",
+    "accomplishments": [
+        "2x all star",
+        "1997-98 sixth man"
+    ],
+    "career_summary": {
+        "G": "883",
+        "PTS": "14.0",
+        "TRB": "5.2",
+        "AST": "2.3",
+        "FG%": "51.1",
+        "FG3%": "20.6",
+        "FT%": "72.9",
+        "eFG%": "51.3",
+        "PER": "16.9",
+        "WS": "55.1"
+    }
+}

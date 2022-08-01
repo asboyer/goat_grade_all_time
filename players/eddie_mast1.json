@@ -1,0 +1,27 @@
+{
+    "name": "Edward Mast",
+    "nicknames": [
+        "Psychedelic Eddie"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "220",
+    "birthday": "october 3, 1948",
+    "birthplace": "philadelphia, pennsylvania US",
+    "died": "october 18, 1994",
+    "college": "temple",
+    "high school": " darby-colwyn in darby, pennsylvania",
+    "draft": "new york knicks, 3rd round (11th pick, 40th overall), 1969 nba draft",
+    "debut": "october 14, 1970",
+    "career_summary": {
+        "G": "112",
+        "PTS": "2.5",
+        "TRB": "2.4",
+        "AST": "0.5",
+        "FG%": "38.5",
+        "FT%": "60.4",
+        "PER": "10.0",
+        "WS": "0.4"
+    }
+}

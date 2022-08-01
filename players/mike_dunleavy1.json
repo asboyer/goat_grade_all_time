@@ -1,0 +1,25 @@
+{
+    "name": "Michael Joseph Dunleavy Sr.",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "march 21, 1954",
+    "birthplace": "brooklyn, new york US",
+    "college": "south carolina",
+    "high school": " nazareth regional in brooklyn, new york",
+    "draft": "philadelphia 76ers, 6th round (13th pick, 99th overall), 1976 nba draft",
+    "debut": "december 3, 1976",
+    "career_summary": {
+        "G": "438",
+        "PTS": "8.0",
+        "TRB": "1.6",
+        "AST": "3.9",
+        "FG%": "46.7",
+        "FG3%": "33.9",
+        "FT%": "81.0",
+        "eFG%": "49.2",
+        "PER": "14.0",
+        "WS": "16.1"
+    }
+}

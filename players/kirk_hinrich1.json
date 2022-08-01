@@ -1,0 +1,32 @@
+{
+    "name": "Kirk James Hinrich",
+    "nicknames": [
+        "Captain Kirk"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "january 2, 1981",
+    "birthplace": "sioux city, iowa US",
+    "college": "kansas",
+    "high school": " sioux city west in sioux city, iowa",
+    "draft": "chicago bulls, 1st round (7th pick, 7th overall), 2003 nba draft",
+    "debut": "november 7, 2003",
+    "accomplishments": [
+        "2003-04 all-rookie",
+        "2006-07 all-defensive"
+    ],
+    "career_summary": {
+        "G": "879",
+        "PTS": "10.9",
+        "TRB": "2.9",
+        "AST": "4.8",
+        "FG%": "41.1",
+        "FG3%": "37.5",
+        "FT%": "80.0",
+        "eFG%": "48.0",
+        "PER": "12.8",
+        "WS": "52.5"
+    }
+}

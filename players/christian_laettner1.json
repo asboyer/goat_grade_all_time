@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Christian Donald Laettner"
+    ],
+    "twitter": "laettnerbball",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "235",
+    "birthday": "august 17, 1969",
+    "birthplace": "angola, new york US",
+    "college": "duke",
+    "high school": " nichols school in buffalo, new york",
+    "draft": "minnesota timberwolves, 1st round (3rd pick, 3rd overall), 1992 nba draft",
+    "debut": "november 6, 1992",
+    "accomplishments": [
+        "1x all star",
+        "1992-93 all-rookie"
+    ],
+    "career_summary": {
+        "G": "868",
+        "PTS": "12.8",
+        "TRB": "6.7",
+        "AST": "2.6",
+        "FG%": "48.0",
+        "FG3%": "26.1",
+        "FT%": "82.0",
+        "eFG%": "48.6",
+        "PER": "16.9",
+        "WS": "64.9"
+    }
+}

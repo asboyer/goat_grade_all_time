@@ -1,0 +1,26 @@
+{
+    "name": "Terry L. Furlow",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "october 18, 1954",
+    "birthplace": "flint, michigan US",
+    "died": "may 23, 1980",
+    "college": "michigan state",
+    "high school": " flint northern in flint, michigan",
+    "draft": "philadelphia 76ers, 1st round (12th pick, 12th overall), 1976 nba draft",
+    "debut": "october 27, 1976",
+    "career_summary": {
+        "G": "239",
+        "PTS": "10.7",
+        "TRB": "2.1",
+        "AST": "2.4",
+        "FG%": "45.9",
+        "FG3%": "29.3",
+        "FT%": "86.2",
+        "eFG%": "46.5",
+        "PER": "16.2",
+        "WS": "7.3"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Austin Darren Daye"
+    ],
+    "twitter": "Adaye5",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "220",
+    "birthday": "june 5, 1988",
+    "birthplace": "irvine, california US",
+    "college": "gonzaga",
+    "high school": " woodbridge in irvine, california",
+    "draft": "detroit pistons, 1st round (15th pick, 15th overall), 2009 nba draft",
+    "debut": "october 30, 2009",
+    "accomplishments": [
+        "2014 nba champ"
+    ],
+    "career_summary": {
+        "G": "293",
+        "PTS": "5.2",
+        "TRB": "2.6",
+        "AST": "0.7",
+        "FG%": "40.2",
+        "FG3%": "35.1",
+        "FT%": "77.8",
+        "eFG%": "46.9",
+        "PER": "11.6",
+        "WS": "4.5"
+    }
+}

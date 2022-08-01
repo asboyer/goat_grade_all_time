@@ -1,0 +1,23 @@
+{
+    "name": "Edward C. Gayda",
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "210",
+    "birthday": "may 16, 1927",
+    "died": "december 11, 2021",
+    "college": "washington state",
+    "high school": " hoquiam in hoquiam, washington",
+    "draft": "tri-cities blackhawks, 2nd round (4th pick, 16th overall), 1950 nba draft",
+    "debut": "november 2, 1950",
+    "career_summary": {
+        "G": "15",
+        "PTS": "3.7",
+        "TRB": "2.6",
+        "AST": "0.9",
+        "FG%": "41.3",
+        "FT%": "75.0",
+        "PER": "-",
+        "WS": "0.6"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "John Edward Drew",
+    "nicknames": [
+        "J.E."
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "205",
+    "birthday": "september 30, 1954",
+    "birthplace": "vredenburgh, alabama US",
+    "died": "april 10, 2022",
+    "college": "gardner-webb university",
+    "high school": " j.f. shields in beatrice, alabama",
+    "draft": "atlanta hawks, 2nd round (7th pick, 25th overall), 1974 nba draft",
+    "debut": "october 18, 1974",
+    "accomplishments": [
+        "2x all star",
+        "1974-75 all-rookie"
+    ],
+    "career_summary": {
+        "G": "739",
+        "PTS": "20.7",
+        "TRB": "6.9",
+        "AST": "1.7",
+        "FG%": "47.0",
+        "FG3%": "17.5",
+        "FT%": "74.8",
+        "eFG%": "47.1",
+        "PER": "20.7",
+        "WS": "68.9"
+    }
+}

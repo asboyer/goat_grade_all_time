@@ -1,0 +1,31 @@
+{
+    "name": "Tommy Loren Burleson",
+    "nicknames": [
+        "Newland Needle"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-2",
+    "weight": "225",
+    "birthday": "february 24, 1952",
+    "birthplace": "crossnore, north carolina US",
+    "college": "nc state",
+    "high school": " avery county in newland, north carolina",
+    "draft": "seattle supersonics, 1st round (3rd pick, 3rd overall), 1974 nba draft",
+    "debut": "october 17, 1974",
+    "accomplishments": [
+        "1974-75 all-rookie"
+    ],
+    "career_summary": {
+        "G": "446",
+        "PTS": "9.4",
+        "TRB": "6.3",
+        "AST": "1.3",
+        "FG%": "44.5",
+        "FG3%": "0.0",
+        "FT%": "72.6",
+        "eFG%": "44.5",
+        "PER": "16.1",
+        "WS": "22.9"
+    }
+}

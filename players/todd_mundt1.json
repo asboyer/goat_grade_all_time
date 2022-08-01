@@ -1,0 +1,27 @@
+{
+    "name": "Todd Mundt",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "250",
+    "birthday": "may 17, 1970",
+    "birthplace": "iowa city, iowa US",
+    "colleges": [
+        "memphis",
+        "delta state university"
+    ],
+    "high school": " central merry in jackson, tennessee",
+    "debut": "november 4, 1995",
+    "career_summary": {
+        "G": "33",
+        "PTS": "1.1",
+        "TRB": "0.8",
+        "AST": "0.1",
+        "FG%": "39.0",
+        "FG3%": "-",
+        "FT%": "62.5",
+        "eFG%": "39.0",
+        "PER": "7.0",
+        "WS": "0.1"
+    }
+}

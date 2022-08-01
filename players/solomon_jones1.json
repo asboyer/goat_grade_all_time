@@ -1,0 +1,25 @@
+{
+    "name": "Solomon Jones III",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "230",
+    "birthday": "july 16, 1984",
+    "birthplace": "eustis, florida US",
+    "college": "south florida",
+    "high school": " mount dora in mount dora, florida",
+    "draft": "atlanta hawks, 2nd round (3rd pick, 33rd overall), 2006 nba draft",
+    "debut": "november 1, 2006",
+    "career_summary": {
+        "G": "281",
+        "PTS": "3.0",
+        "TRB": "2.3",
+        "AST": "0.4",
+        "FG%": "46.7",
+        "FG3%": "11.1",
+        "FT%": "71.7",
+        "eFG%": "46.7",
+        "PER": "10.2",
+        "WS": "5.0"
+    }
+}

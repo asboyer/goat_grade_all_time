@@ -1,0 +1,39 @@
+{
+    "name": "Robert E. Lee Pettit Jr.",
+    "nicknames": [
+        "Big Blue",
+        "The Bombardier from Baton Rouge"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "205",
+    "birthday": "december 12, 1932",
+    "birthplace": "baton rouge, louisiana US",
+    "college": "lsu",
+    "high school": " baton rouge in baton rouge, louisiana",
+    "draft": "milwaukee hawks, 1st round (2nd pick, 2nd overall), 1954 nba draft",
+    "debut": "october 30, 1954",
+    "accomplishments": [
+        "hall of fame",
+        "11x all star",
+        "2x scoring champ",
+        "1955-56 trb champ",
+        "1958 nba champ",
+        "11x all-nba",
+        "1954-55 roy",
+        "4x as mvp",
+        "2x mvp",
+        "nba 75th anniv. team"
+    ],
+    "career_summary": {
+        "G": "792",
+        "PTS": "26.4",
+        "TRB": "16.2",
+        "AST": "3.0",
+        "FG%": "43.6",
+        "FT%": "76.1",
+        "PER": "25.4",
+        "WS": "136.0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Laurence Michael Foust",
+    "former_name": "First name often misspelled 'Lawrence'",
+    "nicknames": [
+        "Long"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "215",
+    "birthday": "june 24, 1928",
+    "birthplace": "painesville, ohio US",
+    "died": "october 27, 1984",
+    "college": "la salle",
+    "high school": " south catholic in philadelphia, pennsylvania",
+    "draft": "chicago stags, 1st round (6th pick, 6th overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "accomplishments": [
+        "8x all star",
+        "1951-52 trb champ",
+        "2x all-nba"
+    ],
+    "career_summary": {
+        "G": "817",
+        "PTS": "13.7",
+        "TRB": "9.8",
+        "AST": "1.7",
+        "FG%": "40.5",
+        "FT%": "74.1",
+        "PER": "19.8",
+        "WS": "79.2"
+    }
+}

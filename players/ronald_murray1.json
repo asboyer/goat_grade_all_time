@@ -1,0 +1,31 @@
+{
+    "name": "Ronald Murray",
+    "nicknames": [
+        "Flip"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "july 29, 1979",
+    "birthplace": "philadelphia, pennsylvania US",
+    "colleges": [
+        "meridian community college",
+        "shaw"
+    ],
+    "high school": " strawberry mansion in philadelphia, pennsylvania",
+    "draft": "milwaukee bucks, 2nd round (13th pick, 42nd overall), 2002 nba draft",
+    "debut": "november 2, 2002",
+    "career_summary": {
+        "G": "487",
+        "PTS": "9.9",
+        "TRB": "2.1",
+        "AST": "2.3",
+        "FG%": "41.4",
+        "FG3%": "30.4",
+        "FT%": "72.5",
+        "eFG%": "45.2",
+        "PER": "12.7",
+        "WS": "8.5"
+    }
+}

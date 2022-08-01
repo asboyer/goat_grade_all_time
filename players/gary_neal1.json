@@ -1,0 +1,30 @@
+{
+    "name": "Gary Neal",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "210",
+    "birthday": "october 3, 1984",
+    "birthplace": "baltimore, maryland US",
+    "colleges": [
+        "la salle",
+        "towson university"
+    ],
+    "high school": " calvert hall in towson, maryland",
+    "debut": "october 27, 2010",
+    "accomplishments": [
+        "2010-11 all-rookie"
+    ],
+    "career_summary": {
+        "G": "352",
+        "PTS": "9.9",
+        "TRB": "2.2",
+        "AST": "1.6",
+        "FG%": "42.2",
+        "FG3%": "38.2",
+        "FT%": "85.0",
+        "eFG%": "49.8",
+        "PER": "12.6",
+        "WS": "10.7"
+    }
+}

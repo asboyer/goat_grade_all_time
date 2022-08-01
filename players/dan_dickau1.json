@@ -1,0 +1,28 @@
+{
+    "name": "Daniel David Dickau",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "190",
+    "birthday": "september 16, 1978",
+    "birthplace": "portland, oregon US",
+    "colleges": [
+        "washington",
+        "gonzaga"
+    ],
+    "high school": " prairie in brush prairie, washington",
+    "draft": "sacramento kings, 1st round (28th pick, 28th overall), 2002 nba draft",
+    "debut": "october 30, 2002",
+    "career_summary": {
+        "G": "300",
+        "PTS": "5.8",
+        "TRB": "1.4",
+        "AST": "2.5",
+        "FG%": "40.1",
+        "FG3%": "34.1",
+        "FT%": "83.1",
+        "eFG%": "46.0",
+        "PER": "12.9",
+        "WS": "5.9"
+    }
+}

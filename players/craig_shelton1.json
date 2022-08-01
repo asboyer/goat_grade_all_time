@@ -1,0 +1,25 @@
+{
+    "name": "Craig Anthony Shelton",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "210",
+    "birthday": "may 1, 1957",
+    "birthplace": "washington, district of columbia US",
+    "college": "georgetown",
+    "high school": " dunbar in washington, district of columbia",
+    "draft": "atlanta hawks, 2nd round (5th pick, 28th overall), 1980 nba draft",
+    "debut": "october 11, 1980",
+    "career_summary": {
+        "G": "59",
+        "PTS": "4.1",
+        "TRB": "2.4",
+        "AST": "0.5",
+        "FG%": "45.3",
+        "FG3%": "0.0",
+        "FT%": "60.0",
+        "eFG%": "45.3",
+        "PER": "8.7",
+        "WS": "0.0"
+    }
+}

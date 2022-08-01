@@ -1,0 +1,24 @@
+{
+    "name": "Donald E. Boven",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "210",
+    "birthday": "march 6, 1925",
+    "birthplace": "kalamazoo, michigan US",
+    "died": "march 10, 2011",
+    "college": "western michigan",
+    "high school": " kalamazoo central in kalamazoo, michigan",
+    "draft": "indianapolis olympians, 6th round, 1949 baa draft",
+    "debut": "november 2, 1949",
+    "career_summary": {
+        "G": "195",
+        "PTS": "9.0",
+        "TRB": "4.2",
+        "AST": "2.0",
+        "FG%": "33.9",
+        "FT%": "70.6",
+        "PER": "12.0",
+        "WS": "7.4"
+    }
+}

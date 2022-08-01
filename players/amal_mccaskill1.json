@@ -1,0 +1,25 @@
+{
+    "name": "Amal Omari McCaskill",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "235",
+    "birthday": "october 28, 1973",
+    "birthplace": "maywood, illinois US",
+    "college": "marquette",
+    "high school": " st. joseph in westchester, illinois",
+    "draft": "orlando magic, 2nd round (20th pick, 49th overall), 1996 nba draft",
+    "debut": "november 27, 1996",
+    "career_summary": {
+        "G": "114",
+        "PTS": "1.8",
+        "TRB": "1.9",
+        "AST": "0.3",
+        "FG%": "37.7",
+        "FG3%": "0.0",
+        "FT%": "60.9",
+        "eFG%": "37.7",
+        "PER": "7.7",
+        "WS": "0.5"
+    }
+}

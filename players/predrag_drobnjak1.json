@@ -1,0 +1,26 @@
+{
+    "name": "Predrag Drobnjak",
+    "nicknames": [
+        "Peja"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "270",
+    "birthday": "october 27, 1975",
+    "birthplace": "bijelo polje, montenegro ME",
+    "draft": "washington wizards, 2nd round (20th pick, 48th overall), 1997 nba draft",
+    "debut": "november 20, 2001",
+    "career_summary": {
+        "G": "278",
+        "PTS": "7.9",
+        "TRB": "3.5",
+        "AST": "0.8",
+        "FG%": "42.5",
+        "FG3%": "34.0",
+        "FT%": "79.9",
+        "eFG%": "44.0",
+        "PER": "12.6",
+        "WS": "5.6"
+    }
+}

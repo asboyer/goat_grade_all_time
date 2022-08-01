@@ -1,0 +1,25 @@
+{
+    "name": "Micaiah Diondae Glover",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "228",
+    "birthday": "october 22, 1978",
+    "birthplace": "marietta, georgia US",
+    "college": "georgia tech",
+    "high school": " cedar grove in ellenwood, georgia",
+    "draft": "atlanta hawks, 1st round (20th pick, 20th overall), 1999 nba draft",
+    "debut": "november 6, 1999",
+    "career_summary": {
+        "G": "294",
+        "PTS": "8.2",
+        "TRB": "3.1",
+        "AST": "1.5",
+        "FG%": "41.1",
+        "FG3%": "31.7",
+        "FT%": "75.6",
+        "eFG%": "44.5",
+        "PER": "12.8",
+        "WS": "5.8"
+    }
+}

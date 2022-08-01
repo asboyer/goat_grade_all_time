@@ -1,0 +1,22 @@
+{
+    "name": "Jerry Alvin Fowler",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "230",
+    "birthday": "june 20, 1927",
+    "birthplace": "boonville, missouri US",
+    "died": "june 15, 2008",
+    "college": "missouri",
+    "debut": "november 11, 1951",
+    "career_summary": {
+        "G": "6",
+        "PTS": "1.5",
+        "TRB": "1.7",
+        "AST": "0.3",
+        "FG%": "30.8",
+        "FT%": "25.0",
+        "PER": "3.9",
+        "WS": "-0.1"
+    }
+}

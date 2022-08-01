@@ -1,0 +1,35 @@
+{
+    "name": "Charles Edward Macauley Jr.",
+    "nicknames": [
+        "Easy Ed",
+        "Big Ed"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "185",
+    "birthday": "march 22, 1928",
+    "birthplace": "st. louis, missouri US",
+    "died": "november 9, 2011",
+    "college": "saint louis",
+    "high school": " saint louis university in st. louis, missouri",
+    "draft": "st. louis bombers, 1st round (5th pick, 5th overall), 1949 baa draft (territorial selection)",
+    "debut": "november 1, 1949",
+    "accomplishments": [
+        "hall of fame",
+        "7x all star",
+        "1958 nba champ",
+        "4x all-nba",
+        "1950-51 as mvp"
+    ],
+    "career_summary": {
+        "G": "641",
+        "PTS": "17.5",
+        "TRB": "7.5",
+        "AST": "3.2",
+        "FG%": "43.6",
+        "FT%": "76.1",
+        "PER": "20.5",
+        "WS": "100.4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Gary W. Gregor",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "225",
+    "birthday": "august 13, 1945",
+    "birthplace": "charlestown, west virginia US",
+    "college": "south carolina",
+    "high school": " south charleston in charleston, west virginia",
+    "draft": "new york knicks, 3rd round (5th pick, 24th overall), 1967 nba draft, and phoenix suns, 1st round (8th pick, 8th overall), 1968 nba draft",
+    "debut": "october 18, 1968 &blacksquare aba debut",
+    "accomplishments": [
+        "1968-69 all-rookie"
+    ],
+    "career_summary": {
+        "G": "361",
+        "PTS": "8.9",
+        "TRB": "6.3",
+        "AST": "1.3",
+        "FG%": "43.6",
+        "FG3%": "75.0",
+        "FT%": "72.5",
+        "eFG%": "43.6",
+        "PER": "11.7",
+        "WS": "3.9"
+    }
+}

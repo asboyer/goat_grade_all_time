@@ -1,0 +1,30 @@
+{
+    "name": "Dean P. Meminger",
+    "nicknames": [
+        "The Dream"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "175",
+    "birthday": "may 13, 1948",
+    "birthplace": "walterboro, south carolina US",
+    "died": "august 23, 2013",
+    "college": "marquette",
+    "high school": " rice in new york, new york",
+    "draft": "new york knicks, 1st round (16th pick, 16th overall), 1971 nba draft",
+    "debut": "october 12, 1971",
+    "accomplishments": [
+        "1973 nba champ"
+    ],
+    "career_summary": {
+        "G": "416",
+        "PTS": "6.1",
+        "TRB": "2.6",
+        "AST": "2.5",
+        "FG%": "47.5",
+        "FT%": "62.7",
+        "PER": "12.1",
+        "WS": "16.6"
+    }
+}

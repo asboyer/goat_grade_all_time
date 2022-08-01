@@ -1,0 +1,24 @@
+{
+    "name": "Stanley Leon Jackson",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "october 10, 1970",
+    "birthplace": "tuskegee, alabama US",
+    "college": "uab",
+    "high school": " valley in valley, alabama",
+    "debut": "december 4, 1993",
+    "career_summary": {
+        "G": "17",
+        "PTS": "2.2",
+        "TRB": "1.6",
+        "AST": "0.9",
+        "FG%": "51.5",
+        "FG3%": "20.0",
+        "FT%": "100.0",
+        "eFG%": "53.0",
+        "PER": "17.8",
+        "WS": "0.2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Jeffrey Kyle Sheppard",
+    "nicknames": [
+        "Shep"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "september 29, 1974",
+    "birthplace": "marietta, georgia US",
+    "college": "kentucky",
+    "high school": " mcintosh in peachtree city, georgia",
+    "debut": "february 5, 1999",
+    "career_summary": {
+        "G": "18",
+        "PTS": "2.2",
+        "TRB": "1.2",
+        "AST": "0.9",
+        "FG%": "38.5",
+        "FG3%": "28.6",
+        "FT%": "61.5",
+        "eFG%": "41.0",
+        "PER": "8.7",
+        "WS": "0.3"
+    }
+}

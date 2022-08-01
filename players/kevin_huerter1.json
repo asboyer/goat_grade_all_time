@@ -1,0 +1,37 @@
+{
+    "name": [
+        "Kevin Huerter"
+    ],
+    "twitter": "KevinHuerter",
+    "instagram": "kevin_huerter",
+    "nicknames": [
+        "K'Von",
+        "Red Mamba",
+        "Red Velvet"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "190",
+    "birthday": "august 27, 1998",
+    "birthplace": "albany, new york US",
+    "college": "maryland",
+    "high school": " shenendehowa central in clifton park, new york",
+    "draft": "atlanta hawks, 1st round (19th pick, 19th overall), 2018 nba draft",
+    "debut": "october 17, 2018",
+    "accomplishments": [
+        "2018-19 all-rookie"
+    ],
+    "career_summary": {
+        "G": "274",
+        "PTS": "11.4",
+        "TRB": "3.5",
+        "AST": "3.2",
+        "FG%": "43.1",
+        "FG3%": "37.9",
+        "FT%": "78.8",
+        "eFG%": "53.3",
+        "PER": "11.4",
+        "WS": "9.4"
+    }
+}

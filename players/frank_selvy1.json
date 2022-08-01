@@ -1,0 +1,29 @@
+{
+    "name": "Franklin Delano Selvy",
+    "nicknames": [
+        "Pops",
+        "Rivers"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "november 9, 1932",
+    "birthplace": "corbin, kentucky US",
+    "college": "furman university",
+    "high school": " corbin in corbin, kentucky",
+    "draft": "baltimore bullets, 1st round (1st pick, 1st overall), 1954 nba draft",
+    "accomplishments": [
+        "2x all star"
+    ],
+    "career_summary": {
+        "G": "565",
+        "PTS": "10.8",
+        "TRB": "3.7",
+        "AST": "2.8",
+        "FG%": "39.4",
+        "FT%": "72.8",
+        "PER": "12.4",
+        "WS": "23.8"
+    }
+}

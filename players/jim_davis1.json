@@ -1,0 +1,27 @@
+{
+    "name": "James William Davis",
+    "nicknames": [
+        "J.D."
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "december 18, 1941",
+    "birthplace": "muncie, indiana US",
+    "died": "december 27, 2018",
+    "college": "colorado",
+    "high school": " muncie central in muncie, indiana",
+    "draft": "detroit pistons, 4th round (2nd pick, 29th overall), 1964 nba draft",
+    "debut": "october 15, 1967",
+    "career_summary": {
+        "G": "597",
+        "PTS": "6.7",
+        "TRB": "5.2",
+        "AST": "1.2",
+        "FG%": "46.1",
+        "FT%": "67.4",
+        "PER": "14.2",
+        "WS": "19.2"
+    }
+}

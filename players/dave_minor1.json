@@ -1,0 +1,26 @@
+{
+    "name": "Davage T. Minor",
+    "nicknames": [
+        "Wheelhorse of Steel City"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "185",
+    "birthday": "february 23, 1922",
+    "birthplace": "ruleville, mississippi US",
+    "died": "march 14, 1998",
+    "college": "ucla",
+    "high school": " froebel in gary, indiana",
+    "debut": "november 1, 1951",
+    "career_summary": {
+        "G": "116",
+        "PTS": "7.6",
+        "TRB": "4.5",
+        "AST": "2.5",
+        "FG%": "36.0",
+        "FT%": "75.4",
+        "PER": "11.8",
+        "WS": "3.6"
+    }
+}

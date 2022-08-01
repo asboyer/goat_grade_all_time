@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Timothy Daniel McCormick"
+    ],
+    "twitter": "TimMcCormick40",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "240",
+    "birthday": "march 10, 1962",
+    "birthplace": "detroit, michigan US",
+    "college": "michigan",
+    "high school": " clarkston in clarkston, michigan",
+    "draft": "cleveland cavaliers, 1st round (12th pick, 12th overall), 1984 nba draft",
+    "debut": "october 26, 1984",
+    "career_summary": {
+        "G": "483",
+        "PTS": "8.3",
+        "TRB": "4.9",
+        "AST": "1.0",
+        "FG%": "53.5",
+        "FG3%": "6.3",
+        "FT%": "70.3",
+        "eFG%": "53.5",
+        "PER": "12.8",
+        "WS": "21.5"
+    }
+}

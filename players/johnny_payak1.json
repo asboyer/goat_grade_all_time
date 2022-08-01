@@ -1,0 +1,24 @@
+{
+    "name": "John Payak Jr.",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "174",
+    "birthday": "november 20, 1926",
+    "birthplace": "rossford, ohio US",
+    "died": "february 27, 2009",
+    "college": "bowling green",
+    "high school": " woodward in toledo, ohio",
+    "draft": "philadelphia warriors, 1949 baa draft",
+    "debut": "november 2, 1949",
+    "career_summary": {
+        "G": "120",
+        "PTS": "6.3",
+        "TRB": "1.7",
+        "AST": "1.9",
+        "FG%": "32.1",
+        "FT%": "71.5",
+        "PER": "11.9",
+        "WS": "3.9"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "George Thomas Nostrand",
+    "position": "center/forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "195",
+    "birthday": "january 25, 1924",
+    "birthplace": "uniondale, new york US",
+    "died": "november 8, 1981",
+    "college": "wyoming",
+    "high school": " uniondale in uniondale, new york",
+    "debut": "november 1, 1946",
+    "career_summary": {
+        "G": "221",
+        "PTS": "8.2",
+        "TRB": "-",
+        "AST": "0.8",
+        "FG%": "30.5",
+        "FT%": "53.8",
+        "PER": "-",
+        "WS": "5.6"
+    }
+}

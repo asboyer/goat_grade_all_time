@@ -1,0 +1,35 @@
+{
+    "name": [
+        "Julius Shareef Abdur-Rahim"
+    ],
+    "twitter": "ShareefAbdur_R",
+    "nicknames": [
+        "Reef"
+    ],
+    "position": "power forward, small forward, and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "december 11, 1976",
+    "birthplace": "marietta, georgia US",
+    "college": "california",
+    "high school": " wheeler in marietta, georgia",
+    "draft": "vancouver grizzlies, 1st round (3rd pick, 3rd overall), 1996 nba draft",
+    "debut": "november 1, 1996",
+    "accomplishments": [
+        "1x all star",
+        "1996-97 all-rookie"
+    ],
+    "career_summary": {
+        "G": "830",
+        "PTS": "18.1",
+        "TRB": "7.5",
+        "AST": "2.5",
+        "FG%": "47.2",
+        "FG3%": "29.7",
+        "FT%": "81.0",
+        "eFG%": "47.9",
+        "PER": "19.0",
+        "WS": "71.2"
+    }
+}

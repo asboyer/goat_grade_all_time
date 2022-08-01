@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Lamar Patterson"
+    ],
+    "twitter": "LP21_",
+    "nicknames": [
+        "LP"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "225",
+    "birthday": "august 12, 1991",
+    "birthplace": "lancaster, pennsylvania US",
+    "college": "pitt",
+    "high school": " st. benedict's prep in newark, new jersey",
+    "draft": "milwaukee bucks, 2nd round (18th pick, 48th overall), 2014 nba draft",
+    "debut": "october 27, 2015",
+    "career_summary": {
+        "G": "40",
+        "PTS": "2.3",
+        "TRB": "1.4",
+        "AST": "1.1",
+        "FG%": "32.6",
+        "FG3%": "23.6",
+        "FT%": "72.0",
+        "eFG%": "39.5",
+        "PER": "4.4",
+        "WS": "0.1"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Donald W. Rehfeldt",
+    "position": "small forward",
+    "shooting_hand": "left",
+    "height": "6-7",
+    "weight": "210",
+    "birthday": "january 7, 1927",
+    "birthplace": "chicago, illinois US",
+    "died": "october 16, 1980",
+    "college": "wisconsin",
+    "high school": " amundsen in chicago, illinois",
+    "draft": "baltimore bullets, 1st round (2nd pick, 2nd overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "career_summary": {
+        "G": "98",
+        "PTS": "7.1",
+        "TRB": "5.0",
+        "AST": "1.2",
+        "FG%": "37.0",
+        "FT%": "75.8",
+        "PER": "15.7",
+        "WS": "3.5"
+    }
+}

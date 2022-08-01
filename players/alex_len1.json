@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Oleksiy Len"
+    ],
+    "twitter": "alexlen",
+    "instagram": "alexlen_25",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "250",
+    "birthday": "june 16, 1993",
+    "birthplace": "antratsit, ukraine UA",
+    "college": "maryland",
+    "draft": "phoenix suns, 1st round (5th pick, 5th overall), 2013 nba draft",
+    "debut": "october 30, 2013",
+    "career_summary": {
+        "G": "570",
+        "PTS": "7.7",
+        "TRB": "5.9",
+        "AST": "0.9",
+        "FG%": "50.7",
+        "FG3%": "32.9",
+        "FT%": "68.3",
+        "eFG%": "52.4",
+        "PER": "15.2",
+        "WS": "21.6"
+    }
+}

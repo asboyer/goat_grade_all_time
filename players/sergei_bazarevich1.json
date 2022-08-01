@@ -1,0 +1,22 @@
+{
+    "name": "Sergei Valerianovich Bazarevich",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "168",
+    "birthday": "march 16, 1965",
+    "birthplace": "moscow, russia RU",
+    "debut": "november 9, 1994",
+    "career_summary": {
+        "G": "10",
+        "PTS": "3.0",
+        "TRB": "0.7",
+        "AST": "1.4",
+        "FG%": "50.0",
+        "FG3%": "16.7",
+        "FT%": "77.8",
+        "eFG%": "52.3",
+        "PER": "13.6",
+        "WS": "0.2"
+    }
+}

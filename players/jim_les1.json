@@ -1,0 +1,28 @@
+{
+    "name": "James Allen Les",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "165",
+    "birthday": "august 18, 1963",
+    "birthplace": "niles, illinois US",
+    "colleges": [
+        "cleveland state university",
+        "bradley"
+    ],
+    "high school": " notre dame prep in niles, illinois",
+    "draft": "atlanta hawks, 3rd round (23rd pick, 70th overall), 1986 nba draft",
+    "debut": "november 4, 1988",
+    "career_summary": {
+        "G": "321",
+        "PTS": "3.8",
+        "TRB": "1.2",
+        "AST": "2.9",
+        "FG%": "39.7",
+        "FG3%": "39.6",
+        "FT%": "81.8",
+        "eFG%": "50.1",
+        "PER": "12.4",
+        "WS": "8.1"
+    }
+}

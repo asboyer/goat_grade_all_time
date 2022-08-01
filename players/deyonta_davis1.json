@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Deyonta Davis"
+    ],
+    "twitter": "DeyontaDavis_04",
+    "instagram": "deyontadavis_231",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "237",
+    "birthday": "december 2, 1996",
+    "birthplace": "muskegon, michigan US",
+    "college": "michigan state",
+    "high school": " muskegon in muskegon, michigan",
+    "draft": "boston celtics, 2nd round (1st pick, 31st overall), 2016 nba draft",
+    "debut": "october 26, 2016",
+    "career_summary": {
+        "G": "107",
+        "PTS": "4.2",
+        "TRB": "3.2",
+        "AST": "0.4",
+        "FG%": "59.9",
+        "FG3%": "0.0",
+        "FT%": "63.5",
+        "eFG%": "59.9",
+        "PER": "15.4",
+        "WS": "3.6"
+    }
+}

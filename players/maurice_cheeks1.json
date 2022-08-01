@@ -1,0 +1,35 @@
+{
+    "name": "Maurice Edward Cheeks",
+    "nicknames": [
+        "Mo",
+        "Little Mo"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "september 8, 1956",
+    "birthplace": "chicago, illinois US",
+    "college": "west texas a&m university",
+    "high school": " dusable in chicago, illinois",
+    "draft": "philadelphia 76ers, 2nd round (14th pick, 36th overall), 1978 nba draft",
+    "debut": "october 13, 1978",
+    "accomplishments": [
+        "hall of fame",
+        "4x all star",
+        "1983 nba champ",
+        "5x all-defensive"
+    ],
+    "career_summary": {
+        "G": "1101",
+        "PTS": "11.1",
+        "TRB": "2.8",
+        "AST": "6.7",
+        "FG%": "52.3",
+        "FG3%": "25.5",
+        "FT%": "79.3",
+        "eFG%": "52.6",
+        "PER": "16.5",
+        "WS": "103.5"
+    }
+}

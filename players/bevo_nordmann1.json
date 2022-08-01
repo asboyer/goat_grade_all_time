@@ -1,0 +1,27 @@
+{
+    "name": "Robert Nordmann",
+    "nicknames": [
+        "Bob"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "225",
+    "birthday": "december 11, 1939",
+    "birthplace": "st. louis, missouri US",
+    "died": "august 24, 2015",
+    "college": "saint louis",
+    "high school": " saint louis university in st. louis, missouri",
+    "draft": "cincinnati royals, 3rd round (2nd pick, 25th overall), 1961 nba draft",
+    "debut": "october 21, 1961",
+    "career_summary": {
+        "G": "133",
+        "PTS": "4.3",
+        "TRB": "3.9",
+        "AST": "0.5",
+        "FG%": "45.9",
+        "FT%": "49.0",
+        "PER": "10.7",
+        "WS": "2.0"
+    }
+}

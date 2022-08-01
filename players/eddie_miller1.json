@@ -1,0 +1,27 @@
+{
+    "name": "Edwin B. Miller",
+    "nicknames": [
+        "Ed"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "june 18, 1931",
+    "birthplace": "new rochelle, new york US",
+    "died": "april 9, 2014",
+    "college": "syracuse",
+    "high school": " new rochelle in new rochelle, new york",
+    "draft": "milwaukee hawks, 2nd round, 1952 nba draft",
+    "debut": "november 1, 1952",
+    "career_summary": {
+        "G": "142",
+        "PTS": "10.2",
+        "TRB": "8.5",
+        "AST": "1.5",
+        "FG%": "37.4",
+        "FT%": "69.2",
+        "PER": "18.2",
+        "WS": "5.1"
+    }
+}

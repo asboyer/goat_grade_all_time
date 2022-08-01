@@ -1,0 +1,32 @@
+{
+    "name": [
+        "James Patrick Johnson"
+    ],
+    "twitter": "IamJJ16",
+    "instagram": "james16johnson_",
+    "nicknames": [
+        "Bloodsport"
+    ],
+    "position": "power forward, small forward, and center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "240",
+    "birthday": "february 20, 1987",
+    "birthplace": "cheyenne, wyoming US",
+    "college": "wake forest",
+    "high school": " cheyenne east in cheyenne, wyoming",
+    "draft": "chicago bulls, 1st round (16th pick, 16th overall), 2009 nba draft",
+    "debut": "october 30, 2009",
+    "career_summary": {
+        "G": "747",
+        "PTS": "7.7",
+        "TRB": "3.6",
+        "AST": "2.1",
+        "FG%": "47.4",
+        "FG3%": "30.2",
+        "FT%": "67.9",
+        "eFG%": "51.4",
+        "PER": "14.0",
+        "WS": "27.5"
+    }
+}

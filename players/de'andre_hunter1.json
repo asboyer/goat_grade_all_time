@@ -1,0 +1,29 @@
+{
+    "name": [
+        "De'Andre James Hunter"
+    ],
+    "twitter": "DreHunter",
+    "instagram": "drehunter",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "december 2, 1997",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "virginia",
+    "high school": " friends' central in wynnewood, pennsylvania",
+    "draft": "los angeles lakers, 1st round (4th pick, 4th overall), 2019 nba draft",
+    "debut": "october 24, 2019",
+    "career_summary": {
+        "G": "139",
+        "PTS": "13.2",
+        "TRB": "4.1",
+        "AST": "1.6",
+        "FG%": "43.4",
+        "FG3%": "35.9",
+        "FT%": "78.5",
+        "eFG%": "50.5",
+        "PER": "10.5",
+        "WS": "2.9"
+    }
+}

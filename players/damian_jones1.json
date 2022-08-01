@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Damon Jones"
+    ],
+    "twitter": "D19J",
+    "nicknames": [
+        "Basketball Jones",
+        "The Specialist",
+        "Best Shooter in the World"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "august 25, 1976",
+    "birthplace": "galveston, texas US",
+    "college": "houston",
+    "high school": " ball in galveston, texas",
+    "debut": "february 15, 1999",
+    "career_summary": {
+        "G": "657",
+        "PTS": "6.6",
+        "TRB": "1.6",
+        "AST": "2.7",
+        "FG%": "40.7",
+        "FG3%": "39.0",
+        "FT%": "72.7",
+        "eFG%": "53.3",
+        "PER": "12.4",
+        "WS": "28.0"
+    }
+}

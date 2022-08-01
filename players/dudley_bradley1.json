@@ -1,0 +1,31 @@
+{
+    "name": "Dudley Leroy Bradley",
+    "nicknames": [
+        "Secretary of Defense"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "195",
+    "birthday": "march 19, 1957",
+    "birthplace": "baltimore, maryland US",
+    "college": "unc",
+    "high school": " edgewood in edgewood, maryland",
+    "draft": "indiana pacers, 1st round (13th pick, 13th overall), 1979 nba draft",
+    "debut": "october 12, 1979",
+    "accomplishments": [
+        "1980-81 all-defensive"
+    ],
+    "career_summary": {
+        "G": "600",
+        "PTS": "5.2",
+        "TRB": "1.8",
+        "AST": "1.9",
+        "FG%": "44.0",
+        "FG3%": "29.3",
+        "FT%": "73.0",
+        "eFG%": "45.8",
+        "PER": "12.0",
+        "WS": "16.5"
+    }
+}

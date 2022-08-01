@@ -1,0 +1,21 @@
+{
+    "name": "Robert J. Riley",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "july 6, 1948",
+    "college": "mount st. mary's university",
+    "draft": "atlanta hawks, 5th round (14th pick, 82nd overall), 1970 nba draft",
+    "debut": "october 22, 1970",
+    "career_summary": {
+        "G": "7",
+        "PTS": "1.9",
+        "TRB": "1.7",
+        "AST": "0.1",
+        "FG%": "44.4",
+        "FT%": "55.6",
+        "PER": "10.9",
+        "WS": "0.0"
+    }
+}

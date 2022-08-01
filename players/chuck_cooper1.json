@@ -1,0 +1,30 @@
+{
+    "name": "Charles Henry Cooper",
+    "nicknames": [
+        "CC"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "september 29, 1926",
+    "birthplace": "pittsburgh, pennsylvania US",
+    "died": "february 5, 1984",
+    "college": "duquesne",
+    "high school": " westinghouse in pittsburgh, pennsylvania",
+    "draft": "boston celtics, 2nd round (1st pick, 13th overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "accomplishments": [
+        "hall of fame"
+    ],
+    "career_summary": {
+        "G": "409",
+        "PTS": "6.7",
+        "TRB": "5.9",
+        "AST": "1.8",
+        "FG%": "33.9",
+        "FT%": "74.3",
+        "PER": "11.1",
+        "WS": "11.6"
+    }
+}

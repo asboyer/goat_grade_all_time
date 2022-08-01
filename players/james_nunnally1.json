@@ -1,0 +1,28 @@
+{
+    "name": [
+        "James William Nunnally"
+    ],
+    "twitter": "allornunn21",
+    "instagram": "jnunn21",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "208",
+    "birthday": "july 14, 1990",
+    "birthplace": "san jose, california US",
+    "college": "uc santa barbara",
+    "high school": " weston ranch in stockton, california",
+    "debut": "january 16, 2014",
+    "career_summary": {
+        "G": "37",
+        "PTS": "2.6",
+        "TRB": "0.9",
+        "AST": "0.5",
+        "FG%": "34.4",
+        "FG3%": "32.3",
+        "FT%": "73.3",
+        "eFG%": "45.2",
+        "PER": "6.8",
+        "WS": "0.0"
+    }
+}

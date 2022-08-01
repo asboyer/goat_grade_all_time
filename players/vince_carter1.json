@@ -1,0 +1,44 @@
+{
+    "name": [
+        "Vincent Lamar Carter Jr."
+    ],
+    "twitter": "mrvincecarter15",
+    "instagram": "vincecarter15_official",
+    "nicknames": [
+        "V.C.",
+        "Vinsanity",
+        "Air Canada",
+        "Yoda",
+        "Half-Man/Half-Amazing",
+        "Flying Man",
+        "Sunshine"
+    ],
+    "position": "shooting guard, small forward, and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "january 26, 1977",
+    "birthplace": "daytona beach, florida US",
+    "college": "unc",
+    "high school": " mainland in daytona beach, florida",
+    "draft": "golden state warriors, 1st round (5th pick, 5th overall), 1998 nba draft",
+    "debut": "february 5, 1999",
+    "accomplishments": [
+        "8x all star",
+        "2x all-nba",
+        "1998-99 all-rookie",
+        "1998-99 roy"
+    ],
+    "career_summary": {
+        "G": "1541",
+        "PTS": "16.7",
+        "TRB": "4.3",
+        "AST": "3.1",
+        "FG%": "43.5",
+        "FG3%": "37.1",
+        "FT%": "79.8",
+        "eFG%": "48.9",
+        "PER": "18.6",
+        "WS": "125.3"
+    }
+}

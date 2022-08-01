@@ -1,0 +1,24 @@
+{
+    "name": "Paul Murphy Shirley",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "230",
+    "birthday": "december 23, 1977",
+    "birthplace": "meriden, kansas US",
+    "college": "iowa state",
+    "high school": " jefferson west in meriden, kansas",
+    "debut": "january 14, 2003",
+    "career_summary": {
+        "G": "18",
+        "PTS": "1.8",
+        "TRB": "1.1",
+        "AST": "0.4",
+        "FG%": "39.5",
+        "FG3%": "0.0",
+        "FT%": "42.9",
+        "eFG%": "39.5",
+        "PER": "4.5",
+        "WS": "-0.2"
+    }
+}

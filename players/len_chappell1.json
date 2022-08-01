@@ -1,0 +1,32 @@
+{
+    "name": "Leonard Roy Chappell",
+    "nicknames": [
+        "Lennie"
+    ],
+    "position": "power forward, center, and small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "240",
+    "birthday": "january 31, 1941",
+    "birthplace": "portage, pennsylvania US",
+    "died": "july 12, 2018",
+    "college": "wake forest",
+    "high school": " portage in portage, pennsylvania",
+    "draft": "syracuse nationals, 1st round (5th pick, 5th overall), 1962 nba draft",
+    "debut": "october 20, 1962 &blacksquare aba debut",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "670",
+        "PTS": "9.3",
+        "TRB": "5.1",
+        "AST": "0.8",
+        "FG%": "45.2",
+        "FG3%": "-",
+        "FT%": "69.7",
+        "eFG%": "45.2",
+        "PER": "15.6",
+        "WS": "21.9"
+    }
+}

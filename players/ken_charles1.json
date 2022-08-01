@@ -1,0 +1,23 @@
+{
+    "name": "Kenneth M. Charles",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "july 10, 1951",
+    "birthplace": "trinidad and tobago TT",
+    "college": "fordham",
+    "high school": " brooklyn prep in brooklyn, new york",
+    "draft": "buffalo braves, 3rd round (3rd pick, 38th overall), 1973 nba draft",
+    "debut": "october 9, 1973",
+    "career_summary": {
+        "G": "322",
+        "PTS": "8.5",
+        "TRB": "2.0",
+        "AST": "2.5",
+        "FG%": "44.1",
+        "FT%": "78.9",
+        "PER": "11.9",
+        "WS": "9.8"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Tyler Dorsey"
+    ],
+    "twitter": "TDORSEY_1",
+    "instagram": "tylerdorsey5",
+    "nicknames": [
+        "Mr. March"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "183",
+    "birthday": "february 18, 1996",
+    "birthplace": "pasadena, california US",
+    "college": "oregon",
+    "high school": " maranatha in pasadena, california",
+    "draft": "atlanta hawks, 2nd round (11th pick, 41st overall), 2017 nba draft",
+    "debut": "october 20, 2017",
+    "career_summary": {
+        "G": "104",
+        "PTS": "6.7",
+        "TRB": "2.3",
+        "AST": "1.3",
+        "FG%": "38.9",
+        "FG3%": "35.0",
+        "FT%": "66.9",
+        "eFG%": "47.8",
+        "PER": "10.5",
+        "WS": "1.0"
+    }
+}

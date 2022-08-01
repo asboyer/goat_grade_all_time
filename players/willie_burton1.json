@@ -1,0 +1,31 @@
+{
+    "name": "Willie Ricardo Burton",
+    "nicknames": [
+        "Moose"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "may 26, 1968",
+    "birthplace": "detroit, michigan US",
+    "college": "minnesota",
+    "high school": " saint martin de porres in detroit, michigan",
+    "draft": "miami heat, 1st round (9th pick, 9th overall), 1990 nba draft",
+    "debut": "november 2, 1990",
+    "accomplishments": [
+        "1990-91 all-rookie"
+    ],
+    "career_summary": {
+        "G": "316",
+        "PTS": "10.3",
+        "TRB": "2.9",
+        "AST": "1.2",
+        "FG%": "42.4",
+        "FG3%": "34.5",
+        "FT%": "78.6",
+        "eFG%": "45.2",
+        "PER": "12.7",
+        "WS": "9.1"
+    }
+}

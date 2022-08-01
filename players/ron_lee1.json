@@ -1,0 +1,29 @@
+{
+    "name": "Ronald Henry Lee",
+    "position": "point guard",
+    "shooting_hand": "left",
+    "height": "6-4",
+    "weight": "193",
+    "birthday": "november 2, 1952",
+    "birthplace": "boston, massachusetts US",
+    "college": "oregon",
+    "high school": " lexington in lexington, massachusetts",
+    "draft": "phoenix suns, 1st round (10th pick, 10th overall), 1976 nba draft",
+    "debut": "october 22, 1976",
+    "accomplishments": [
+        "1977-78 stl champ",
+        "1976-77 all-rookie"
+    ],
+    "career_summary": {
+        "G": "448",
+        "PTS": "7.3",
+        "TRB": "2.7",
+        "AST": "3.8",
+        "FG%": "41.6",
+        "FG3%": "32.1",
+        "FT%": "70.5",
+        "eFG%": "42.3",
+        "PER": "12.4",
+        "WS": "10.7"
+    }
+}

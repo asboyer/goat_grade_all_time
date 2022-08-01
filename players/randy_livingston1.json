@@ -1,0 +1,25 @@
+{
+    "name": "Randy Anthony Livingston",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "209",
+    "birthday": "april 2, 1975",
+    "birthplace": "new orleans, louisiana US",
+    "college": "lsu",
+    "high school": " isidore newman school in new orleans, louisiana",
+    "draft": "houston rockets, 2nd round (13th pick, 42nd overall), 1996 nba draft",
+    "debut": "november 1, 1996",
+    "career_summary": {
+        "G": "203",
+        "PTS": "3.8",
+        "TRB": "1.4",
+        "AST": "2.0",
+        "FG%": "40.6",
+        "FG3%": "35.1",
+        "FT%": "77.1",
+        "eFG%": "42.9",
+        "PER": "10.0",
+        "WS": "2.3"
+    }
+}

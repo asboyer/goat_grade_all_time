@@ -1,0 +1,30 @@
+{
+    "name": [
+        "Bogdan Bogdanović"
+    ],
+    "twitter": "LeaderOfHorde",
+    "instagram": "bogdanbogdanovic",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "august 18, 1992",
+    "birthplace": "belgrade, serbia RS",
+    "draft": "phoenix suns, 1st round (27th pick, 27th overall), 2014 nba draft",
+    "debut": "october 23, 2017",
+    "accomplishments": [
+        "2017-18 all-rookie"
+    ],
+    "career_summary": {
+        "G": "316",
+        "PTS": "14.2",
+        "TRB": "3.4",
+        "AST": "3.4",
+        "FG%": "43.9",
+        "FG3%": "38.4",
+        "FT%": "82.2",
+        "eFG%": "53.8",
+        "PER": "14.9",
+        "WS": "16.2"
+    }
+}

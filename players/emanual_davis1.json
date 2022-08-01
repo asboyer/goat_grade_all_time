@@ -1,0 +1,28 @@
+{
+    "name": "Emanual Davis",
+    "nicknames": [
+        "Vel",
+        "E-Mail"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "195",
+    "birthday": "august 27, 1968",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "delaware state university",
+    "high school": " kensington in philadelphia, pennsylvania",
+    "debut": "november 1, 1996",
+    "career_summary": {
+        "G": "226",
+        "PTS": "4.9",
+        "TRB": "1.9",
+        "AST": "1.8",
+        "FG%": "39.4",
+        "FG3%": "35.2",
+        "FT%": "78.7",
+        "eFG%": "47.1",
+        "PER": "9.6",
+        "WS": "2.5"
+    }
+}

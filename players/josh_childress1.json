@@ -1,0 +1,34 @@
+{
+    "name": [
+        "Joshua Malik Childress"
+    ],
+    "twitter": "JChillin",
+    "nicknames": [
+        "J-Chill"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "june 20, 1983",
+    "birthplace": "harbor city, california US",
+    "college": "stanford",
+    "high school": " mayfair in lakewood, california",
+    "draft": "atlanta hawks, 1st round (6th pick, 6th overall), 2004 nba draft",
+    "debut": "november 3, 2004",
+    "accomplishments": [
+        "2004-05 all-rookie"
+    ],
+    "career_summary": {
+        "G": "391",
+        "PTS": "9.1",
+        "TRB": "4.7",
+        "AST": "1.6",
+        "FG%": "52.2",
+        "FG3%": "32.9",
+        "FT%": "77.9",
+        "eFG%": "54.2",
+        "PER": "15.6",
+        "WS": "25.7"
+    }
+}

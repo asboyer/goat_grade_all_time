@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Allen Crabbe"
+    ],
+    "twitter": "allencrabbe",
+    "instagram": "allencrabbe",
+    "nicknames": [
+        "Cool Breeze"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "212",
+    "birthday": "april 9, 1992",
+    "birthplace": "los angeles, california US",
+    "college": "california",
+    "high school": " price in los angeles, california",
+    "draft": "cleveland cavaliers, 2nd round (1st pick, 31st overall), 2013 nba draft",
+    "debut": "november 1, 2013",
+    "career_summary": {
+        "G": "381",
+        "PTS": "9.1",
+        "TRB": "2.8",
+        "AST": "1.1",
+        "FG%": "42.5",
+        "FG3%": "38.7",
+        "FT%": "83.1",
+        "eFG%": "53.1",
+        "PER": "10.8",
+        "WS": "13.7"
+    }
+}

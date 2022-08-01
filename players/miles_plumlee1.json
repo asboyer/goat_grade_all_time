@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Miles Christian Plumlee"
+    ],
+    "twitter": "milesplumlee13",
+    "instagram": "milesplumlee",
+    "nicknames": [
+        "Purveyor of Fun"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "249",
+    "birthday": "september 1, 1988",
+    "birthplace": "fort wayne, indiana US",
+    "college": "duke",
+    "high school": " christ school in arden, north carolina",
+    "draft": "indiana pacers, 1st round (26th pick, 26th overall), 2012 nba draft",
+    "debut": "november 5, 2012",
+    "career_summary": {
+        "G": "346",
+        "PTS": "4.9",
+        "TRB": "4.5",
+        "AST": "0.5",
+        "FG%": "54.2",
+        "FG3%": "-",
+        "FT%": "54.3",
+        "eFG%": "54.2",
+        "PER": "13.7",
+        "WS": "10.6"
+    }
+}

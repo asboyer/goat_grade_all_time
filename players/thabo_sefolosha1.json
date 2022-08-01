@@ -1,0 +1,30 @@
+{
+    "name": [
+        "Thabo Patrick Sefolosha"
+    ],
+    "twitter": "ThaboSefolosha",
+    "instagram": "vevey1800",
+    "position": "shooting guard, small forward, and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "215",
+    "birthday": "may 2, 1984",
+    "birthplace": "vevey, switzerland CH",
+    "draft": "philadelphia 76ers, 1st round (13th pick, 13th overall), 2006 nba draft",
+    "debut": "october 31, 2006",
+    "accomplishments": [
+        "2009-10 all-defensive"
+    ],
+    "career_summary": {
+        "G": "869",
+        "PTS": "5.7",
+        "TRB": "3.7",
+        "AST": "1.4",
+        "FG%": "44.9",
+        "FG3%": "34.9",
+        "FT%": "73.2",
+        "eFG%": "50.9",
+        "PER": "11.4",
+        "WS": "39.3"
+    }
+}

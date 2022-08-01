@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Wayne Freije",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "240",
+    "birthday": "october 2, 1981",
+    "birthplace": "overland park, kansas US",
+    "college": "vanderbilt",
+    "high school": " shawnee mission west in overland park, kansas",
+    "draft": "miami heat, 2nd round (24th pick, 53rd overall), 2004 nba draft",
+    "debut": "november 20, 2004",
+    "career_summary": {
+        "G": "42",
+        "PTS": "3.2",
+        "TRB": "2.0",
+        "AST": "0.6",
+        "FG%": "29.3",
+        "FG3%": "22.4",
+        "FT%": "71.4",
+        "eFG%": "34.0",
+        "PER": "4.6",
+        "WS": "-0.6"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ernest Joseph Beck",
+    "nicknames": [
+        "Boom Boom"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "december 11, 1931",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "penn",
+    "high school": " west catholic in philadelphia, pennsylvania",
+    "draft": "philadelphia warriors, 1st round (1st pick, 1st overall), 1953 nba draft (territorial selection)",
+    "debut": "october 31, 1953",
+    "accomplishments": [
+        "1956 nba champ"
+    ],
+    "career_summary": {
+        "G": "371",
+        "PTS": "6.3",
+        "TRB": "3.2",
+        "AST": "1.8",
+        "FG%": "38.3",
+        "FT%": "76.2",
+        "PER": "11.2",
+        "WS": "9.0"
+    }
+}

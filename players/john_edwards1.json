@@ -1,0 +1,24 @@
+{
+    "name": "John Edwards",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "275",
+    "birthday": "july 31, 1981",
+    "birthplace": "warren, ohio US",
+    "college": "kent state university",
+    "high school": " hudson in hudson, ohio",
+    "debut": "november 6, 2004",
+    "career_summary": {
+        "G": "65",
+        "PTS": "1.5",
+        "TRB": "1.0",
+        "AST": "0.1",
+        "FG%": "44.7",
+        "FG3%": "-",
+        "FT%": "60.0",
+        "eFG%": "44.7",
+        "PER": "6.0",
+        "WS": "0.1"
+    }
+}

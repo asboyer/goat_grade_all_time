@@ -1,0 +1,28 @@
+{
+    "name": "Scott Alan Hastings",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "235",
+    "birthday": "june 3, 1960",
+    "birthplace": "independence, kansas US",
+    "college": "arkansas",
+    "high school": " independence in independence, kansas",
+    "draft": "new york knicks, 2nd round (6th pick, 29th overall), 1982 nba draft",
+    "debut": "october 30, 1982",
+    "accomplishments": [
+        "1990 nba champ"
+    ],
+    "career_summary": {
+        "G": "578",
+        "PTS": "2.8",
+        "TRB": "2.2",
+        "AST": "0.5",
+        "FG%": "44.1",
+        "FG3%": "29.2",
+        "FT%": "81.1",
+        "eFG%": "45.2",
+        "PER": "9.2",
+        "WS": "9.8"
+    }
+}

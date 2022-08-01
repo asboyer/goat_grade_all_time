@@ -1,0 +1,24 @@
+{
+    "name": "Jeremy Terrell Richardson",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "185",
+    "birthday": "march 1, 1984",
+    "birthplace": "allentown, pennsylvania US",
+    "college": "delta state university",
+    "high school": " zachary in zachary, louisiana",
+    "debut": "january 31, 2007",
+    "career_summary": {
+        "G": "45",
+        "PTS": "1.9",
+        "TRB": "0.6",
+        "AST": "0.1",
+        "FG%": "33.3",
+        "FG3%": "38.5",
+        "FT%": "62.5",
+        "eFG%": "40.9",
+        "PER": "4.5",
+        "WS": "-0.3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "John T. Moore",
+    "nicknames": [
+        "Jumping Jack"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "180",
+    "birthday": "september 24, 1932",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "la salle",
+    "high school": " overbrook in philadelphia, pennsylvania",
+    "debut": "october 31, 1954",
+    "accomplishments": [
+        "1956 nba champ"
+    ],
+    "career_summary": {
+        "G": "134",
+        "PTS": "2.7",
+        "TRB": "2.5",
+        "AST": "0.5",
+        "FG%": "39.1",
+        "FT%": "62.3",
+        "PER": "10.6",
+        "WS": "1.6"
+    }
+}

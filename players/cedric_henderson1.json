@@ -1,0 +1,25 @@
+{
+    "name": "Cedric Henderson",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "october 3, 1965",
+    "birthplace": "marietta, georgia US",
+    "college": "georgia",
+    "high school": " marietta in marietta, georgia",
+    "draft": "atlanta hawks, 2nd round (8th pick, 32nd overall), 1986 nba draft",
+    "debut": "november 1, 1986",
+    "career_summary": {
+        "G": "8",
+        "PTS": "1.4",
+        "TRB": "1.0",
+        "AST": "0.0",
+        "FG%": "50.0",
+        "FG3%": "-",
+        "FT%": "100.0",
+        "eFG%": "50.0",
+        "PER": "15.3",
+        "WS": "0.0"
+    }
+}

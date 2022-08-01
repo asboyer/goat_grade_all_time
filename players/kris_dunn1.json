@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Kristofer Michael Dunn"
+    ],
+    "twitter": "KrisDunn3",
+    "instagram": "krisdunn3",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "205",
+    "birthday": "march 18, 1994",
+    "birthplace": "new london, connecticut US",
+    "college": "providence",
+    "high school": " new london in new london, connecticut",
+    "draft": "minnesota timberwolves, 1st round (5th pick, 5th overall), 2016 nba draft",
+    "debut": "october 26, 2016",
+    "career_summary": {
+        "G": "245",
+        "PTS": "8.1",
+        "TRB": "3.3",
+        "AST": "4.2",
+        "FG%": "42.0",
+        "FG3%": "29.9",
+        "FT%": "73.9",
+        "eFG%": "45.3",
+        "PER": "11.8",
+        "WS": "3.9"
+    }
+}

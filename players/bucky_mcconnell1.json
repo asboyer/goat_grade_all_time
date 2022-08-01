@@ -1,0 +1,21 @@
+{
+    "name": "Paul Joseph McConnell",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "170",
+    "birthday": "july 1, 1928",
+    "birthplace": "new jersey US",
+    "died": "april 1, 2019",
+    "debut": "february 17, 1953",
+    "career_summary": {
+        "G": "14",
+        "PTS": "4.9",
+        "TRB": "2.4",
+        "AST": "2.9",
+        "FG%": "38.0",
+        "FT%": "48.3",
+        "PER": "11.6",
+        "WS": "0.5"
+    }
+}

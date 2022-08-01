@@ -1,0 +1,23 @@
+{
+    "name": "Shellie McMillon Jr.",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "205",
+    "birthday": "march 11, 1936",
+    "died": "july 11, 1980",
+    "college": "bradley",
+    "high school": " dusable in chicago, illinois",
+    "draft": "detroit pistons, 6th round (3rd pick, 43rd overall), 1958 nba draft",
+    "debut": "october 19, 1958",
+    "career_summary": {
+        "G": "263",
+        "PTS": "9.1",
+        "TRB": "6.0",
+        "AST": "0.9",
+        "FG%": "43.4",
+        "FT%": "63.4",
+        "PER": "13.9",
+        "WS": "8.1"
+    }
+}

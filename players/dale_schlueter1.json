@@ -1,0 +1,24 @@
+{
+    "name": "Dale Wayne Schlueter",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "225",
+    "birthday": "november 12, 1945",
+    "birthplace": "tacoma, washington US",
+    "died": "july 24, 2014",
+    "college": "colorado state",
+    "high school": " george washington in denver, colorado",
+    "draft": "san francisco warriors, 6th round (8th pick, 63rd overall), 1967 nba draft",
+    "debut": "october 29, 1968",
+    "career_summary": {
+        "G": "586",
+        "PTS": "5.3",
+        "TRB": "5.2",
+        "AST": "1.6",
+        "FG%": "49.7",
+        "FT%": "67.8",
+        "PER": "13.7",
+        "WS": "20.8"
+    }
+}

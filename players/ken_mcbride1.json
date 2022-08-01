@@ -1,0 +1,24 @@
+{
+    "name": "Kenneth Stanford McBride",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "may 23, 1929",
+    "birthplace": "centralia, illinois US",
+    "died": "may 14, 2005",
+    "college": "university of maryland eastern shore",
+    "high school": " centralia in centralia, illinois",
+    "draft": "syracuse nationals, 3rd round, 1952 nba draft",
+    "debut": "october 30, 1954",
+    "career_summary": {
+        "G": "12",
+        "PTS": "9.8",
+        "TRB": "2.6",
+        "AST": "1.2",
+        "FG%": "32.7",
+        "FT%": "72.4",
+        "PER": "8.1",
+        "WS": "-0.4"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Clyde Edward Lovellette",
+    "nicknames": [
+        "Jellybelly",
+        "Boomer",
+        "Boom Boom",
+        "The Whale"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "234",
+    "birthday": "september 7, 1929",
+    "birthplace": "petersburg, indiana US",
+    "died": "march 9, 2016",
+    "college": "kansas",
+    "high school": " garfield in terre haute, indiana",
+    "draft": "minneapolis lakers, 1st round (10th pick, 10th overall), 1952 nba draft",
+    "debut": "october 30, 1953",
+    "accomplishments": [
+        "hall of fame",
+        "4x all star",
+        "3x nba champ",
+        "1955-56 all-nba"
+    ],
+    "career_summary": {
+        "G": "704",
+        "PTS": "17.0",
+        "TRB": "9.5",
+        "AST": "1.6",
+        "FG%": "44.3",
+        "FT%": "75.7",
+        "PER": "21.7",
+        "WS": "70.6"
+    }
+}

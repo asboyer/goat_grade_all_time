@@ -1,0 +1,31 @@
+{
+    "name": "Alexander Murray Hannum",
+    "nicknames": [
+        "Sergeant York",
+        "Sarge"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "210",
+    "birthday": "july 19, 1923",
+    "birthplace": "los angeles, california US",
+    "died": "january 18, 2002",
+    "college": "usc",
+    "high school": " hamilton in los angeles, california",
+    "draft": "indianapolis jets, 4th round, 1948 baa draft",
+    "debut": "november 3, 1949",
+    "accomplishments": [
+        "hall of fame"
+    ],
+    "career_summary": {
+        "G": "516",
+        "PTS": "6.0",
+        "TRB": "4.5",
+        "AST": "1.7",
+        "FG%": "35.4",
+        "FT%": "62.9",
+        "PER": "9.3",
+        "WS": "13.1"
+    }
+}

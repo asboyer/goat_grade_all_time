@@ -1,0 +1,34 @@
+{
+    "name": [
+        "Justin Alaric Holiday"
+    ],
+    "twitter": "JustHolla7",
+    "instagram": "justholla7",
+    "nicknames": [
+        "The Fireman"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "180",
+    "birthday": "april 5, 1989",
+    "birthplace": "mission hills, california US",
+    "college": "washington",
+    "high school": " campbell hall in north hollywood, california",
+    "debut": "april 3, 2013",
+    "accomplishments": [
+        "2015 nba champ"
+    ],
+    "career_summary": {
+        "G": "576",
+        "PTS": "8.7",
+        "TRB": "3.0",
+        "AST": "1.5",
+        "FG%": "39.8",
+        "FG3%": "36.5",
+        "FT%": "82.0",
+        "eFG%": "51.0",
+        "PER": "10.7",
+        "WS": "16.8"
+    }
+}

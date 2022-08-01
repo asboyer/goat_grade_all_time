@@ -1,0 +1,28 @@
+{
+    "name": "Ollie Johnson",
+    "nicknames": [
+        "O.J."
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "200",
+    "birthday": "may 11, 1949",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "temple",
+    "high school": " south philadelphia in philadelphia, pennsylvania - attended but did not play",
+    "draft": "portland trail blazers, 2nd round (17th pick, 30th overall), 1972 nba draft",
+    "debut": "october 13, 1972",
+    "career_summary": {
+        "G": "690",
+        "PTS": "7.7",
+        "TRB": "3.3",
+        "AST": "1.8",
+        "FG%": "49.6",
+        "FG3%": "15.0",
+        "FT%": "82.7",
+        "eFG%": "49.6",
+        "PER": "12.8",
+        "WS": "27.0"
+    }
+}

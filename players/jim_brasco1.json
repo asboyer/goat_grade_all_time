@@ -1,0 +1,24 @@
+{
+    "name": "James J. Brasco",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "170",
+    "birthday": "february 3, 1931",
+    "birthplace": "brooklyn, new york US",
+    "died": "march 21, 2014",
+    "college": "nyu",
+    "high school": " abraham lincoln in brooklyn, new york",
+    "draft": "syracuse nationals, 2nd round, 1952 nba draft",
+    "debut": "november 1, 1952",
+    "career_summary": {
+        "G": "20",
+        "PTS": "3.9",
+        "TRB": "1.2",
+        "AST": "1.1",
+        "FG%": "26.6",
+        "FT%": "79.4",
+        "PER": "7.6",
+        "WS": "-0.2"
+    }
+}

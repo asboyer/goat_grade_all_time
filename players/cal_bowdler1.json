@@ -1,0 +1,25 @@
+{
+    "name": "James Calloway Bowdler II",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "245",
+    "birthday": "march 31, 1977",
+    "birthplace": "sharps, virginia US",
+    "college": "old dominion",
+    "high school": " rappahannock in warsaw, virginia",
+    "draft": "atlanta hawks, 1st round (17th pick, 17th overall), 1999 nba draft",
+    "debut": "november 2, 1999",
+    "career_summary": {
+        "G": "142",
+        "PTS": "3.0",
+        "TRB": "1.9",
+        "AST": "0.2",
+        "FG%": "40.4",
+        "FG3%": "18.2",
+        "FT%": "76.8",
+        "eFG%": "40.7",
+        "PER": "11.3",
+        "WS": "1.8"
+    }
+}

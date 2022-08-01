@@ -1,0 +1,35 @@
+{
+    "name": "Danny Thomas Roundfield",
+    "nicknames": [
+        "Rounds",
+        "Dr. Rounds"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "may 26, 1953",
+    "birthplace": "detroit, michigan US",
+    "died": "august 6, 2012",
+    "college": "central michigan university",
+    "high school": " chadsey in detroit, michigan",
+    "draft": "cleveland cavaliers, 2nd round (10th pick, 28th overall), 1975 nba draft",
+    "debut": "october 21, 1976 &blacksquare aba debut",
+    "accomplishments": [
+        "3x all star",
+        "1979-80 all-nba",
+        "5x all-defensive"
+    ],
+    "career_summary": {
+        "G": "813",
+        "PTS": "14.3",
+        "TRB": "9.2",
+        "AST": "2.0",
+        "FG%": "48.2",
+        "FG3%": "11.1",
+        "FT%": "73.5",
+        "eFG%": "48.3",
+        "PER": "17.9",
+        "WS": "66.5"
+    }
+}

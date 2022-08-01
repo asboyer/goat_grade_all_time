@@ -1,0 +1,37 @@
+{
+    "name": [
+        "John Martin Collins III"
+    ],
+    "twitter": "jcollins20_",
+    "instagram": "jcollins20_",
+    "nicknames": [
+        "JC",
+        "The Baptist",
+        "Dunkin' Deacon"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "september 23, 1997",
+    "birthplace": "layton, utah US",
+    "college": "wake forest",
+    "high school": " cardinal newman in west palm beach, florida",
+    "draft": "atlanta hawks, 1st round (19th pick, 19th overall), 2017 nba draft",
+    "debut": "october 18, 2017",
+    "accomplishments": [
+        "2017-18 all-rookie"
+    ],
+    "career_summary": {
+        "G": "293",
+        "PTS": "16.5",
+        "TRB": "8.3",
+        "AST": "1.6",
+        "FG%": "55.9",
+        "FG3%": "37.6",
+        "FT%": "77.9",
+        "eFG%": "60.0",
+        "PER": "20.5",
+        "WS": "28.1"
+    }
+}

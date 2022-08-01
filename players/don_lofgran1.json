@@ -1,0 +1,24 @@
+{
+    "name": "Donald James Lofgran",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "200",
+    "birthday": "november 8, 1929",
+    "birthplace": "oakland, california US",
+    "died": "june 17, 1976",
+    "college": "san francisco",
+    "high school": " oakland in oakland, california",
+    "draft": "syracuse nationals, 1st round (12th pick, 12th overall), 1950 nba draft",
+    "debut": "november 2, 1950",
+    "career_summary": {
+        "G": "209",
+        "PTS": "6.1",
+        "TRB": "3.9",
+        "AST": "1.0",
+        "FG%": "32.9",
+        "FT%": "69.2",
+        "PER": "11.7",
+        "WS": "3.0"
+    }
+}

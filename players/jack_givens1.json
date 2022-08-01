@@ -1,0 +1,28 @@
+{
+    "name": "Jack Givens",
+    "nicknames": [
+        "Goose"
+    ],
+    "position": "small forward",
+    "shooting_hand": "left",
+    "height": "6-5",
+    "weight": "205",
+    "birthday": "september 21, 1956",
+    "birthplace": "lexington, kentucky US",
+    "college": "kentucky",
+    "high school": " bryan station in lexington, kentucky",
+    "draft": "atlanta hawks, 1st round (16th pick, 16th overall), 1978 nba draft",
+    "debut": "october 13, 1978",
+    "career_summary": {
+        "G": "156",
+        "PTS": "6.7",
+        "TRB": "2.9",
+        "AST": "0.9",
+        "FG%": "40.1",
+        "FG3%": "0.0",
+        "FT%": "79.1",
+        "eFG%": "40.1",
+        "PER": "12.3",
+        "WS": "4.3"
+    }
+}

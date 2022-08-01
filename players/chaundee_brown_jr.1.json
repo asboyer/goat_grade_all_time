@@ -1,0 +1,31 @@
+{
+    "name": "Clarence Brown",
+    "nicknames": [
+        "Wild Thing"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "214",
+    "birthday": "february 29, 1968",
+    "birthplace": "new york, new york US",
+    "college": "nc state",
+    "high school": " north brunswick in leland, north carolina",
+    "draft": "cleveland cavaliers, 2nd round (16th pick, 43rd overall), 1989 nba draft",
+    "debut": "november 3, 1989",
+    "accomplishments": [
+        "1995 nba champ"
+    ],
+    "career_summary": {
+        "G": "694",
+        "PTS": "5.9",
+        "TRB": "3.1",
+        "AST": "0.8",
+        "FG%": "49.1",
+        "FG3%": "22.7",
+        "FT%": "69.9",
+        "eFG%": "49.4",
+        "PER": "11.6",
+        "WS": "19.0"
+    }
+}

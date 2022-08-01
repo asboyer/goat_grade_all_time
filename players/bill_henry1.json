@@ -1,0 +1,25 @@
+{
+    "name": "William Gambrell Henry",
+    "nicknames": [
+        "Big Bill"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "215",
+    "birthday": "december 27, 1924",
+    "birthplace": "dallas, texas US",
+    "died": "december 23, 1985",
+    "college": "rice university",
+    "high school": " highland park in dallas, texas",
+    "career_summary": {
+        "G": "95",
+        "PTS": "6.5",
+        "TRB": "-",
+        "AST": "1.1",
+        "FG%": "32.0",
+        "FT%": "64.1",
+        "PER": "-",
+        "WS": "5.4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Isaac Humphries"
+    ],
+    "twitter": "IsaacHumphries7",
+    "instagram": "isaachumphries7",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "255",
+    "birthday": "january 5, 1998",
+    "birthplace": "sydney, australia AU",
+    "college": "kentucky",
+    "high school": " la lumiere school in la porte, indiana",
+    "debut": "april 2, 2019",
+    "career_summary": {
+        "G": "5",
+        "PTS": "3.0",
+        "TRB": "2.2",
+        "AST": "0.0",
+        "FG%": "28.6",
+        "FG3%": "27.3",
+        "FT%": "-",
+        "eFG%": "35.7",
+        "PER": "3.4",
+        "WS": "-0.1"
+    }
+}

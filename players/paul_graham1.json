@@ -1,0 +1,27 @@
+{
+    "name": "Paul Graham",
+    "nicknames": [
+        "Snoop"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "200",
+    "birthday": "november 28, 1967",
+    "birthplace": "philadelphia, pennsylvania US",
+    "college": "ohio university",
+    "high school": ": olney in philadelphia, pennsylvania, benjamin franklin in philadelphia, pennsylvania",
+    "debut": "november 8, 1991",
+    "career_summary": {
+        "G": "179",
+        "PTS": "8.4",
+        "TRB": "2.4",
+        "AST": "2.0",
+        "FG%": "44.8",
+        "FG3%": "33.9",
+        "FT%": "73.9",
+        "eFG%": "48.7",
+        "PER": "13.7",
+        "WS": "5.7"
+    }
+}

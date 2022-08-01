@@ -1,0 +1,26 @@
+{
+    "name": "Andrew Johnson Jr.",
+    "nicknames": [
+        "Handy Andy"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "215",
+    "birthday": "november 8, 1932",
+    "birthplace": "los angeles, california US",
+    "died": "august 30, 2002",
+    "college": "university of portland",
+    "high school": " north hollywood in north hollywood, california",
+    "debut": "october 25, 1958",
+    "career_summary": {
+        "G": "292",
+        "PTS": "9.8",
+        "TRB": "4.1",
+        "AST": "2.3",
+        "FG%": "39.2",
+        "FT%": "60.5",
+        "PER": "11.1",
+        "WS": "7.9"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Lorenzo Emile Charles",
+    "nicknames": [
+        "Lo"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "225",
+    "birthday": "november 25, 1963",
+    "birthplace": "brooklyn, new york US",
+    "died": "june 27, 2011",
+    "college": "nc state",
+    "high school": " brooklyn tech in brooklyn, new york",
+    "draft": "atlanta hawks, 2nd round (17th pick, 41st overall), 1985 nba draft",
+    "debut": "october 25, 1985",
+    "career_summary": {
+        "G": "36",
+        "PTS": "3.4",
+        "TRB": "1.1",
+        "AST": "0.2",
+        "FG%": "55.7",
+        "FG3%": "-",
+        "FT%": "66.7",
+        "eFG%": "55.7",
+        "PER": "11.5",
+        "WS": "0.5"
+    }
+}

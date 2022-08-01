@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Eugene Hamilton",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "may 8, 1944",
+    "birthplace": "huntington beach, california US",
+    "died": "june 18, 2012",
+    "college": "arizona state",
+    "high school": " huntington beach in huntington beach, california",
+    "debut": "october 17, 1967 &blacksquare aba debut",
+    "career_summary": {
+        "G": "144",
+        "PTS": "4.6",
+        "TRB": "3.1",
+        "AST": "0.8",
+        "FG%": "51.1",
+        "FG3%": "0.0",
+        "FT%": "77.3",
+        "eFG%": "51.1",
+        "PER": "12.2",
+        "WS": "4.0"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Walton Kirk Jr.",
+    "nicknames": [
+        "Junior"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "173",
+    "birthday": "september 3, 1924",
+    "birthplace": "mount vernon, illinois US",
+    "died": "december 12, 2012",
+    "college": "illinois",
+    "high school": " mount vernon in mount vernon, illinois",
+    "career_summary": {
+        "G": "118",
+        "PTS": "7.7",
+        "TRB": "4.0",
+        "AST": "2.1",
+        "FG%": "30.5",
+        "FT%": "71.8",
+        "PER": "9.8",
+        "WS": "7.7"
+    }
+}

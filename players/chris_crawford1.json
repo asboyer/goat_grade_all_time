@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Lee Crawford",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "may 13, 1975",
+    "birthplace": "kalamazoo, michigan US",
+    "college": "marquette",
+    "high school": " comstock in kalamazoo, michigan",
+    "draft": "atlanta hawks, 2nd round (22nd pick, 50th overall), 1997 nba draft",
+    "debut": "november 14, 1997",
+    "career_summary": {
+        "G": "252",
+        "PTS": "6.6",
+        "TRB": "2.2",
+        "AST": "0.6",
+        "FG%": "43.7",
+        "FG3%": "34.7",
+        "FT%": "82.4",
+        "eFG%": "46.2",
+        "PER": "12.9",
+        "WS": "6.5"
+    }
+}

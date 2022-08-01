@@ -1,0 +1,31 @@
+{
+    "name": "Larry E. Siegfried",
+    "nicknames": [
+        "Ziggy",
+        "Sieggy"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "may 22, 1939",
+    "birthplace": "shelby, ohio US",
+    "died": "october 14, 2010",
+    "college": "ohio state",
+    "high school": " shelby in shelby, ohio",
+    "draft": "cincinnati royals, 1st round (3rd pick, 3rd overall), 1961 nba draft",
+    "debut": "october 16, 1963",
+    "accomplishments": [
+        "5x nba champ"
+    ],
+    "career_summary": {
+        "G": "550",
+        "PTS": "10.8",
+        "TRB": "2.8",
+        "AST": "3.5",
+        "FG%": "40.9",
+        "FT%": "85.4",
+        "PER": "13.7",
+        "WS": "33.1"
+    }
+}

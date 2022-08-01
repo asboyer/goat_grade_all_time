@@ -1,0 +1,24 @@
+{
+    "name": "Leon Smith",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "235",
+    "birthday": "november 2, 1980",
+    "birthplace": "chicago, illinois US",
+    "high school": " martin luther king in chicago, illinois",
+    "draft": "san antonio spurs, 1st round (29th pick, 29th overall), 1999 nba draft",
+    "debut": "january 17, 2002",
+    "career_summary": {
+        "G": "15",
+        "PTS": "2.2",
+        "TRB": "2.2",
+        "AST": "0.2",
+        "FG%": "39.3",
+        "FG3%": "-",
+        "FT%": "64.7",
+        "eFG%": "39.3",
+        "PER": "14.3",
+        "WS": "0.2"
+    }
+}

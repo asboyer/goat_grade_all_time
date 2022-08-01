@@ -1,0 +1,28 @@
+{
+    "name": "John Edward Bagley",
+    "nicknames": [
+        "Bags"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "185",
+    "birthday": "april 23, 1960",
+    "birthplace": "bridgeport, connecticut US",
+    "college": "boston college",
+    "high school": " harding in bridgeport, connecticut",
+    "draft": "cleveland cavaliers, 1st round (12th pick, 12th overall), 1982 nba draft",
+    "debut": "october 29, 1982",
+    "career_summary": {
+        "G": "665",
+        "PTS": "8.7",
+        "TRB": "2.6",
+        "AST": "6.0",
+        "FG%": "43.7",
+        "FG3%": "24.1",
+        "FT%": "77.9",
+        "eFG%": "44.8",
+        "PER": "13.0",
+        "WS": "16.6"
+    }
+}

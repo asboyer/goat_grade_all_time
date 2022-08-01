@@ -1,0 +1,44 @@
+{
+    "name": [
+        "Rajon Pierre Rondo"
+    ],
+    "twitter": "RajonRondo",
+    "instagram": "rajonrondo",
+    "nicknames": [
+        "Johnny",
+        "Playoff Rondo",
+        "Swag",
+        "The Yoga Instructor"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "february 22, 1986",
+    "birthplace": "louisville, kentucky US",
+    "college": "kentucky",
+    "high school": ": eastern in louisville, kentucky, oak hill academy in mouth of wilson, virginia",
+    "draft": "phoenix suns, 1st round (21st pick, 21st overall), 2006 nba draft",
+    "debut": "november 1, 2006",
+    "accomplishments": [
+        "4x all star",
+        "3x ast champ",
+        "2009-10 stl champ",
+        "2x nba champ",
+        "2011-12 all-nba",
+        "2006-07 all-rookie",
+        "4x all-defensive"
+    ],
+    "career_summary": {
+        "G": "957",
+        "PTS": "9.8",
+        "TRB": "4.5",
+        "AST": "7.9",
+        "FG%": "45.6",
+        "FG3%": "32.4",
+        "FT%": "61.1",
+        "eFG%": "48.3",
+        "PER": "15.8",
+        "WS": "61.8"
+    }
+}

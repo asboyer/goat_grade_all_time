@@ -1,0 +1,28 @@
+{
+    "name": "Rickey Darnell Brown",
+    "nicknames": [
+        "Mr. October"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "215",
+    "birthday": "august 20, 1958",
+    "birthplace": "madison county, mississippi US",
+    "college": "mississippi state",
+    "high school": " west fulton in atlanta, georgia",
+    "draft": "golden state warriors, 1st round (13th pick, 13th overall), 1980 nba draft",
+    "debut": "october 10, 1980",
+    "career_summary": {
+        "G": "340",
+        "PTS": "4.4",
+        "TRB": "3.5",
+        "AST": "0.4",
+        "FG%": "46.4",
+        "FG3%": "0.0",
+        "FT%": "66.7",
+        "eFG%": "46.4",
+        "PER": "9.8",
+        "WS": "4.7"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Arthur Caleb Burris",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "220",
+    "birthday": "april 7, 1924",
+    "birthplace": "nashville, tennessee US",
+    "died": "september 19, 1993",
+    "college": "tennessee",
+    "high school": " central in nashville, tennessee",
+    "draft": "fort wayne pistons, 3rd round (8th pick, 32nd overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "career_summary": {
+        "G": "74",
+        "PTS": "2.5",
+        "TRB": "2.8",
+        "AST": "0.7",
+        "FG%": "26.0",
+        "FT%": "62.7",
+        "PER": "5.6",
+        "WS": "-1.0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Robert William Lavoy",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "185",
+    "birthday": "june 29, 1926",
+    "birthplace": "aurora, illinois US",
+    "died": "december 18, 2010",
+    "college": "western kentucky",
+    "high school": " east aurora in aurora, illinois",
+    "draft": "indianapolis olympians, 1st round (9th pick, 9th overall), 1950 nba draft",
+    "debut": "november 1, 1950",
+    "career_summary": {
+        "G": "264",
+        "PTS": "8.2",
+        "TRB": "6.2",
+        "AST": "1.5",
+        "FG%": "38.4",
+        "FT%": "70.7",
+        "PER": "15.1",
+        "WS": "15.9"
+    }
+}

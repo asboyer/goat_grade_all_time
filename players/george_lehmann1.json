@@ -1,0 +1,24 @@
+{
+    "name": "George Lehmann",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "180",
+    "birthday": "may 1, 1942",
+    "birthplace": "riverside, new jersey US",
+    "college": "campbell",
+    "high school": ": palmyra in palmyra, new jersey, camden catholic in camden, new jersey",
+    "debut": "october 14, 1967 &blacksquare aba debut",
+    "career_summary": {
+        "G": "376",
+        "PTS": "11.9",
+        "TRB": "1.6",
+        "AST": "4.5",
+        "FG%": "41.8",
+        "FG3%": "36.5",
+        "FT%": "84.1",
+        "eFG%": "47.1",
+        "PER": "12.8",
+        "WS": "18.6"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Jermaine Jackson",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "204",
+    "birthday": "june 7, 1976",
+    "birthplace": "detroit, michigan US",
+    "college": "detroit mercy",
+    "high school": " finney in detroit, michigan",
+    "debut": "november 13, 1999",
+    "career_summary": {
+        "G": "135",
+        "PTS": "1.9",
+        "TRB": "1.1",
+        "AST": "1.4",
+        "FG%": "40.1",
+        "FG3%": "15.8",
+        "FT%": "71.1",
+        "eFG%": "40.8",
+        "PER": "8.8",
+        "WS": "1.0"
+    }
+}

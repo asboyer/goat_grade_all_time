@@ -1,0 +1,38 @@
+{
+    "name": [
+        "Tracy Lamar McGrady Jr."
+    ],
+    "twitter": "Real_T_Mac",
+    "nicknames": [
+        "T-Mac",
+        "The Big Sleep"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "may 24, 1979",
+    "birthplace": "bartow, florida US",
+    "high school": ": auburndale in auburndale, florida, mt. zion christian academy in durham, north carolina",
+    "draft": "toronto raptors, 1st round (9th pick, 9th overall), 1997 nba draft",
+    "debut": "october 31, 1997",
+    "accomplishments": [
+        "hall of fame",
+        "7x all star",
+        "2x scoring champ",
+        "7x all-nba",
+        "2000-01 most improved"
+    ],
+    "career_summary": {
+        "G": "938",
+        "PTS": "19.6",
+        "TRB": "5.6",
+        "AST": "4.4",
+        "FG%": "43.5",
+        "FG3%": "33.8",
+        "FT%": "74.6",
+        "eFG%": "47.0",
+        "PER": "22.1",
+        "WS": "97.3"
+    }
+}

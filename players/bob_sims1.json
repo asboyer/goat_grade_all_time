@@ -1,0 +1,28 @@
+{
+    "name": "Robert Antell Sims Jr.",
+    "nicknames": [
+        "Bobby"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "220",
+    "birthday": "october 9, 1938",
+    "died": "march 21, 2006",
+    "college": "pepperdine",
+    "high school": " jordan in los angeles, california",
+    "draft": "st. louis hawks, 7th round (6th pick, 54th overall), 1960 nba draft",
+    "debut": "october 19, 1961 &blacksquare aba debut",
+    "career_summary": {
+        "G": "67",
+        "PTS": "7.7",
+        "TRB": "2.7",
+        "AST": "2.3",
+        "FG%": "39.2",
+        "FG3%": "-",
+        "FT%": "57.2",
+        "eFG%": "39.2",
+        "PER": "9.0",
+        "WS": "0.4"
+    }
+}

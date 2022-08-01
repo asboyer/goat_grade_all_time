@@ -1,0 +1,28 @@
+{
+    "name": "Stanislav Medvedenko",
+    "nicknames": [
+        "Slava"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "250",
+    "birthday": "april 4, 1979",
+    "birthplace": "karapyshi, ukraine UA",
+    "debut": "december 28, 2000",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "263",
+        "PTS": "5.3",
+        "TRB": "2.8",
+        "AST": "0.5",
+        "FG%": "45.0",
+        "FG3%": "15.4",
+        "FT%": "74.0",
+        "eFG%": "45.1",
+        "PER": "13.3",
+        "WS": "6.0"
+    }
+}

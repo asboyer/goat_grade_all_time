@@ -1,0 +1,23 @@
+{
+    "name": "Walter Vernon Hatton",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "195",
+    "birthday": "january 13, 1936",
+    "birthplace": "owingsville, kentucky US",
+    "college": "kentucky",
+    "high school": " lafayette in lexington, kentucky",
+    "draft": "cincinnati royals, 2nd round (2nd pick, 10th overall), 1958 nba draft",
+    "debut": "october 22, 1958",
+    "career_summary": {
+        "G": "225",
+        "PTS": "5.5",
+        "TRB": "2.4",
+        "AST": "1.4",
+        "FG%": "34.4",
+        "FT%": "73.5",
+        "PER": "8.5",
+        "WS": "0.2"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Purcell Chambers",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "185",
+    "birthday": "july 18, 1943",
+    "birthplace": "washington, district of columbia US",
+    "college": "utah",
+    "high school": " eastern in washington, district of columbia",
+    "draft": "los angeles lakers, 1st round (7th pick, 7th overall), 1966 nba draft",
+    "debut": "october 18, 1966 &blacksquare aba debut",
+    "career_summary": {
+        "G": "320",
+        "PTS": "8.3",
+        "TRB": "3.2",
+        "AST": "0.8",
+        "FG%": "44.0",
+        "FG3%": "20.0",
+        "FT%": "77.4",
+        "eFG%": "44.0",
+        "PER": "13.2",
+        "WS": "5.2"
+    }
+}

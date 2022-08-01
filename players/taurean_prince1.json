@@ -1,0 +1,33 @@
+{
+    "name": "Tayshaun Durell Prince",
+    "nicknames": [
+        "Tay",
+        "Compton Kid"
+    ],
+    "position": "small forward",
+    "shooting_hand": "left",
+    "height": "6-9",
+    "weight": "212",
+    "birthday": "february 28, 1980",
+    "birthplace": "compton, california US",
+    "college": "kentucky",
+    "high school": " dominguez in compton, california",
+    "draft": "detroit pistons, 1st round (23rd pick, 23rd overall), 2002 nba draft",
+    "debut": "october 30, 2002",
+    "accomplishments": [
+        "2004 nba champ",
+        "4x all-defensive"
+    ],
+    "career_summary": {
+        "G": "1017",
+        "PTS": "11.1",
+        "TRB": "4.3",
+        "AST": "2.4",
+        "FG%": "45.5",
+        "FG3%": "36.7",
+        "FT%": "75.6",
+        "eFG%": "48.3",
+        "PER": "13.7",
+        "WS": "63.1"
+    }
+}

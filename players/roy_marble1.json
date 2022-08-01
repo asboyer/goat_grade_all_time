@@ -1,0 +1,26 @@
+{
+    "name": "Roy Lane Marble Jr.",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "190",
+    "birthday": "december 13, 1966",
+    "birthplace": "flint, michigan US",
+    "died": "september 11, 2015",
+    "college": "iowa",
+    "high school": " beecher in flint, michigan",
+    "draft": "atlanta hawks, 1st round (23rd pick, 23rd overall), 1989 nba draft",
+    "debut": "november 3, 1989",
+    "career_summary": {
+        "G": "29",
+        "PTS": "1.9",
+        "TRB": "1.1",
+        "AST": "0.4",
+        "FG%": "25.7",
+        "FG3%": "0.0",
+        "FT%": "59.4",
+        "eFG%": "25.7",
+        "PER": "4.0",
+        "WS": "-0.5"
+    }
+}

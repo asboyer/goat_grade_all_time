@@ -1,0 +1,38 @@
+{
+    "name": "Dennis Wayne Johnson",
+    "nicknames": [
+        "D.J.",
+        "Airplane"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "185",
+    "birthday": "september 18, 1954",
+    "birthplace": "san pedro, california US",
+    "died": "february 22, 2007",
+    "college": "pepperdine",
+    "high school": " dominguez in compton, california",
+    "draft": "seattle supersonics, 2nd round (12th pick, 29th overall), 1976 nba draft",
+    "debut": "october 24, 1976",
+    "accomplishments": [
+        "hall of fame",
+        "5x all star",
+        "3x nba champ",
+        "2x all-nba",
+        "9x all-defensive",
+        "1978-79 finals mvp"
+    ],
+    "career_summary": {
+        "G": "1100",
+        "PTS": "14.1",
+        "TRB": "3.9",
+        "AST": "5.0",
+        "FG%": "44.5",
+        "FG3%": "17.2",
+        "FT%": "79.7",
+        "eFG%": "44.8",
+        "PER": "14.6",
+        "WS": "82.6"
+    }
+}

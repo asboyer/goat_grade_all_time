@@ -1,0 +1,37 @@
+{
+    "name": "Peter Press Maravich",
+    "nicknames": [
+        "Pistol Pete"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "197",
+    "birthday": "june 22, 1947",
+    "birthplace": "aliquippa, pennsylvania US",
+    "died": "january 5, 1988",
+    "college": "lsu",
+    "high school": ": daniel in central, south carolina, needham broughton in raleigh, north carolina, edward military institute in salemberg, north carolina",
+    "draft": "atlanta hawks, 1st round (3rd pick, 3rd overall), 1970 nba draft",
+    "debut": "october 17, 1970",
+    "accomplishments": [
+        "hall of fame",
+        "5x all star",
+        "1976-77 scoring champ",
+        "4x all-nba",
+        "1970-71 all-rookie",
+        "nba 75th anniv. team"
+    ],
+    "career_summary": {
+        "G": "658",
+        "PTS": "24.2",
+        "TRB": "4.2",
+        "AST": "5.4",
+        "FG%": "44.1",
+        "FG3%": "66.7",
+        "FT%": "82.0",
+        "eFG%": "44.1",
+        "PER": "18.4",
+        "WS": "46.7"
+    }
+}

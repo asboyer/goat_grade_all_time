@@ -1,0 +1,36 @@
+{
+    "name": [
+        "DeMarre LaEdrick Carroll"
+    ],
+    "twitter": "DeMarreCarroll1",
+    "instagram": "demarrecarroll1",
+    "nicknames": [
+        "Junkyard Dog",
+        "JYD 2.0"
+    ],
+    "position": "small forward, power forward, and center",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "215",
+    "birthday": "july 27, 1986",
+    "birthplace": "birmingham, alabama US",
+    "colleges": [
+        "vanderbilt",
+        "missouri"
+    ],
+    "high school": " john carroll in birmingham, alabama",
+    "draft": "memphis grizzlies, 1st round (27th pick, 27th overall), 2009 nba draft",
+    "debut": "october 28, 2009",
+    "career_summary": {
+        "G": "578",
+        "PTS": "8.9",
+        "TRB": "4.2",
+        "AST": "1.3",
+        "FG%": "43.0",
+        "FG3%": "35.8",
+        "FT%": "74.1",
+        "eFG%": "50.8",
+        "PER": "13.3",
+        "WS": "29.5"
+    }
+}

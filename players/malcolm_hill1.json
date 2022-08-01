@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Malcolm Hill"
+    ],
+    "twitter": "Malcolmillini21",
+    "instagram": "malcolmillini21",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "october 26, 1995",
+    "birthplace": "st. louis, missouri US",
+    "college": "illinois",
+    "high school": " belleville east in belleville, illinois",
+    "debut": "december 25, 2021",
+    "career_summary": {
+        "G": "19",
+        "PTS": "3.8",
+        "TRB": "1.8",
+        "AST": "0.4",
+        "FG%": "46.2",
+        "FG3%": "36.1",
+        "FT%": "78.6",
+        "eFG%": "58.7",
+        "PER": "12.7",
+        "WS": "0.6"
+    }
+}

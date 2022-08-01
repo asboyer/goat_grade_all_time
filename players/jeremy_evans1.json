@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Jeremy Evans"
+    ],
+    "twitter": "JeremyEvans40",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "200",
+    "birthday": "october 24, 1987",
+    "birthplace": "crossett, arkansas US",
+    "college": "western kentucky",
+    "high school": " crossett in crossett, arkansas",
+    "draft": "utah jazz, 2nd round (25th pick, 55th overall), 2010 nba draft",
+    "debut": "october 27, 2010",
+    "career_summary": {
+        "G": "250",
+        "PTS": "3.5",
+        "TRB": "2.6",
+        "AST": "0.4",
+        "FG%": "56.9",
+        "FG3%": "23.1",
+        "FT%": "68.7",
+        "eFG%": "57.3",
+        "PER": "17.3",
+        "WS": "8.2"
+    }
+}

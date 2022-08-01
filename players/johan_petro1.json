@@ -1,0 +1,23 @@
+{
+    "name": "Johan Petro",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "247",
+    "birthday": "january 27, 1986",
+    "birthplace": "paris, france FR",
+    "draft": "seattle supersonics, 1st round (25th pick, 25th overall), 2005 nba draft",
+    "debut": "november 2, 2005",
+    "career_summary": {
+        "G": "473",
+        "PTS": "4.7",
+        "TRB": "3.9",
+        "AST": "0.5",
+        "FG%": "46.2",
+        "FG3%": "15.4",
+        "FT%": "67.8",
+        "eFG%": "46.2",
+        "PER": "10.4",
+        "WS": "5.5"
+    }
+}

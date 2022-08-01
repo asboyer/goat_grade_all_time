@@ -1,0 +1,34 @@
+{
+    "name": "Clifford Oldham Hagan",
+    "nicknames": [
+        "Li'l Abner"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "210",
+    "birthday": "december 9, 1931",
+    "birthplace": "owensboro, kentucky US",
+    "college": "kentucky",
+    "high school": " owensboro in owensboro, kentucky",
+    "draft": "boston celtics, 3rd round, 1953 nba draft",
+    "debut": "november 3, 1956 &blacksquare aba debut",
+    "accomplishments": [
+        "hall of fame",
+        "6x all star",
+        "1958 nba champ",
+        "2x all-nba"
+    ],
+    "career_summary": {
+        "G": "839",
+        "PTS": "17.7",
+        "TRB": "6.6",
+        "AST": "3.2",
+        "FG%": "45.4",
+        "FG3%": "0.0",
+        "FT%": "79.9",
+        "eFG%": "45.4",
+        "PER": "19.8",
+        "WS": "85.3"
+    }
+}

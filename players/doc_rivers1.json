@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Glenn Anton Rivers"
+    ],
+    "twitter": "DocRivers",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "185",
+    "birthday": "october 13, 1961",
+    "birthplace": "chicago, illinois US",
+    "college": "marquette",
+    "high school": " proviso east in maywood, illinois",
+    "draft": "atlanta hawks, 2nd round (7th pick, 31st overall), 1983 nba draft",
+    "debut": "october 28, 1983",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "864",
+        "PTS": "10.9",
+        "TRB": "3.0",
+        "AST": "5.7",
+        "FG%": "44.4",
+        "FG3%": "32.8",
+        "FT%": "78.4",
+        "eFG%": "46.9",
+        "PER": "16.6",
+        "WS": "68.2"
+    }
+}

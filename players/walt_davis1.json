@@ -1,0 +1,30 @@
+{
+    "name": "Walter Francis Davis",
+    "nicknames": [
+        "Buddy"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "january 5, 1931",
+    "birthplace": "beaumont, texas US",
+    "died": "november 16, 2020",
+    "college": "texas a&m",
+    "high school": " nederland in nederland, texas",
+    "draft": "philadelphia warriors, 2nd round, 1952 nba draft",
+    "debut": "october 31, 1953",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "325",
+        "PTS": "4.8",
+        "TRB": "4.3",
+        "AST": "0.7",
+        "FG%": "37.7",
+        "FT%": "69.5",
+        "PER": "9.6",
+        "WS": "4.8"
+    }
+}

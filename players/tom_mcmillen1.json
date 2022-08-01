@@ -1,0 +1,25 @@
+{
+    "name": "Charles Thomas McMillen",
+    "position": "center",
+    "shooting_hand": "left",
+    "height": "6-11",
+    "weight": "215",
+    "birthday": "may 26, 1952",
+    "birthplace": "elmira, new york US",
+    "college": "maryland",
+    "high school": " mansfield in mansfield, pennsylvania",
+    "draft": "buffalo braves, 1st round (9th pick, 9th overall), 1974 nba draft",
+    "debut": "november 11, 1975",
+    "career_summary": {
+        "G": "729",
+        "PTS": "8.1",
+        "TRB": "4.0",
+        "AST": "1.1",
+        "FG%": "48.3",
+        "FG3%": "12.0",
+        "FT%": "80.6",
+        "eFG%": "48.3",
+        "PER": "12.2",
+        "WS": "27.2"
+    }
+}

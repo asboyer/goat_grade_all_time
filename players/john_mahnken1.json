@@ -1,0 +1,26 @@
+{
+    "name": "John Emmanuel Mahnken",
+    "nicknames": [
+        "Long John"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "220",
+    "birthday": "june 16, 1922",
+    "birthplace": "new jersey, new jersey US",
+    "died": "december 14, 2000",
+    "college": "georgetown",
+    "high school": " memorial in west new york, new jersey",
+    "debut": "november 2, 1946",
+    "career_summary": {
+        "G": "414",
+        "PTS": "5.8",
+        "TRB": "2.9",
+        "AST": "1.3",
+        "FG%": "27.2",
+        "FT%": "65.0",
+        "PER": "10.1",
+        "WS": "1.2"
+    }
+}

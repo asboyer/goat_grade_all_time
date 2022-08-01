@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Jared Armon Cunningham"
+    ],
+    "twitter": "J1Flight",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "195",
+    "birthday": "may 22, 1991",
+    "birthplace": "oakland, california US",
+    "college": "oregon state",
+    "high school": " san leandro in san leandro, california",
+    "draft": "cleveland cavaliers, 1st round (24th pick, 24th overall), 2012 nba draft",
+    "debut": "october 31, 2012",
+    "career_summary": {
+        "G": "84",
+        "PTS": "2.3",
+        "TRB": "0.7",
+        "AST": "0.5",
+        "FG%": "34.7",
+        "FG3%": "30.6",
+        "FT%": "67.4",
+        "eFG%": "40.2",
+        "PER": "6.8",
+        "WS": "0.2"
+    }
+}

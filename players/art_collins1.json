@@ -1,0 +1,24 @@
+{
+    "name": "Arthur Collins",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "185",
+    "birthday": "april 14, 1954",
+    "birthplace": "sandersville, georgia US",
+    "college": "st. thomas university",
+    "draft": "boston celtics, 6th round (17th pick, 103rd overall), 1976 nba draft",
+    "debut": "february 3, 1981",
+    "career_summary": {
+        "G": "29",
+        "PTS": "3.2",
+        "TRB": "1.4",
+        "AST": "0.9",
+        "FG%": "35.4",
+        "FG3%": "0.0",
+        "FT%": "66.7",
+        "eFG%": "35.4",
+        "PER": "4.3",
+        "WS": "-0.4"
+    }
+}

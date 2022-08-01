@@ -1,0 +1,31 @@
+{
+    "name": "Robert J. Houbregs",
+    "nicknames": [
+        "Houby",
+        "Bobby"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "march 12, 1932",
+    "birthplace": "vancouver, british columbia CA",
+    "died": "may 28, 2014",
+    "college": "washington",
+    "high school": " queen anne in seattle, washington",
+    "draft": "milwaukee hawks, 1st round (3rd pick, 3rd overall), 1953 nba draft",
+    "debut": "october 30, 1953",
+    "accomplishments": [
+        "hall of fame"
+    ],
+    "career_summary": {
+        "G": "281",
+        "PTS": "9.3",
+        "TRB": "5.5",
+        "AST": "1.8",
+        "FG%": "40.4",
+        "FT%": "72.1",
+        "PER": "15.6",
+        "WS": "16.5"
+    }
+}

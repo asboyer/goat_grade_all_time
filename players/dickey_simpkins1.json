@@ -1,0 +1,28 @@
+{
+    "name": "LuBara Dixon Simpkins",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "248",
+    "birthday": "april 6, 1972",
+    "birthplace": "fort washington, maryland US",
+    "college": "providence",
+    "high school": " friendly in fort washington, maryland",
+    "draft": "chicago bulls, 1st round (21st pick, 21st overall), 1994 nba draft",
+    "debut": "november 4, 1994",
+    "accomplishments": [
+        "3x nba champ"
+    ],
+    "career_summary": {
+        "G": "327",
+        "PTS": "4.2",
+        "TRB": "3.6",
+        "AST": "0.9",
+        "FG%": "44.0",
+        "FG3%": "22.2",
+        "FT%": "61.8",
+        "eFG%": "44.1",
+        "PER": "9.5",
+        "WS": "4.7"
+    }
+}

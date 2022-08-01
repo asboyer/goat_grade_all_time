@@ -1,0 +1,32 @@
+{
+    "name": "Thomas James Gugliotta",
+    "nicknames": [
+        "Googs"
+    ],
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "240",
+    "birthday": "december 19, 1969",
+    "birthplace": "huntington station, new york US",
+    "college": "nc state",
+    "high school": " walt whitman in huntington station, new york",
+    "draft": "washington bullets, 1st round (6th pick, 6th overall), 1992 nba draft",
+    "debut": "november 6, 1992",
+    "accomplishments": [
+        "1x all star",
+        "1992-93 all-rookie"
+    ],
+    "career_summary": {
+        "G": "763",
+        "PTS": "13.0",
+        "TRB": "7.3",
+        "AST": "2.8",
+        "FG%": "45.1",
+        "FG3%": "28.4",
+        "FT%": "75.7",
+        "eFG%": "46.3",
+        "PER": "15.9",
+        "WS": "40.2"
+    }
+}

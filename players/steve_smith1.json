@@ -1,0 +1,36 @@
+{
+    "name": [
+        "Steven Delano Smith"
+    ],
+    "twitter": "steve21smith",
+    "nicknames": [
+        "Smitty"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "200",
+    "birthday": "march 31, 1969",
+    "birthplace": "highland park, michigan US",
+    "college": "michigan state",
+    "high school": " pershing in detroit, michigan",
+    "draft": "miami heat, 1st round (5th pick, 5th overall), 1991 nba draft",
+    "debut": "november 2, 1991",
+    "accomplishments": [
+        "1x all star",
+        "2003 nba champ",
+        "1991-92 all-rookie"
+    ],
+    "career_summary": {
+        "G": "942",
+        "PTS": "14.3",
+        "TRB": "3.2",
+        "AST": "3.1",
+        "FG%": "44.0",
+        "FG3%": "35.8",
+        "FT%": "84.5",
+        "eFG%": "49.4",
+        "PER": "16.1",
+        "WS": "83.7"
+    }
+}

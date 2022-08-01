@@ -1,0 +1,33 @@
+{
+    "name": "John Anthony Barnhill",
+    "nicknames": [
+        "Rabbit",
+        "Barney"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "march 20, 1938",
+    "birthplace": "sturgis, kentucky US",
+    "died": "november 11, 2013",
+    "college": "tennessee state",
+    "high school": " lincoln in evansville, indiana",
+    "draft": "st. louis hawks, 11th round (6th pick, 79th overall), 1959 nba draft",
+    "debut": "october 20, 1962 &blacksquare aba debut",
+    "accomplishments": [
+        "1970 aba champ"
+    ],
+    "career_summary": {
+        "G": "589",
+        "PTS": "8.6",
+        "TRB": "2.5",
+        "AST": "2.9",
+        "FG%": "40.6",
+        "FG3%": "23.6",
+        "FT%": "65.8",
+        "eFG%": "41.6",
+        "PER": "10.7",
+        "WS": "12.7"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Fred LaCour",
+    "position": "point guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "february 7, 1938",
+    "died": "august 5, 1972",
+    "college": "san francisco",
+    "high school": " saint ignatius in san francisco, california",
+    "draft": "st. louis hawks, 3rd round (6th pick, 22nd overall), 1960 nba draft",
+    "debut": "october 23, 1960",
+    "career_summary": {
+        "G": "144",
+        "PTS": "6.5",
+        "TRB": "3.3",
+        "AST": "1.9",
+        "FG%": "42.1",
+        "FT%": "77.4",
+        "PER": "11.9",
+        "WS": "3.4"
+    }
+}

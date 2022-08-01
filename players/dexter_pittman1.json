@@ -1,0 +1,28 @@
+{
+    "name": "Dexter Jerome Pittman",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "308",
+    "birthday": "march 2, 1988",
+    "birthplace": "rosenberg, texas US",
+    "college": "texas",
+    "high school": " b.f. terry in rosenberg, texas",
+    "draft": "miami heat, 2nd round (2nd pick, 32nd overall), 2010 nba draft",
+    "debut": "april 1, 2011",
+    "accomplishments": [
+        "2012 nba champ"
+    ],
+    "career_summary": {
+        "G": "50",
+        "PTS": "2.3",
+        "TRB": "1.8",
+        "AST": "0.2",
+        "FG%": "45.0",
+        "FG3%": "-",
+        "FT%": "54.5",
+        "eFG%": "45.0",
+        "PER": "9.1",
+        "WS": "0.5"
+    }
+}

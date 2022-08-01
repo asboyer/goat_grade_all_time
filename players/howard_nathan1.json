@@ -1,0 +1,28 @@
+{
+    "name": "Howard Nathan",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "175",
+    "birthday": "january 21, 1972",
+    "birthplace": "peoria, illinois US",
+    "died": "july 28, 2019",
+    "colleges": [
+        "depaul",
+        "louisiana-monroe"
+    ],
+    "high school": " manual in peoria, illinois",
+    "debut": "november 4, 1995",
+    "career_summary": {
+        "G": "5",
+        "PTS": "2.6",
+        "TRB": "0.0",
+        "AST": "0.4",
+        "FG%": "55.6",
+        "FG3%": "0.0",
+        "FT%": "75.0",
+        "eFG%": "55.6",
+        "PER": "11.3",
+        "WS": "-0.1"
+    }
+}

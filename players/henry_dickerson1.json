@@ -1,0 +1,21 @@
+{
+    "name": "Henry Dickerson",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "november 27, 1951",
+    "birthplace": "berkley, west virginia US",
+    "college": "university of charleston",
+    "debut": "february 29, 1976",
+    "career_summary": {
+        "G": "23",
+        "PTS": "2.0",
+        "TRB": "0.2",
+        "AST": "0.8",
+        "FG%": "36.6",
+        "FT%": "62.5",
+        "PER": "6.0",
+        "WS": "-0.2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Stanley Miasek",
+    "nicknames": [
+        "Sizzlin' Stan",
+        "Big Stan"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "september 19, 1923",
+    "birthplace": "new york, new york US",
+    "died": "october 18, 1989",
+    "debut": "november 2, 1946",
+    "accomplishments": [
+        "2x all-baa"
+    ],
+    "career_summary": {
+        "G": "365",
+        "PTS": "10.6",
+        "TRB": "7.6",
+        "AST": "1.4",
+        "FG%": "33.0",
+        "FT%": "62.8",
+        "PER": "15.4",
+        "WS": "31.2"
+    }
+}

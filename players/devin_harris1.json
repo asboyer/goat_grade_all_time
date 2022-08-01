@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Devin Lamar Harris"
+    ],
+    "twitter": "Dev34Harris",
+    "instagram": "devinharris34",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "february 27, 1983",
+    "birthplace": "milwaukee, wisconsin US",
+    "college": "wisconsin",
+    "high school": " east in wauwatosa, wisconsin",
+    "draft": "washington wizards, 1st round (5th pick, 5th overall), 2004 nba draft",
+    "debut": "november 2, 2004",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "985",
+        "PTS": "10.8",
+        "TRB": "2.2",
+        "AST": "3.9",
+        "FG%": "43.2",
+        "FG3%": "32.5",
+        "FT%": "79.6",
+        "eFG%": "48.3",
+        "PER": "16.0",
+        "WS": "54.9"
+    }
+}

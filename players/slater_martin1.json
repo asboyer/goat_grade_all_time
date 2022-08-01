@@ -1,0 +1,33 @@
+{
+    "name": "Slater Nelson Martin Jr.",
+    "nicknames": [
+        "Dugie"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "170",
+    "birthday": "october 22, 1925",
+    "birthplace": "el mina, texas US",
+    "died": "october 18, 2012",
+    "college": "texas",
+    "high school": " jefferson davis in houston, texas",
+    "draft": "minneapolis lakers, 3rd round, 1949 baa draft",
+    "debut": "november 2, 1949",
+    "accomplishments": [
+        "hall of fame",
+        "7x all star",
+        "5x nba champ",
+        "5x all-nba"
+    ],
+    "career_summary": {
+        "G": "745",
+        "PTS": "9.8",
+        "TRB": "3.4",
+        "AST": "4.2",
+        "FG%": "36.4",
+        "FT%": "76.2",
+        "PER": "11.6",
+        "WS": "47.5"
+    }
+}

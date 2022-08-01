@@ -1,0 +1,28 @@
+{
+    "name": "Erick Trevez Dampier",
+    "nicknames": [
+        "Damp"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "265",
+    "birthday": "july 14, 1975",
+    "birthplace": "jackson, mississippi US",
+    "college": "mississippi state",
+    "high school": " lawrence county in monticello, mississippi",
+    "draft": "indiana pacers, 1st round (10th pick, 10th overall), 1996 nba draft",
+    "debut": "november 6, 1996",
+    "career_summary": {
+        "G": "987",
+        "PTS": "7.4",
+        "TRB": "7.1",
+        "AST": "0.8",
+        "FG%": "49.8",
+        "FG3%": "12.5",
+        "FT%": "62.6",
+        "eFG%": "49.8",
+        "PER": "14.3",
+        "WS": "52.7"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Dale Brice Hamilton",
+    "nicknames": [
+        "Ham"
+    ],
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "180",
+    "birthday": "august 16, 1919",
+    "birthplace": "fort wayne, indiana US",
+    "died": "august 12, 1994",
+    "college": "franklin college",
+    "high school": " south side in fort wayne, indiana",
+    "debut": "november 2, 1949",
+    "career_summary": {
+        "G": "14",
+        "PTS": "1.8",
+        "TRB": "-",
+        "AST": "1.2",
+        "FG%": "24.2",
+        "FT%": "47.4",
+        "PER": "-",
+        "WS": "-0.3"
+    }
+}

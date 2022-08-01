@@ -1,0 +1,26 @@
+{
+    "name": "Dwight Elmo Jones",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "210",
+    "birthday": "february 27, 1952",
+    "birthplace": "houston, texas US",
+    "died": "july 25, 2016",
+    "college": "houston",
+    "high school": " wheatley in houston, texas",
+    "draft": "atlanta hawks, 1st round (9th pick, 9th overall), 1973 nba draft",
+    "debut": "october 9, 1973",
+    "career_summary": {
+        "G": "766",
+        "PTS": "8.1",
+        "TRB": "5.9",
+        "AST": "1.2",
+        "FG%": "47.1",
+        "FG3%": "50.0",
+        "FT%": "74.0",
+        "eFG%": "47.2",
+        "PER": "13.2",
+        "WS": "27.6"
+    }
+}

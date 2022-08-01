@@ -1,0 +1,23 @@
+{
+    "name": "Thomas Patrick Byrnes",
+    "position": "forward/guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "175",
+    "birthday": "february 19, 1923",
+    "birthplace": "teaneck, new jersey US",
+    "died": "january 9, 1981",
+    "college": "seton hall",
+    "high school": " dewitt clinton in bronx, new york",
+    "debut": "november 1, 1946",
+    "career_summary": {
+        "G": "264",
+        "PTS": "6.5",
+        "TRB": "1.5",
+        "AST": "1.2",
+        "FG%": "29.9",
+        "FT%": "64.8",
+        "PER": "-",
+        "WS": "6.7"
+    }
+}

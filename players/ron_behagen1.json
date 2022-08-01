@@ -1,0 +1,28 @@
+{
+    "name": "Ronald Michael Behagen",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "185",
+    "birthday": "january 14, 1951",
+    "birthplace": "new york, new york US",
+    "college": "minnesota",
+    "high school": " dewitt clinton in bronx, new york",
+    "draft": "kansas city-omaha kings, 1st round (7th pick, 7th overall), 1973 nba draft",
+    "debut": "october 10, 1973",
+    "accomplishments": [
+        "1973-74 all-rookie"
+    ],
+    "career_summary": {
+        "G": "388",
+        "PTS": "10.3",
+        "TRB": "7.0",
+        "AST": "1.6",
+        "FG%": "42.5",
+        "FG3%": "-",
+        "FT%": "75.4",
+        "eFG%": "42.5",
+        "PER": "14.2",
+        "WS": "13.0"
+    }
+}

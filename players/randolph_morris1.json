@@ -1,0 +1,24 @@
+{
+    "name": "Randolph Albert Morris",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "266",
+    "birthday": "january 2, 1986",
+    "birthplace": "houston, texas US",
+    "college": "kentucky",
+    "high school": " landmark christian school in fairburn, georgia",
+    "debut": "march 28, 2007",
+    "career_summary": {
+        "G": "74",
+        "PTS": "1.9",
+        "TRB": "1.4",
+        "AST": "0.1",
+        "FG%": "42.6",
+        "FG3%": "-",
+        "FT%": "54.5",
+        "eFG%": "42.6",
+        "PER": "6.4",
+        "WS": "-0.1"
+    }
+}

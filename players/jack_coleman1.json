@@ -1,0 +1,31 @@
+{
+    "name": "Jack Lillard Coleman",
+    "nicknames": [
+        "Old Rancher"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "195",
+    "birthday": "may 23, 1924",
+    "birthplace": "burgin, kentucky US",
+    "died": "december 8, 1997",
+    "college": "louisville",
+    "high school": " burgin in burgin, kentucky",
+    "draft": "providence steamrollers, 3rd round, 1948 baa draft, and rochester royals, 2nd round (12th pick, 24th overall), 1949 baa draft",
+    "debut": "november 1, 1949",
+    "accomplishments": [
+        "1x all star",
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "633",
+        "PTS": "10.6",
+        "TRB": "9.2",
+        "AST": "2.8",
+        "FG%": "41.6",
+        "FT%": "69.5",
+        "PER": "15.8",
+        "WS": "47.7"
+    }
+}

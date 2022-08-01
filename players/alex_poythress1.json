@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Alex Poythress"
+    ],
+    "twitter": "AlexTheGreat22",
+    "instagram": "alexthegreat22",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "september 6, 1993",
+    "birthplace": "savannah, georgia US",
+    "college": "kentucky",
+    "high school": " northeast in clarksville, tennessee",
+    "debut": "april 2, 2017",
+    "career_summary": {
+        "G": "52",
+        "PTS": "3.8",
+        "TRB": "2.3",
+        "AST": "0.5",
+        "FG%": "47.2",
+        "FG3%": "35.8",
+        "FT%": "66.7",
+        "eFG%": "53.1",
+        "PER": "11.7",
+        "WS": "1.0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Nicholas Mantis",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "december 7, 1935",
+    "birthplace": "east chicago, indiana US",
+    "died": "august 13, 2017",
+    "college": "northwestern",
+    "high school": " washington in east chicago, indiana",
+    "draft": "st. louis hawks, 5th round (7th pick, 39th overall), 1959 nba draft",
+    "debut": "february 5, 1960",
+    "career_summary": {
+        "G": "52",
+        "PTS": "4.5",
+        "TRB": "1.8",
+        "AST": "1.8",
+        "FG%": "36.7",
+        "FT%": "54.9",
+        "PER": "7.3",
+        "WS": "-0.8"
+    }
+}

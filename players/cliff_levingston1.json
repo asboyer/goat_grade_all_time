@@ -1,0 +1,32 @@
+{
+    "name": "Clifford Eugene Levingston",
+    "nicknames": [
+        "Good News",
+        "House"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "january 4, 1961",
+    "birthplace": "san diego, california US",
+    "college": "wichita state",
+    "high school": " samuel f.b. morse in san diego, california",
+    "draft": "detroit pistons, 1st round (9th pick, 9th overall), 1982 nba draft",
+    "debut": "november 2, 1982",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "830",
+        "PTS": "7.1",
+        "TRB": "5.2",
+        "AST": "0.9",
+        "FG%": "51.6",
+        "FG3%": "15.2",
+        "FT%": "67.6",
+        "eFG%": "51.6",
+        "PER": "13.8",
+        "WS": "44.2"
+    }
+}

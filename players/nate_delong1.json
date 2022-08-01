@@ -1,0 +1,24 @@
+{
+    "name": "Nathan John DeLong Jr.",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "january 5, 1926",
+    "birthplace": "chippewa falls, wisconsin US",
+    "died": "may 5, 2010",
+    "college": "wisconsin-river falls",
+    "high school": " chippewa falls in chippewa falls, wisconsin",
+    "draft": "tri-cities blackhawks, 9th round (4th pick, 100th overall), 1950 nba draft",
+    "debut": "january 27, 1952",
+    "career_summary": {
+        "G": "17",
+        "PTS": "3.8",
+        "TRB": "1.8",
+        "AST": "0.8",
+        "FG%": "47.6",
+        "FT%": "68.6",
+        "PER": "21.3",
+        "WS": "0.8"
+    }
+}

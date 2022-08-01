@@ -1,0 +1,38 @@
+{
+    "name": "Elton Tyron Brand",
+    "nicknames": [
+        "E.B.",
+        "Old School Chevy",
+        "Horse",
+        "Slant",
+        "Chief Beef"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "275",
+    "birthday": "march 11, 1979",
+    "birthplace": "cortlandt manor, new york US",
+    "college": "duke",
+    "high school": " peekskill in peekskill, new york",
+    "draft": "chicago bulls, 1st round (1st pick, 1st overall), 1999 nba draft",
+    "debut": "november 3, 1999",
+    "accomplishments": [
+        "2x all star",
+        "2005-06 all-nba",
+        "1999-00 all-rookie",
+        "1999-00 roy"
+    ],
+    "career_summary": {
+        "G": "1058",
+        "PTS": "15.9",
+        "TRB": "8.5",
+        "AST": "2.1",
+        "FG%": "50.0",
+        "FG3%": "9.5",
+        "FT%": "73.6",
+        "eFG%": "50.1",
+        "PER": "20.5",
+        "WS": "109.6"
+    }
+}

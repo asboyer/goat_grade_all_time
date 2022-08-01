@@ -1,0 +1,23 @@
+{
+    "name": "Mac William Otten",
+    "position": "forward/center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "december 16, 1925",
+    "birthplace": "bellefontaine, ohio US",
+    "died": "december 26, 2015",
+    "college": "bowling green",
+    "draft": "indianapolis olympians, 3rd round, 1949 baa draft",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "59",
+        "PTS": "2.4",
+        "TRB": "-",
+        "AST": "0.6",
+        "FG%": "32.9",
+        "FT%": "49.4",
+        "PER": "-",
+        "WS": "0.3"
+    }
+}

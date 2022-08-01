@@ -1,0 +1,22 @@
+{
+    "name": "John Barber",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "210",
+    "birthday": "june 27, 1927",
+    "college": "california state university, los angeles",
+    "high school": " pruitt in atlanta, texas",
+    "draft": "minneapolis lakers, 7th round (3rd pick, 51st overall), 1956 nba draft",
+    "debut": "february 3, 1957",
+    "career_summary": {
+        "G": "5",
+        "PTS": "1.4",
+        "TRB": "1.2",
+        "AST": "0.0",
+        "FG%": "25.0",
+        "FT%": "50.0",
+        "PER": "4.2",
+        "WS": "0.0"
+    }
+}

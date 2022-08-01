@@ -1,0 +1,24 @@
+{
+    "name": "Samuel Troy Pellom",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "october 2, 1951",
+    "birthplace": "wilmington, north carolina US",
+    "college": "buffalo",
+    "high school": " leland in leland, north carolina",
+    "debut": "november 27, 1979",
+    "career_summary": {
+        "G": "196",
+        "PTS": "4.4",
+        "TRB": "3.5",
+        "AST": "0.5",
+        "FG%": "46.4",
+        "FG3%": "0.0",
+        "FT%": "72.4",
+        "eFG%": "46.4",
+        "PER": "10.9",
+        "WS": "4.6"
+    }
+}

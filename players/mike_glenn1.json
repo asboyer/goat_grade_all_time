@@ -1,0 +1,28 @@
+{
+    "name": "Mike Theodore Glenn",
+    "nicknames": [
+        "Stinger"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "175",
+    "birthday": "september 10, 1955",
+    "birthplace": "rome, georgia US",
+    "college": "southern illinois",
+    "high school": " coosa in rome, georgia",
+    "draft": "chicago bulls, 2nd round (1st pick, 23rd overall), 1977 nba draft",
+    "debut": "december 14, 1977",
+    "career_summary": {
+        "G": "593",
+        "PTS": "7.6",
+        "TRB": "1.2",
+        "AST": "1.6",
+        "FG%": "54.2",
+        "FG3%": "28.6",
+        "FT%": "85.5",
+        "eFG%": "54.3",
+        "PER": "15.1",
+        "WS": "25.3"
+    }
+}

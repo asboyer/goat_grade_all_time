@@ -1,0 +1,27 @@
+{
+    "name": "Henry Charles James",
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "220",
+    "birthday": "july 29, 1965",
+    "birthplace": "centreville, alabama US",
+    "colleges": [
+        "south plains college",
+        "st. mary's university"
+    ],
+    "high school": " north side in fort wayne, indiana",
+    "debut": "january 2, 1991",
+    "career_summary": {
+        "G": "212",
+        "PTS": "6.1",
+        "TRB": "1.5",
+        "AST": "0.4",
+        "FG%": "41.4",
+        "FG3%": "37.8",
+        "FT%": "81.0",
+        "eFG%": "48.1",
+        "PER": "11.3",
+        "WS": "3.5"
+    }
+}

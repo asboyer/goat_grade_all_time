@@ -1,0 +1,24 @@
+{
+    "name": "Herbert Frederick Scherer",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "212",
+    "birthday": "december 21, 1928",
+    "birthplace": "maplewood, new jersey US",
+    "died": "june 28, 2012",
+    "college": "long island university",
+    "high school": " bloomfield technical in bloomfield, new jersey",
+    "draft": "new york knicks, 2nd round (7th pick, 19th overall), 1950 nba draft",
+    "debut": "february 4, 1951",
+    "career_summary": {
+        "G": "32",
+        "PTS": "3.6",
+        "TRB": "2.4",
+        "AST": "0.7",
+        "FG%": "28.9",
+        "FT%": "59.2",
+        "PER": "3.9",
+        "WS": "-0.4"
+    }
+}

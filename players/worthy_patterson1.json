@@ -1,0 +1,22 @@
+{
+    "name": "Worthington R. Patterson",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "175",
+    "birthday": "june 17, 1931",
+    "birthplace": "new haven, connecticut US",
+    "college": "uconn",
+    "high school": " tilton school in tilton, new hampshire",
+    "debut": "october 22, 1957",
+    "career_summary": {
+        "G": "4",
+        "PTS": "1.8",
+        "TRB": "0.5",
+        "AST": "0.5",
+        "FG%": "37.5",
+        "FT%": "50.0",
+        "PER": "11.0",
+        "WS": "0.0"
+    }
+}

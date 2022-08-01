@@ -1,0 +1,22 @@
+{
+    "name": "Robert Melvin Carpenter",
+    "position": "forward/center",
+    "shooting_hand": "left",
+    "height": "6-5",
+    "weight": "200",
+    "birthday": "november 6, 1917",
+    "birthplace": "cumby, texas US",
+    "died": "april 18, 1997",
+    "college": "texas a&m university-commerce",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "122",
+        "PTS": "7.7",
+        "TRB": "4.1",
+        "AST": "1.4",
+        "FG%": "33.7",
+        "FT%": "76.8",
+        "PER": "-",
+        "WS": "6.9"
+    }
+}

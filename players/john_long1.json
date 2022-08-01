@@ -1,0 +1,31 @@
+{
+    "name": "John Eddie Long",
+    "nicknames": [
+        "Johnny"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "august 28, 1956",
+    "birthplace": "romulus, michigan US",
+    "college": "detroit mercy",
+    "high school": " romulus in romulus, michigan",
+    "draft": "detroit pistons, 2nd round (7th pick, 29th overall), 1978 nba draft",
+    "debut": "october 13, 1978",
+    "accomplishments": [
+        "1989 nba champ"
+    ],
+    "career_summary": {
+        "G": "893",
+        "PTS": "13.6",
+        "TRB": "2.8",
+        "AST": "1.9",
+        "FG%": "46.7",
+        "FG3%": "32.2",
+        "FT%": "86.2",
+        "eFG%": "47.2",
+        "PER": "14.2",
+        "WS": "32.0"
+    }
+}

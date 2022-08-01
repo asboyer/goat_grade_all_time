@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Danilo Gallinari"
+    ],
+    "twitter": "gallinari8888",
+    "instagram": "danilogallogallinari",
+    "nicknames": [
+        "Il Gallo",
+        "The Rooster"
+    ],
+    "position": "small forward, power forward, and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "233",
+    "birthday": "august 8, 1988",
+    "birthplace": "sant'angelo lodigiano, italy IT",
+    "draft": "new york knicks, 1st round (6th pick, 6th overall), 2008 nba draft",
+    "debut": "october 29, 2008",
+    "career_summary": {
+        "G": "728",
+        "PTS": "15.6",
+        "TRB": "4.8",
+        "AST": "1.9",
+        "FG%": "42.8",
+        "FG3%": "38.2",
+        "FT%": "87.7",
+        "eFG%": "51.6",
+        "PER": "16.9",
+        "WS": "64.1"
+    }
+}

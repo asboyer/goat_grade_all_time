@@ -1,0 +1,30 @@
+{
+    "name": [
+        "Josh Powell"
+    ],
+    "twitter": "JP21Reasons",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "january 25, 1983",
+    "birthplace": "charleston, south carolina US",
+    "college": "nc state",
+    "high school": " riverdale in riverdale, georgia",
+    "debut": "november 15, 2005",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "316",
+        "PTS": "3.9",
+        "TRB": "2.9",
+        "AST": "0.5",
+        "FG%": "43.8",
+        "FG3%": "35.0",
+        "FT%": "74.3",
+        "eFG%": "44.1",
+        "PER": "9.2",
+        "WS": "2.5"
+    }
+}

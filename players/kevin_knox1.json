@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Kevin Knox II"
+    ],
+    "twitter": "KevKnox",
+    "instagram": "kevinknox",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "215",
+    "birthday": "august 11, 1999",
+    "birthplace": "phoenix, arizona US",
+    "college": "kentucky",
+    "high school": " tampa catholic in tampa, florida",
+    "draft": "new york knicks, 1st round (9th pick, 9th overall), 2018 nba draft",
+    "debut": "october 17, 2018",
+    "career_summary": {
+        "G": "212",
+        "PTS": "7.7",
+        "TRB": "2.9",
+        "AST": "0.8",
+        "FG%": "36.9",
+        "FG3%": "34.0",
+        "FT%": "70.5",
+        "eFG%": "44.7",
+        "PER": "8.8",
+        "WS": "-0.3"
+    }
+}

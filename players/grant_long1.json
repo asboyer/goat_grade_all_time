@@ -1,0 +1,31 @@
+{
+    "name": "Grant Andrew Long",
+    "nicknames": [
+        "The Take Charge Man",
+        "The Human Vitamin",
+        "G",
+        "G. Long"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "225",
+    "birthday": "march 12, 1966",
+    "birthplace": "wayne, michigan US",
+    "college": "eastern michigan",
+    "high school": " romulus in romulus, michigan",
+    "draft": "miami heat, 2nd round (8th pick, 33rd overall), 1988 nba draft",
+    "debut": "november 5, 1988",
+    "career_summary": {
+        "G": "1003",
+        "PTS": "9.5",
+        "TRB": "6.1",
+        "AST": "1.7",
+        "FG%": "46.7",
+        "FG3%": "28.3",
+        "FT%": "76.1",
+        "eFG%": "47.2",
+        "PER": "13.3",
+        "WS": "60.1"
+    }
+}

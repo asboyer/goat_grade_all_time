@@ -1,0 +1,31 @@
+{
+    "name": "Tyronn Jamar Lue",
+    "nicknames": [
+        "Lue Hefner"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "175",
+    "birthday": "may 3, 1977",
+    "birthplace": "mexico, missouri US",
+    "college": "nebraska",
+    "high school": " raytown in raytown, missouri",
+    "draft": "denver nuggets, 1st round (23rd pick, 23rd overall), 1998 nba draft",
+    "debut": "february 11, 1999",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "554",
+        "PTS": "8.5",
+        "TRB": "1.7",
+        "AST": "3.1",
+        "FG%": "43.7",
+        "FG3%": "39.1",
+        "FT%": "82.9",
+        "eFG%": "49.4",
+        "PER": "13.2",
+        "WS": "19.7"
+    }
+}

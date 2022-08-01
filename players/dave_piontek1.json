@@ -1,0 +1,24 @@
+{
+    "name": "David Vincent Piontek",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "230",
+    "birthday": "august 27, 1934",
+    "birthplace": "bethel park, pennsylvania US",
+    "died": "may 12, 2004",
+    "college": "xavier",
+    "high school": " bethel park in bethel park, pennsylvania",
+    "draft": "rochester royals, 3rd round (1st pick, 17th overall), 1956 nba draft",
+    "debut": "october 27, 1956",
+    "career_summary": {
+        "G": "413",
+        "PTS": "7.2",
+        "TRB": "4.3",
+        "AST": "1.2",
+        "FG%": "39.1",
+        "FT%": "65.2",
+        "PER": "11.8",
+        "WS": "7.0"
+    }
+}

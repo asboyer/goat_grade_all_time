@@ -1,0 +1,29 @@
+{
+    "name": "Medford R. Park",
+    "nicknames": [
+        "Bulldozer from Missouri"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "205",
+    "birthday": "april 11, 1933",
+    "birthplace": "britton, south dakota US",
+    "died": "july 23, 1998",
+    "college": "missouri",
+    "high school": " lexington in lexington, missouri",
+    "debut": "november 12, 1955",
+    "accomplishments": [
+        "1958 nba champ"
+    ],
+    "career_summary": {
+        "G": "313",
+        "PTS": "6.1",
+        "TRB": "3.1",
+        "AST": "1.7",
+        "FG%": "37.9",
+        "FT%": "72.8",
+        "PER": "11.3",
+        "WS": "7.5"
+    }
+}

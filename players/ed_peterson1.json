@@ -1,0 +1,23 @@
+{
+    "name": "Edward T. Peterson",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "220",
+    "birthday": "june 27, 1924",
+    "birthplace": "buffalo, new york US",
+    "died": "march 20, 1984",
+    "college": "cornell",
+    "draft": "new york knicks, 4th round, 1948 baa draft",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "115",
+        "PTS": "7.0",
+        "TRB": "5.4",
+        "AST": "0.9",
+        "FG%": "38.4",
+        "FT%": "62.7",
+        "PER": "-",
+        "WS": "6.6"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Keith Orlando Herron",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "195",
+    "birthday": "june 14, 1956",
+    "birthplace": "memphis, tennessee US",
+    "college": "villanova",
+    "high school": " mackin in washington, district of columbia",
+    "draft": "portland trail blazers, 2nd round (2nd pick, 24th overall), 1978 nba draft",
+    "debut": "october 28, 1978",
+    "career_summary": {
+        "G": "124",
+        "PTS": "9.8",
+        "TRB": "2.0",
+        "AST": "1.4",
+        "FG%": "43.8",
+        "FG3%": "16.7",
+        "FT%": "85.8",
+        "eFG%": "43.9",
+        "PER": "12.6",
+        "WS": "3.2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Travis Cortez Mays",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "190",
+    "birthday": "june 19, 1968",
+    "birthplace": "ocala, florida US",
+    "college": "texas",
+    "high school": " vanguard in ocala, florida",
+    "draft": "sacramento kings, 1st round (14th pick, 14th overall), 1990 nba draft",
+    "debut": "november 6, 1990",
+    "accomplishments": [
+        "1990-91 all-rookie"
+    ],
+    "career_summary": {
+        "G": "115",
+        "PTS": "11.1",
+        "TRB": "2.0",
+        "AST": "2.8",
+        "FG%": "41.0",
+        "FG3%": "36.2",
+        "FT%": "74.9",
+        "eFG%": "45.9",
+        "PER": "11.7",
+        "WS": "2.4"
+    }
+}

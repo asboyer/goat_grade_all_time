@@ -1,0 +1,23 @@
+{
+    "name": "John Smith Jr.",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "235",
+    "birthday": "may 24, 1944",
+    "birthplace": "columbus, mississippi US",
+    "college": "university of southern colorado",
+    "draft": "los angeles lakers, 8th round (9th pick, 101st overall), 1968 nba draft",
+    "career_summary": {
+        "G": "147",
+        "PTS": "5.9",
+        "TRB": "8.3",
+        "AST": "0.8",
+        "FG%": "38.7",
+        "FG3%": "0.0",
+        "FT%": "55.8",
+        "eFG%": "38.7",
+        "PER": "9.2",
+        "WS": "0.2"
+    }
+}

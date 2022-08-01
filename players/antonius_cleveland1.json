@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Antonius Cleveland"
+    ],
+    "twitter": "ac_uno1",
+    "instagram": "ac_uno1",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "february 2, 1994",
+    "birthplace": "memphis, tennessee US",
+    "college": "se missouri state",
+    "high school": " faith baptist christian academy in ludowici, georgia",
+    "debut": "november 17, 2017",
+    "career_summary": {
+        "G": "28",
+        "PTS": "1.2",
+        "TRB": "0.8",
+        "AST": "0.1",
+        "FG%": "34.3",
+        "FG3%": "42.9",
+        "FT%": "63.6",
+        "eFG%": "38.6",
+        "PER": "4.0",
+        "WS": "-0.1"
+    }
+}

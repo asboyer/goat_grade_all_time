@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Luke Robert Babbitt"
+    ],
+    "twitter": "Realbabbitt08",
+    "position": "small forward and power forward",
+    "shooting_hand": "left",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "june 20, 1989",
+    "birthplace": "cincinnati, ohio US",
+    "college": "nevada",
+    "high school": " galena in reno, nevada",
+    "draft": "minnesota timberwolves, 1st round (16th pick, 16th overall), 2010 nba draft",
+    "debut": "november 1, 2010",
+    "career_summary": {
+        "G": "381",
+        "PTS": "4.8",
+        "TRB": "2.2",
+        "AST": "0.6",
+        "FG%": "40.8",
+        "FG3%": "40.2",
+        "FT%": "74.7",
+        "eFG%": "53.2",
+        "PER": "10.1",
+        "WS": "7.2"
+    }
+}

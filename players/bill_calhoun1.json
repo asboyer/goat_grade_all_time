@@ -1,0 +1,27 @@
+{
+    "name": "William C. Calhoun",
+    "nicknames": [
+        "The Splinter"
+    ],
+    "position": "shooting guard and small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "november 4, 1927",
+    "birthplace": "san francisco, california US",
+    "college": "city college of san francisco",
+    "high school": " lowell in san francisco, california",
+    "accomplishments": [
+        "1951 nba champ"
+    ],
+    "career_summary": {
+        "G": "442",
+        "PTS": "7.8",
+        "TRB": "4.0",
+        "AST": "2.3",
+        "FG%": "34.1",
+        "FT%": "70.2",
+        "PER": "11.2",
+        "WS": "18.5"
+    }
+}

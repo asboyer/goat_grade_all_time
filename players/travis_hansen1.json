@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Travis Mitchell Hansen"
+    ],
+    "twitter": "travishansen24",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "205",
+    "birthday": "april 15, 1978",
+    "birthplace": "provo, utah US",
+    "colleges": [
+        "utah valley",
+        "byu"
+    ],
+    "high school": " mountain view in orem, utah",
+    "draft": "atlanta hawks, 2nd round (8th pick, 37th overall), 2003 nba draft",
+    "debut": "november 5, 2003",
+    "career_summary": {
+        "G": "41",
+        "PTS": "3.0",
+        "TRB": "1.7",
+        "AST": "0.5",
+        "FG%": "35.4",
+        "FG3%": "30.0",
+        "FT%": "81.5",
+        "eFG%": "38.8",
+        "PER": "7.2",
+        "WS": "0.2"
+    }
+}

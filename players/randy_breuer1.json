@@ -1,0 +1,28 @@
+{
+    "name": "Randall W. Breuer",
+    "nicknames": [
+        "Brew"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-3",
+    "weight": "230",
+    "birthday": "october 11, 1960",
+    "birthplace": "lake city, minnesota US",
+    "college": "minnesota",
+    "high school": " lincoln in lake city, minnesota",
+    "draft": "milwaukee bucks, 1st round (18th pick, 18th overall), 1983 nba draft",
+    "debut": "october 28, 1983",
+    "career_summary": {
+        "G": "681",
+        "PTS": "6.8",
+        "TRB": "4.4",
+        "AST": "0.9",
+        "FG%": "46.7",
+        "FG3%": "0.0",
+        "FT%": "62.8",
+        "eFG%": "46.7",
+        "PER": "13.2",
+        "WS": "20.9"
+    }
+}

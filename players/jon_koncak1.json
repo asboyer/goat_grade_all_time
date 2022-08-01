@@ -1,0 +1,29 @@
+{
+    "name": "Jon Francis Koncak",
+    "nicknames": [
+        "Kak",
+        "Jon Contract"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-0",
+    "weight": "250",
+    "birthday": "may 17, 1963",
+    "birthplace": "cedar rapids, iowa US",
+    "college": "smu",
+    "high school": " center in kansas city, missouri",
+    "draft": "atlanta hawks, 1st round (5th pick, 5th overall), 1985 nba draft",
+    "debut": "october 25, 1985",
+    "career_summary": {
+        "G": "784",
+        "PTS": "4.5",
+        "TRB": "4.9",
+        "AST": "1.0",
+        "FG%": "47.0",
+        "FG3%": "22.6",
+        "FT%": "59.7",
+        "eFG%": "47.3",
+        "PER": "9.8",
+        "WS": "29.2"
+    }
+}

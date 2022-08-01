@@ -1,0 +1,27 @@
+{
+    "name": [
+        "Donald Wayne Sloan"
+    ],
+    "twitter": "dsloan15",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "205",
+    "birthday": "january 15, 1988",
+    "birthplace": "shreveport, louisiana US",
+    "college": "texas a&m",
+    "high school": " seagoville in dallas, texas",
+    "debut": "january 11, 2012",
+    "career_summary": {
+        "G": "218",
+        "PTS": "5.5",
+        "TRB": "2.1",
+        "AST": "3.0",
+        "FG%": "40.9",
+        "FG3%": "31.0",
+        "FT%": "75.4",
+        "eFG%": "45.4",
+        "PER": "11.9",
+        "WS": "4.0"
+    }
+}

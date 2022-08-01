@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Solomon Hill"
+    ],
+    "twitter": "solohill",
+    "instagram": "soloholl",
+    "nicknames": [
+        "Solo"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "226",
+    "birthday": "march 18, 1991",
+    "birthplace": "los angeles, california US",
+    "college": "arizona",
+    "high school": " fairfax in los angeles, california",
+    "draft": "indiana pacers, 1st round (23rd pick, 23rd overall), 2013 nba draft",
+    "debut": "october 29, 2013",
+    "career_summary": {
+        "G": "448",
+        "PTS": "5.5",
+        "TRB": "3.1",
+        "AST": "1.5",
+        "FG%": "38.8",
+        "FG3%": "33.1",
+        "FT%": "79.7",
+        "eFG%": "47.1",
+        "PER": "8.7",
+        "WS": "11.9"
+    }
+}

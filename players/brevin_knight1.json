@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Brevin Adon Knight"
+    ],
+    "twitter": "brevinknight22",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "173",
+    "birthday": "november 8, 1975",
+    "birthplace": "livingston, new jersey US",
+    "college": "stanford",
+    "high school": " seton hall prep in west orange, new jersey",
+    "draft": "cleveland cavaliers, 1st round (16th pick, 16th overall), 1997 nba draft",
+    "debut": "october 31, 1997",
+    "accomplishments": [
+        "1997-98 all-rookie"
+    ],
+    "career_summary": {
+        "G": "729",
+        "PTS": "7.3",
+        "TRB": "2.4",
+        "AST": "6.1",
+        "FG%": "41.2",
+        "FG3%": "13.4",
+        "FT%": "78.9",
+        "eFG%": "41.4",
+        "PER": "14.9",
+        "WS": "32.6"
+    }
+}

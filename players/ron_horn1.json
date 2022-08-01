@@ -1,0 +1,26 @@
+{
+    "name": "Ronnie Leroy Horn",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "may 24, 1938",
+    "birthplace": "marion, indiana US",
+    "died": "october 5, 2002",
+    "college": "indiana",
+    "high school": " mississinewa in gas city, indiana",
+    "draft": "st. louis hawks, 2nd round (11th pick, 21st overall), 1961 nba draft",
+    "debut": "november 22, 1961 &blacksquare aba debut",
+    "career_summary": {
+        "G": "32",
+        "PTS": "2.5",
+        "TRB": "2.4",
+        "AST": "0.3",
+        "FG%": "29.2",
+        "FG3%": "-",
+        "FT%": "69.7",
+        "eFG%": "29.2",
+        "PER": "5.0",
+        "WS": "-0.3"
+    }
+}

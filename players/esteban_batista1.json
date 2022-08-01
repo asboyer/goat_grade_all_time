@@ -1,0 +1,23 @@
+{
+    "name": "Esteban Damian Batista",
+    "former_name": "born Esteban Damian Batista Hernandez",
+    "position": "power forward",
+    "shooting_hand": "left",
+    "height": "6-10",
+    "weight": "270",
+    "birthday": "september 2, 1983",
+    "birthplace": "montevideo, uruguay UY",
+    "debut": "november 2, 2005",
+    "career_summary": {
+        "G": "70",
+        "PTS": "1.7",
+        "TRB": "2.5",
+        "AST": "0.2",
+        "FG%": "43.8",
+        "FG3%": "0.0",
+        "FT%": "61.7",
+        "eFG%": "43.8",
+        "PER": "7.9",
+        "WS": "0.3"
+    }
+}

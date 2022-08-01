@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Nathan Solomon Kapahulula Knight"
+    ],
+    "twitter": "nateknght",
+    "instagram": "nateknght",
+    "nicknames": [
+        "Nate"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "253",
+    "birthday": "september 20, 1997",
+    "birthplace": "syracuse, new york US",
+    "college": "william & mary",
+    "high school": ": nottingham in syracuse, new york, kimball union academy in meriden, new hampshire",
+    "debut": "december 23, 2020",
+    "career_summary": {
+        "G": "70",
+        "PTS": "3.7",
+        "TRB": "2.2",
+        "AST": "0.4",
+        "FG%": "43.6",
+        "FG3%": "21.7",
+        "FT%": "76.5",
+        "eFG%": "46.3",
+        "PER": "16.2",
+        "WS": "1.4"
+    }
+}

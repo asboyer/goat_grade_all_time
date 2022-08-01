@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Kris Nathan Humphries"
+    ],
+    "twitter": "KrisHumphries",
+    "nicknames": [
+        "Hump"
+    ],
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "235",
+    "birthday": "february 6, 1985",
+    "birthplace": "minneapolis, minnesota US",
+    "college": "minnesota",
+    "high school": " hopkins in minnetonka, minnesota",
+    "draft": "utah jazz, 1st round (14th pick, 14th overall), 2004 nba draft",
+    "debut": "november 3, 2004",
+    "career_summary": {
+        "G": "800",
+        "PTS": "6.7",
+        "TRB": "5.4",
+        "AST": "0.7",
+        "FG%": "46.3",
+        "FG3%": "29.3",
+        "FT%": "70.0",
+        "eFG%": "46.9",
+        "PER": "15.4",
+        "WS": "30.3"
+    }
+}

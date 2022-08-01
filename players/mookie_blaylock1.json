@@ -1,0 +1,36 @@
+{
+    "name": "Daron Oshay Blaylock",
+    "nicknames": [
+        "The Thief"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "180",
+    "birthday": "march 20, 1967",
+    "birthplace": "garland, texas US",
+    "colleges": [
+        "midland college",
+        "oklahoma"
+    ],
+    "high school": " garland in garland, texas",
+    "draft": "new jersey nets, 1st round (12th pick, 12th overall), 1989 nba draft",
+    "debut": "november 3, 1989",
+    "accomplishments": [
+        "1x all star",
+        "2x stl champ",
+        "6x all-defensive"
+    ],
+    "career_summary": {
+        "G": "889",
+        "PTS": "13.5",
+        "TRB": "4.1",
+        "AST": "6.7",
+        "FG%": "40.9",
+        "FG3%": "33.6",
+        "FT%": "73.6",
+        "eFG%": "46.5",
+        "PER": "16.8",
+        "WS": "71.8"
+    }
+}

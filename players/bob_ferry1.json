@@ -1,0 +1,24 @@
+{
+    "name": "Robert Dean Ferry",
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "230",
+    "birthday": "may 31, 1937",
+    "birthplace": "st. louis, missouri US",
+    "died": "october 27, 2021",
+    "college": "saint louis",
+    "high school": " cleveland in st. louis, missouri",
+    "draft": "st. louis hawks, 1st round (7th pick, 7th overall), 1959 nba draft (territorial selection)",
+    "debut": "october 24, 1959",
+    "career_summary": {
+        "G": "634",
+        "PTS": "9.1",
+        "TRB": "5.3",
+        "AST": "1.4",
+        "FG%": "43.3",
+        "FT%": "66.4",
+        "PER": "13.8",
+        "WS": "20.2"
+    }
+}

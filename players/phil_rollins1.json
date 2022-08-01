@@ -1,0 +1,24 @@
+{
+    "name": "Philip Lee Rollins",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "185",
+    "birthday": "january 19, 1934",
+    "birthplace": "wickliffe, kentucky US",
+    "died": "february 8, 2021",
+    "college": "louisville",
+    "high school": " wickliffe in wickliffe, kentucky",
+    "draft": "philadelphia warriors, 2nd round (8th pick, 16th overall), 1956 nba draft",
+    "debut": "october 25, 1958",
+    "career_summary": {
+        "G": "177",
+        "PTS": "5.1",
+        "TRB": "2.2",
+        "AST": "2.6",
+        "FG%": "38.5",
+        "FT%": "64.9",
+        "PER": "11.2",
+        "WS": "1.9"
+    }
+}

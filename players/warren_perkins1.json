@@ -1,0 +1,28 @@
+{
+    "name": "Warren Charles Perkins",
+    "nicknames": [
+        "Red",
+        "Perk"
+    ],
+    "position": "guard/forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "february 2, 1922",
+    "birthplace": "new orleans, louisiana US",
+    "died": "september 12, 2014",
+    "college": "tulane",
+    "high school": " warren easton in new orleans, louisiana",
+    "draft": "providence steamrollers, 4th round, 1949 baa draft",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "126",
+        "PTS": "6.1",
+        "TRB": "4.8",
+        "AST": "2.0",
+        "FG%": "30.9",
+        "FT%": "61.8",
+        "PER": "-",
+        "WS": "3.1"
+    }
+}

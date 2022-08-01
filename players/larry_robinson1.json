@@ -1,0 +1,27 @@
+{
+    "name": "Larry Robinson",
+    "position": "shooting guard, point guard, and small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "180",
+    "birthday": "january 11, 1968",
+    "birthplace": "bossier city, louisiana US",
+    "college": "centenary (la)",
+    "high school": " airline in bossier city, louisiana",
+    "debut": "november 2, 1990",
+    "accomplishments": [
+        "1994 nba champ"
+    ],
+    "career_summary": {
+        "G": "89",
+        "PTS": "4.5",
+        "TRB": "1.9",
+        "AST": "0.9",
+        "FG%": "38.4",
+        "FG3%": "37.3",
+        "FT%": "66.7",
+        "eFG%": "44.7",
+        "PER": "10.3",
+        "WS": "0.9"
+    }
+}

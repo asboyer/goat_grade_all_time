@@ -1,0 +1,32 @@
+{
+    "name": [
+        "James Michael Scott"
+    ],
+    "twitter": "mikescott",
+    "instagram": "mikescottva",
+    "nicknames": [
+        "The Threegional Manager"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "237",
+    "birthday": "july 16, 1988",
+    "birthplace": "chesapeake, virginia US",
+    "college": "virginia",
+    "high school": " deep creek in chesapeake, virginia",
+    "draft": "atlanta hawks, 2nd round (13th pick, 43rd overall), 2012 nba draft",
+    "debut": "november 11, 2012",
+    "career_summary": {
+        "G": "555",
+        "PTS": "6.7",
+        "TRB": "3.1",
+        "AST": "0.9",
+        "FG%": "45.3",
+        "FG3%": "36.2",
+        "FT%": "75.7",
+        "eFG%": "53.1",
+        "PER": "12.3",
+        "WS": "16.8"
+    }
+}

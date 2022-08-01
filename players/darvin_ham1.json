@@ -1,0 +1,27 @@
+{
+    "name": "Darvin Ham",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "july 23, 1973",
+    "birthplace": "saginaw, michigan US",
+    "college": "texas tech",
+    "high school": " saginaw in saginaw, michigan",
+    "debut": "november 3, 1996",
+    "accomplishments": [
+        "2004 nba champ"
+    ],
+    "career_summary": {
+        "G": "417",
+        "PTS": "2.7",
+        "TRB": "2.3",
+        "AST": "0.5",
+        "FG%": "51.8",
+        "FG3%": "25.0",
+        "FT%": "49.4",
+        "eFG%": "52.0",
+        "PER": "9.0",
+        "WS": "5.6"
+    }
+}

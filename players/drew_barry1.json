@@ -1,0 +1,25 @@
+{
+    "name": "Drew William Barry",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "191",
+    "birthday": "february 17, 1973",
+    "birthplace": "oakland, california US",
+    "college": "georgia tech",
+    "high school": " de la salle catholic in concord, california",
+    "draft": "seattle supersonics, 2nd round (28th pick, 57th overall), 1996 nba draft",
+    "debut": "january 21, 1998",
+    "career_summary": {
+        "G": "60",
+        "PTS": "2.2",
+        "TRB": "1.1",
+        "AST": "1.9",
+        "FG%": "41.7",
+        "FG3%": "38.1",
+        "FT%": "77.4",
+        "eFG%": "53.4",
+        "PER": "9.8",
+        "WS": "0.6"
+    }
+}

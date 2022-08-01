@@ -1,0 +1,24 @@
+{
+    "name": "Andrew John Panko III",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "222",
+    "birthday": "november 27, 1977",
+    "birthplace": "harrisburg, pennsylvania US",
+    "college": "lebanon valley college",
+    "high school": " bishop mcdevitt in harrisburg, pennsylvania",
+    "debut": "january 11, 2001",
+    "career_summary": {
+        "G": "1",
+        "PTS": "0.0",
+        "TRB": "0.0",
+        "AST": "0.0",
+        "FG%": "-",
+        "FG3%": "-",
+        "FT%": "-",
+        "eFG%": "-",
+        "PER": "0.0",
+        "WS": "0.0"
+    }
+}

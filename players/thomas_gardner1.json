@@ -1,0 +1,24 @@
+{
+    "name": "Thomas Earl Gardner",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "225",
+    "birthday": "february 8, 1985",
+    "birthplace": "portland, oregon US",
+    "college": "missouri",
+    "high school": " jefferson in portland, oregon",
+    "debut": "november 15, 2007",
+    "career_summary": {
+        "G": "20",
+        "PTS": "2.3",
+        "TRB": "0.6",
+        "AST": "0.2",
+        "FG%": "30.5",
+        "FG3%": "20.0",
+        "FT%": "33.3",
+        "eFG%": "36.4",
+        "PER": "2.4",
+        "WS": "-0.4"
+    }
+}

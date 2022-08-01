@@ -1,0 +1,33 @@
+{
+    "name": "Leonard Eugene Robinson",
+    "nicknames": [
+        "Len"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "225",
+    "birthday": "october 4, 1951",
+    "birthplace": "jacksonville, florida US",
+    "college": "tennessee state",
+    "high school": " william m. raines in jacksonville, florida",
+    "draft": "washington bullets, 2nd round (4th pick, 22nd overall), 1974 nba draft",
+    "debut": "october 19, 1974",
+    "accomplishments": [
+        "2x all star",
+        "1977-78 trb champ",
+        "1977-78 all-nba"
+    ],
+    "career_summary": {
+        "G": "772",
+        "PTS": "15.5",
+        "TRB": "9.4",
+        "AST": "1.7",
+        "FG%": "48.3",
+        "FG3%": "100.0",
+        "FT%": "66.2",
+        "eFG%": "48.3",
+        "PER": "14.9",
+        "WS": "52.7"
+    }
+}

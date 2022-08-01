@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Gordon MacGilvray",
+    "former_name": "Born Ronald Griffith",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "185",
+    "birthday": "july 20, 1930",
+    "birthplace": "poughkeepsie, new york US",
+    "died": "february 11, 2007",
+    "college": "st. john's",
+    "high school": " sewanhaka in floral park, new york",
+    "draft": "rochester royals, 3rd round, 1952 nba draft",
+    "debut": "november 24, 1954",
+    "career_summary": {
+        "G": "6",
+        "PTS": "1.3",
+        "TRB": "1.5",
+        "AST": "1.8",
+        "FG%": "16.7",
+        "FT%": "57.1",
+        "PER": "8.1",
+        "WS": "-0.1"
+    }
+}

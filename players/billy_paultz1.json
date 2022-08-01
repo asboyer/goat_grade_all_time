@@ -1,0 +1,37 @@
+{
+    "name": "William Edward Paultz",
+    "nicknames": [
+        "The Whopper",
+        "Baby Huey"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "235",
+    "birthday": "july 30, 1948",
+    "birthplace": "river edge, new jersey US",
+    "colleges": [
+        "cameron university",
+        "st. john's"
+    ],
+    "high school": " river dell in river edge, new jersey",
+    "draft": "san diego rockets, 7th round (1st pick, 103rd overall), 1970 nba draft",
+    "debut": "october 22, 1976 &blacksquare aba debut",
+    "accomplishments": [
+        "3x all star",
+        "1974 aba champ",
+        "aba all-time team"
+    ],
+    "career_summary": {
+        "G": "1124",
+        "PTS": "11.7",
+        "TRB": "8.0",
+        "AST": "2.0",
+        "FG%": "49.7",
+        "FG3%": "0.0",
+        "FT%": "69.0",
+        "eFG%": "49.7",
+        "PER": "16.3",
+        "WS": "70.4"
+    }
+}

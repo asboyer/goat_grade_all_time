@@ -1,0 +1,26 @@
+{
+    "name": "Richard Albert Schulz",
+    "position": "forward/guard",
+    "shooting_hand": "right",
+    "height": "6-2",
+    "weight": "192",
+    "birthday": "january 3, 1917",
+    "birthplace": "racine, wisconsin US",
+    "died": "june 26, 1968",
+    "college": "wisconsin",
+    "high school": " washington park in racine, wisconsin",
+    "debut": "november 3, 1946",
+    "accomplishments": [
+        "1948 baa champ"
+    ],
+    "career_summary": {
+        "G": "205",
+        "PTS": "5.6",
+        "TRB": "-",
+        "AST": "1.0",
+        "FG%": "25.9",
+        "FT%": "71.9",
+        "PER": "-",
+        "WS": "4.3"
+    }
+}

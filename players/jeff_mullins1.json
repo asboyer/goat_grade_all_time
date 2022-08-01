@@ -1,0 +1,31 @@
+{
+    "name": "Jeffrey Vincent Mullins Jr.",
+    "nicknames": [
+        "Pork Chop",
+        "Mulls"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "march 18, 1942",
+    "birthplace": "astoria, new york US",
+    "college": "duke",
+    "high school": " lafayette in lexington, kentucky",
+    "draft": "st. louis hawks, 1st round (6th pick, 6th overall), 1964 nba draft",
+    "debut": "november 4, 1964",
+    "accomplishments": [
+        "3x all star",
+        "1975 nba champ"
+    ],
+    "career_summary": {
+        "G": "804",
+        "PTS": "16.2",
+        "TRB": "4.3",
+        "AST": "3.8",
+        "FG%": "46.3",
+        "FT%": "81.4",
+        "PER": "16.3",
+        "WS": "62.8"
+    }
+}

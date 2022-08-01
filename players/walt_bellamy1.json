@@ -1,0 +1,32 @@
+{
+    "name": "Walter Jones Bellamy",
+    "nicknames": [
+        "Bells"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "225",
+    "birthday": "july 24, 1939",
+    "birthplace": "new bern, north carolina US",
+    "died": "november 2, 2013",
+    "college": "indiana",
+    "high school": " j.t. barber in new bern, north carolina",
+    "draft": "chicago packers, 1st round (1st pick, 1st overall), 1961 nba draft",
+    "debut": "october 19, 1961",
+    "accomplishments": [
+        "hall of fame",
+        "4x all star",
+        "1961-62 roy"
+    ],
+    "career_summary": {
+        "G": "1043",
+        "PTS": "20.1",
+        "TRB": "13.7",
+        "AST": "2.4",
+        "FG%": "51.6",
+        "FT%": "63.2",
+        "PER": "19.9",
+        "WS": "130.0"
+    }
+}

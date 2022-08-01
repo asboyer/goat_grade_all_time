@@ -1,0 +1,28 @@
+{
+    "name": "Michael Thomas Bradley",
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "245",
+    "birthday": "april 18, 1979",
+    "birthplace": "worcester, massachusetts US",
+    "colleges": [
+        "kentucky",
+        "villanova"
+    ],
+    "high school": " burncoat in worcester, massachusetts",
+    "draft": "toronto raptors, 1st round (17th pick, 17th overall), 2001 nba draft",
+    "debut": "october 30, 2001",
+    "career_summary": {
+        "G": "173",
+        "PTS": "2.8",
+        "TRB": "3.4",
+        "AST": "0.5",
+        "FG%": "47.7",
+        "FG3%": "14.3",
+        "FT%": "51.1",
+        "eFG%": "47.9",
+        "PER": "11.3",
+        "WS": "2.0"
+    }
+}

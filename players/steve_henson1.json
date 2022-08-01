@@ -1,0 +1,28 @@
+{
+    "name": "Steven Michael Henson",
+    "nicknames": [
+        "Die Hard"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "177",
+    "birthday": "february 2, 1968",
+    "birthplace": "junction city, kansas US",
+    "college": "kansas state",
+    "high school": " mcpherson in mcpherson, kansas",
+    "draft": "milwaukee bucks, 2nd round (17th pick, 44th overall), 1990 nba draft",
+    "debut": "november 2, 1990",
+    "career_summary": {
+        "G": "238",
+        "PTS": "3.1",
+        "TRB": "0.7",
+        "AST": "2.0",
+        "FG%": "40.3",
+        "FG3%": "43.2",
+        "FT%": "86.9",
+        "eFG%": "48.6",
+        "PER": "11.5",
+        "WS": "3.8"
+    }
+}

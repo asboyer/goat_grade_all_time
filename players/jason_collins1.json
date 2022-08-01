@@ -1,0 +1,25 @@
+{
+    "name": "James Edgar Collins",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "196",
+    "birthday": "november 5, 1973",
+    "birthplace": "jacksonville, florida US",
+    "college": "florida state",
+    "high school": " jackson in jacksonville, florida",
+    "draft": "philadelphia 76ers, 2nd round (8th pick, 36th overall), 1997 nba draft",
+    "debut": "december 10, 1997",
+    "career_summary": {
+        "G": "23",
+        "PTS": "2.6",
+        "TRB": "0.6",
+        "AST": "0.1",
+        "FG%": "38.2",
+        "FG3%": "45.0",
+        "FT%": "57.1",
+        "eFG%": "46.4",
+        "PER": "15.3",
+        "WS": "0.0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Bill McGill",
+    "nicknames": [
+        "The Hill"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "september 16, 1939",
+    "birthplace": "san angelo, texas US",
+    "died": "july 11, 2014",
+    "college": "utah",
+    "high school": " jefferson in los angeles, california",
+    "draft": "chicago zephyrs, 1st round (1st pick, 1st overall), 1962 nba draft",
+    "debut": "october 24, 1962 &blacksquare aba debut",
+    "career_summary": {
+        "G": "295",
+        "PTS": "10.5",
+        "TRB": "4.4",
+        "AST": "1.1",
+        "FG%": "51.4",
+        "FG3%": "-",
+        "FT%": "70.1",
+        "eFG%": "51.4",
+        "PER": "19.0",
+        "WS": "16.9"
+    }
+}

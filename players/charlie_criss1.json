@@ -1,0 +1,27 @@
+{
+    "name": "Charles Washington Criss Jr.",
+    "nicknames": [
+        "Little"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-8",
+    "weight": "165",
+    "birthday": "november 6, 1948",
+    "birthplace": "valhalla, new york US",
+    "college": "new mexico state",
+    "high school": " gorton in yonkers, new york",
+    "debut": "october 22, 1977",
+    "career_summary": {
+        "G": "418",
+        "PTS": "8.5",
+        "TRB": "1.4",
+        "AST": "3.2",
+        "FG%": "43.2",
+        "FG3%": "17.9",
+        "FT%": "83.1",
+        "eFG%": "43.5",
+        "PER": "12.8",
+        "WS": "13.7"
+    }
+}

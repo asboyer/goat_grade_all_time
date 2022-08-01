@@ -1,0 +1,24 @@
+{
+    "name": "Irving Bemoras",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "november 18, 1930",
+    "birthplace": "chicago, illinois US",
+    "died": "november 1, 2007",
+    "college": "illinois",
+    "high school": " marshall in chicago, illinois",
+    "draft": "milwaukee hawks, 3rd round, 1953 nba draft",
+    "debut": "october 30, 1953",
+    "career_summary": {
+        "G": "131",
+        "PTS": "6.3",
+        "TRB": "2.6",
+        "AST": "1.0",
+        "FG%": "34.7",
+        "FT%": "67.2",
+        "PER": "10.5",
+        "WS": "1.3"
+    }
+}

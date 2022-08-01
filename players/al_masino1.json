@@ -1,0 +1,23 @@
+{
+    "name": "Alfred Albert Masino",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "174",
+    "birthday": "february 5, 1928",
+    "birthplace": "richmond, new york US",
+    "died": "august 16, 2006",
+    "college": "canisius",
+    "high school": " east in rochester, new york",
+    "debut": "november 1, 1952",
+    "career_summary": {
+        "G": "99",
+        "PTS": "4.8",
+        "TRB": "2.1",
+        "AST": "1.8",
+        "FG%": "34.6",
+        "FT%": "62.5",
+        "PER": "9.3",
+        "WS": "3.0"
+    }
+}

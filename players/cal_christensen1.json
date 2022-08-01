@@ -1,0 +1,23 @@
+{
+    "name": "Calvin Lawrence Christensen",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "june 6, 1927",
+    "birthplace": "toledo, ohio US",
+    "died": "august 31, 2011",
+    "college": "toledo",
+    "draft": "tri-cities blackhawks, 5th round (4th pick, 52nd overall), 1950 nba draft",
+    "debut": "november 2, 1950",
+    "career_summary": {
+        "G": "291",
+        "PTS": "5.2",
+        "TRB": "5.5",
+        "AST": "1.6",
+        "FG%": "33.0",
+        "FT%": "60.6",
+        "PER": "12.0",
+        "WS": "8.2"
+    }
+}

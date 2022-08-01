@@ -1,0 +1,28 @@
+{
+    "name": "Jack Edward Nichols",
+    "nicknames": [
+        "Big Nick"
+    ],
+    "position": "power forward",
+    "shooting_hand": "left",
+    "height": "6-7",
+    "weight": "222",
+    "birthday": "april 9, 1926",
+    "died": "december 24, 1992",
+    "college": "washington",
+    "high school": " everett in everett, washington",
+    "draft": "washington capitols, 1st round (12th pick, 12th overall), 1948 baa draft",
+    "accomplishments": [
+        "1957 nba champ"
+    ],
+    "career_summary": {
+        "G": "505",
+        "PTS": "10.4",
+        "TRB": "6.9",
+        "AST": "1.9",
+        "FG%": "36.8",
+        "FT%": "75.2",
+        "PER": "13.3",
+        "WS": "23.8"
+    }
+}

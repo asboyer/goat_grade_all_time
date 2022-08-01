@@ -1,0 +1,35 @@
+{
+    "name": [
+        "Kenneth Smith"
+    ],
+    "twitter": "TheJetOnTNT",
+    "nicknames": [
+        "The Jet"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "170",
+    "birthday": "march 8, 1965",
+    "birthplace": "queens, new york US",
+    "college": "unc",
+    "high school": " archbishop molloy in queens, new york",
+    "draft": "sacramento kings, 1st round (6th pick, 6th overall), 1987 nba draft",
+    "debut": "november 6, 1987",
+    "accomplishments": [
+        "2x nba champ",
+        "1987-88 all-rookie"
+    ],
+    "career_summary": {
+        "G": "737",
+        "PTS": "12.8",
+        "TRB": "2.0",
+        "AST": "5.5",
+        "FG%": "48.0",
+        "FG3%": "39.9",
+        "FT%": "82.9",
+        "eFG%": "52.5",
+        "PER": "14.9",
+        "WS": "46.8"
+    }
+}

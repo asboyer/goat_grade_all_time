@@ -1,0 +1,25 @@
+{
+    "name": "Priest Lauderdale",
+    "position": "center",
+    "shooting_hand": "left",
+    "height": "7-4",
+    "weight": "325",
+    "birthday": "august 31, 1973",
+    "birthplace": "chicago, illinois US",
+    "college": "central state university",
+    "high school": " carver in chicago, illinois",
+    "draft": "atlanta hawks, 1st round (28th pick, 28th overall), 1996 nba draft",
+    "debut": "november 2, 1996",
+    "career_summary": {
+        "G": "74",
+        "PTS": "3.4",
+        "TRB": "1.9",
+        "AST": "0.4",
+        "FG%": "47.2",
+        "FG3%": "0.0",
+        "FT%": "55.4",
+        "eFG%": "47.2",
+        "PER": "11.3",
+        "WS": "-0.8"
+    }
+}

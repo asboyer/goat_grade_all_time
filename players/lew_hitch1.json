@@ -1,0 +1,26 @@
+{
+    "name": "Lewis Rufus Hitch",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "200",
+    "birthday": "july 16, 1929",
+    "birthplace": "griggsville, illinois US",
+    "died": "february 8, 2012",
+    "college": "kansas state",
+    "draft": "minneapolis lakers, 2nd round (10th pick, 20th overall), 1951 nba draft",
+    "debut": "november 3, 1951",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "414",
+        "PTS": "5.0",
+        "TRB": "5.3",
+        "AST": "1.2",
+        "FG%": "37.6",
+        "FT%": "67.4",
+        "PER": "13.3",
+        "WS": "15.1"
+    }
+}

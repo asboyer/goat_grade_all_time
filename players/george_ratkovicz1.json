@@ -1,0 +1,21 @@
+{
+    "name": "George Ratkovicz",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "220",
+    "birthday": "november 13, 1922",
+    "birthplace": "chicago, illinois US",
+    "died": "november 10, 2008",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "343",
+        "PTS": "9.2",
+        "TRB": "6.9",
+        "AST": "2.3",
+        "FG%": "37.2",
+        "FT%": "67.3",
+        "PER": "15.0",
+        "WS": "28.6"
+    }
+}

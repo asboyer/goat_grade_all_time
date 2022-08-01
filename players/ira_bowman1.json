@@ -1,0 +1,27 @@
+{
+    "name": "Ira Bowman",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "june 11, 1973",
+    "birthplace": "newark, new jersey US",
+    "colleges": [
+        "providence",
+        "penn"
+    ],
+    "high school": " seton hall prep in west orange, new jersey",
+    "debut": "february 25, 2000",
+    "career_summary": {
+        "G": "17",
+        "PTS": "0.9",
+        "TRB": "0.3",
+        "AST": "0.5",
+        "FG%": "63.6",
+        "FG3%": "0.0",
+        "FT%": "50.0",
+        "eFG%": "63.6",
+        "PER": "13.4",
+        "WS": "0.2"
+    }
+}

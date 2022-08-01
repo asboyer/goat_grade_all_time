@@ -1,0 +1,25 @@
+{
+    "name": "Gary Francis Leonard",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-1",
+    "weight": "250",
+    "birthday": "february 16, 1967",
+    "birthplace": "belleville, illinois US",
+    "college": "missouri",
+    "high school": " belleville east in belleville, illinois",
+    "draft": "minnesota timberwolves, 2nd round (7th pick, 34th overall), 1989 nba draft",
+    "debut": "november 17, 1989",
+    "career_summary": {
+        "G": "31",
+        "PTS": "1.4",
+        "TRB": "1.1",
+        "AST": "0.1",
+        "FG%": "45.9",
+        "FG3%": "0.0",
+        "FT%": "50.0",
+        "eFG%": "45.9",
+        "PER": "8.6",
+        "WS": "0.1"
+    }
+}

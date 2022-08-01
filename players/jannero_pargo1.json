@@ -1,0 +1,27 @@
+{
+    "name": [
+        "Jannero Pargo"
+    ],
+    "twitter": "jpargo1",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "175",
+    "birthday": "october 22, 1979",
+    "birthplace": "chicago, illinois US",
+    "college": "arkansas",
+    "high school": " robeson in chicago, illinois",
+    "debut": "october 29, 2002",
+    "career_summary": {
+        "G": "499",
+        "PTS": "6.4",
+        "TRB": "1.4",
+        "AST": "2.0",
+        "FG%": "39.1",
+        "FG3%": "35.6",
+        "FT%": "86.4",
+        "eFG%": "45.5",
+        "PER": "11.8",
+        "WS": "4.9"
+    }
+}

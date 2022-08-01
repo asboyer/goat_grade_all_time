@@ -1,0 +1,32 @@
+{
+    "name": "William C. Bridges",
+    "nicknames": [
+        "The Train"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "228",
+    "birthday": "april 4, 1939",
+    "birthplace": "hobbs, new mexico US",
+    "died": "september 25, 2015",
+    "college": "kansas",
+    "high school": " hobbs in hobbs, new mexico",
+    "draft": "chicago packers, 3rd round (9th pick, 32nd overall), 1961 nba draft",
+    "debut": "january 8, 1963",
+    "accomplishments": [
+        "3x all star",
+        "1975 nba champ",
+        "2x all-defensive"
+    ],
+    "career_summary": {
+        "G": "926",
+        "PTS": "11.9",
+        "TRB": "11.9",
+        "AST": "2.8",
+        "FG%": "44.2",
+        "FT%": "69.3",
+        "PER": "14.5",
+        "WS": "59.9"
+    }
+}

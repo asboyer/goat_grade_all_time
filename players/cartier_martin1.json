@@ -1,0 +1,27 @@
+{
+    "name": [
+        "Cartier Alexander Martin"
+    ],
+    "twitter": "CartierMartin",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "november 20, 1984",
+    "birthplace": "crockett, texas US",
+    "college": "kansas state",
+    "high school": " aldine nimitz in houston, texas",
+    "debut": "january 30, 2009",
+    "career_summary": {
+        "G": "243",
+        "PTS": "5.1",
+        "TRB": "1.9",
+        "AST": "0.5",
+        "FG%": "39.2",
+        "FG3%": "37.2",
+        "FT%": "72.9",
+        "eFG%": "49.1",
+        "PER": "10.1",
+        "WS": "3.7"
+    }
+}

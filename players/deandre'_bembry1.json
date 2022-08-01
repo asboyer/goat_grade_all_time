@@ -1,0 +1,29 @@
+{
+    "name": [
+        "DeAndre' Pierre' Bembry"
+    ],
+    "twitter": "fearthefro95",
+    "instagram": "fearthefro95",
+    "position": "small forward and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "july 4, 1994",
+    "birthplace": "charlotte, north carolina US",
+    "college": "saint joseph's",
+    "high school": " the patrick school in hillside, new jersey",
+    "draft": "atlanta hawks, 1st round (21st pick, 21st overall), 2016 nba draft",
+    "debut": "october 27, 2016",
+    "career_summary": {
+        "G": "296",
+        "PTS": "5.9",
+        "TRB": "3.2",
+        "AST": "1.8",
+        "FG%": "47.4",
+        "FG3%": "28.3",
+        "FT%": "61.1",
+        "eFG%": "50.9",
+        "PER": "10.5",
+        "WS": "4.4"
+    }
+}

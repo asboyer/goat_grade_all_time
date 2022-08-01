@@ -60,26 +60,29 @@ def get_player_stats(name, num):
         if p in list(range(0, 6)) and 'position: ' in t.lower():
             stats['position'] = t.lower().split('position: ')[1].split(' ▪')[0]
             stats['shooting_hand'] = t.lower().split('shoots: ')[1]
-        if p in list(range(1, 10)) and t[1] == '-':
+        if p in list(range(1, 10)) and len(t) > 0 and t[1] == '-':
             stats['height'] = t.split(',')[0]
             stats['weight'] = t.split(',')[1].split('lb')[0].strip()
-        if p in list(range(2, 11)) and t.lower()[0:6] == 'born: ':
+        if p in list(range(2, 11)) and len(t) > 0 and t.lower()[0:6] == 'born: ':
             stats['birthday'] = (t.lower().split('born')[1].split(' in')[0])[2:]
-            stats['birthplace'] = t.lower().split('in ')[1].replace(', ', ', ')[0:-2] + " " + t.lower()[len(t)-2:len(t)].upper()
-        if p in list(range(2, 12)) and t.lower()[0:6] == 'died: ':
+            if "in" in t.lower():
+                stats['birthplace'] = t.lower().split('in ')[1].replace(', ', ', ')[0:-2] + " " + t.lower()[len(t)-2:len(t)].upper()
+        if p in list(range(2, 12)) and len(t) > 0 and t.lower()[0:6] == 'died: ':
             stats['died'] = (t.lower().split('died')[1].split('(')[0])[2:].replace(' ', ' ')
-        if p in list(range(2, 14)) and (t.lower()[0:9] == 'college: ' or t.lower()[0:10] == 'colleges: '):
+        if p in list(range(2, 14)) and len(t) > 0 and (t.lower()[0:9] == 'college: ' or t.lower()[0:10] == 'colleges: '):
             if 'college: ' in t.lower():
                 stats['college'] = t.lower().split('college:')[1][1:]
             if 'colleges: ' in t.lower():
                 stats['colleges'] = t.lower().split('colleges:')[1][1:].split(', ')
-        if p in list(range(2, 16)) and t.lower().startswith("high school"):
+        if p in list(range(2, 16)) and len(t) > 0 and t.lower().startswith("high school"):
             stats['high school'] = t.lower()[12:]
-        if p in list(range(2, 18)) and t.lower().startswith('draft: '):
-            stats['drafted_to'] = t.lower().split('draft: ')[1].split(',')[0] + ", " + t.lower().split('), ')[1].replace(' nba draft', '')
-            stats['draft_pick'] = t.lower().split('draft: ')[1].split(',')[1][1:] + t.lower().split('draft: ')[1].split(',')[2]  
-        if p in list(range(2, 20)) and t.lower().startswith('nba debut: '):
+        if p in list(range(2, 18)) and len(t) > 0 and t.lower().startswith('draft: '):
+            stats['draft'] = t.lower().split('draft: ')[1]
+            # stats['drafted_to'] = t.lower().split('draft: ')[1].split(',')[0] + ", " + t.lower().split('), ')[1].replace(' nba draft', '')
+            # stats['draft_pick'] = t.lower().split('draft: ')[1].split(',')[1][1:] + t.lower().split('draft: ')[1].split(',')[2]  
+        if p in list(range(2, 20)) and len(t) > 0 and t.lower().startswith('nba debut: '):
             stats['debut'] = t.lower().split(': ')[1]
+            break
 
     
     try:
@@ -112,10 +115,3 @@ def get_player_stats(name, num):
         counter += 1
 
     return stats
-
-
-name = 'james harden'
-s = get_player_stats(name, 1)
-if s != False:
-    with open("players/" + name.replace(" ", "_").lower() + ".json", 'w+', encoding='utf-8') as file:
-        file.write(json.dumps(s, indent=4, ensure_ascii=False))

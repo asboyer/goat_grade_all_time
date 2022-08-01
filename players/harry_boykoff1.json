@@ -1,0 +1,28 @@
+{
+    "name": "Harry J. Boykoff",
+    "nicknames": [
+        "Big Hesh",
+        "Heshie",
+        "Big Boy"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "225",
+    "birthday": "july 24, 1922",
+    "birthplace": "brooklyn, new york US",
+    "died": "february 20, 2001",
+    "college": "st. john's",
+    "high school": " thomas jefferson in brooklyn, new york",
+    "debut": "november 2, 1949",
+    "career_summary": {
+        "G": "109",
+        "PTS": "10.1",
+        "TRB": "4.6",
+        "AST": "1.9",
+        "FG%": "40.0",
+        "FT%": "76.5",
+        "PER": "-",
+        "WS": "7.0"
+    }
+}

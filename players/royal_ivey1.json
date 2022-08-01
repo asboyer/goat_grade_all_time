@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Royal Terence Ivey"
+    ],
+    "twitter": "ROYALTIVEY",
+    "nicknames": [
+        "Cheese",
+        "Smoke"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "200",
+    "birthday": "december 20, 1981",
+    "birthplace": "harlem, new york US",
+    "college": "texas",
+    "high school": " blair academy in blairstown, new jersey",
+    "draft": "atlanta hawks, 2nd round (8th pick, 37th overall), 2004 nba draft",
+    "debut": "november 3, 2004",
+    "career_summary": {
+        "G": "492",
+        "PTS": "3.3",
+        "TRB": "1.1",
+        "AST": "1.0",
+        "FG%": "40.6",
+        "FG3%": "36.1",
+        "FT%": "70.6",
+        "eFG%": "45.9",
+        "PER": "8.4",
+        "WS": "4.5"
+    }
+}

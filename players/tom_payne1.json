@@ -1,0 +1,23 @@
+{
+    "name": "Thomas Robert Payne",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "7-2",
+    "weight": "240",
+    "birthday": "november 19, 1950",
+    "birthplace": "california US",
+    "college": "kentucky",
+    "high school": " shawnee in louisville, kentucky",
+    "draft": "atlanta hawks, 2nd overall in the 1971 supplemental hardship draft",
+    "debut": "october 12, 1971",
+    "career_summary": {
+        "G": "29",
+        "PTS": "4.1",
+        "TRB": "2.4",
+        "AST": "0.5",
+        "FG%": "43.7",
+        "FT%": "63.0",
+        "PER": "15.0",
+        "WS": "0.3"
+    }
+}

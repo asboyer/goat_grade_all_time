@@ -1,0 +1,31 @@
+{
+    "name": "Robert Alan Kauffman",
+    "nicknames": [
+        "Horse",
+        "Ajax"
+    ],
+    "position": "power forward, small forward, and center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "240",
+    "birthday": "july 13, 1946",
+    "birthplace": "brooklyn, new york US",
+    "died": "july 25, 2015",
+    "college": "guilford college",
+    "high school": " scarsdale in scarsdale, new york",
+    "draft": "seattle supersonics, 1st round (3rd pick, 3rd overall), 1968 nba draft",
+    "debut": "october 17, 1968",
+    "accomplishments": [
+        "3x all star"
+    ],
+    "career_summary": {
+        "G": "525",
+        "PTS": "11.5",
+        "TRB": "7.0",
+        "AST": "2.7",
+        "FG%": "47.7",
+        "FT%": "74.9",
+        "PER": "16.8",
+        "WS": "31.5"
+    }
+}

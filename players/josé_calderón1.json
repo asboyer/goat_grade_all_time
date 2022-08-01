@@ -1,0 +1,30 @@
+{
+    "name": [
+        "José Manuel Calderón"
+    ],
+    "twitter": "JmCalderon",
+    "former_name": "born José Manuel Calderón Borrallo",
+    "nicknames": [
+        "Numero Ocho",
+        "Mr. Catering"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "200",
+    "birthday": "september 28, 1981",
+    "birthplace": "villanueva de la serena, spain ES",
+    "debut": "november 2, 2005",
+    "career_summary": {
+        "G": "895",
+        "PTS": "8.9",
+        "TRB": "2.4",
+        "AST": "5.8",
+        "FG%": "47.2",
+        "FG3%": "40.7",
+        "FT%": "87.3",
+        "eFG%": "54.3",
+        "PER": "15.8",
+        "WS": "58.3"
+    }
+}

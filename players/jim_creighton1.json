@@ -1,0 +1,23 @@
+{
+    "name": "Jim Creighton",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "200",
+    "birthday": "april 18, 1950",
+    "birthplace": "billings, montana US",
+    "college": "colorado",
+    "high school": " north in denver, colorado",
+    "draft": "seattle supersonics, 3rd round (10th pick, 40th overall), 1972 nba draft",
+    "debut": "october 23, 1975",
+    "career_summary": {
+        "G": "32",
+        "PTS": "1.0",
+        "TRB": "1.4",
+        "AST": "0.1",
+        "FG%": "27.9",
+        "FT%": "43.8",
+        "PER": "5.5",
+        "WS": "-0.2"
+    }
+}

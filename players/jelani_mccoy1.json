@@ -1,0 +1,28 @@
+{
+    "name": "Jelani Marwan McCoy",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "245",
+    "birthday": "december 6, 1977",
+    "birthplace": "oakland, california US",
+    "college": "ucla",
+    "high school": " saint augustine in san diego, california",
+    "draft": "seattle supersonics, 2nd round (4th pick, 33rd overall), 1998 nba draft",
+    "debut": "february 9, 1999",
+    "accomplishments": [
+        "2002 nba champ"
+    ],
+    "career_summary": {
+        "G": "260",
+        "PTS": "4.6",
+        "TRB": "3.5",
+        "AST": "0.5",
+        "FG%": "53.9",
+        "FG3%": "-",
+        "FT%": "49.0",
+        "eFG%": "53.9",
+        "PER": "12.6",
+        "WS": "5.1"
+    }
+}

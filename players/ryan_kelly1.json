@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Ryan Matthew Kelly"
+    ],
+    "twitter": "RyanKelly34",
+    "nicknames": [
+        "White Raven"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "230",
+    "birthday": "april 9, 1991",
+    "birthplace": "carmel, new york US",
+    "college": "duke",
+    "high school": " ravenscroft in raleigh, north carolina",
+    "draft": "los angeles lakers, 2nd round (18th pick, 48th overall), 2013 nba draft",
+    "debut": "november 5, 2013",
+    "career_summary": {
+        "G": "163",
+        "PTS": "6.0",
+        "TRB": "3.1",
+        "AST": "1.3",
+        "FG%": "37.8",
+        "FG3%": "31.6",
+        "FT%": "79.7",
+        "eFG%": "43.8",
+        "PER": "10.5",
+        "WS": "3.0"
+    }
+}

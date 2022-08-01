@@ -1,0 +1,28 @@
+{
+    "name": "John Young Brown",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "december 14, 1951",
+    "birthplace": "frankfurt, germany DE",
+    "college": "missouri",
+    "high school": " dixon in dixon, missouri",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 1973 nba draft",
+    "debut": "october 9, 1973",
+    "accomplishments": [
+        "1973-74 all-rookie"
+    ],
+    "career_summary": {
+        "G": "486",
+        "PTS": "7.4",
+        "TRB": "4.4",
+        "AST": "1.4",
+        "FG%": "45.3",
+        "FG3%": "-",
+        "FT%": "78.3",
+        "eFG%": "45.3",
+        "PER": "11.7",
+        "WS": "16.2"
+    }
+}

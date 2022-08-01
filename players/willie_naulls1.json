@@ -1,0 +1,31 @@
+{
+    "name": "William Dean Naulls",
+    "nicknames": [
+        "The Whale"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "225",
+    "birthday": "october 7, 1934",
+    "birthplace": "dallas, texas US",
+    "died": "november 22, 2018",
+    "college": "ucla",
+    "high school": " san pedro in san pedro, california",
+    "draft": "st. louis hawks, 2nd round (2nd pick, 10th overall), 1956 nba draft",
+    "debut": "october 27, 1956",
+    "accomplishments": [
+        "4x all star",
+        "3x nba champ"
+    ],
+    "career_summary": {
+        "G": "716",
+        "PTS": "15.8",
+        "TRB": "9.1",
+        "AST": "1.6",
+        "FG%": "40.6",
+        "FT%": "81.2",
+        "PER": "16.3",
+        "WS": "34.3"
+    }
+}

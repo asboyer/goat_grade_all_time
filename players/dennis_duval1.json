@@ -1,0 +1,26 @@
+{
+    "name": "Dennis DuVal",
+    "nicknames": [
+        "Sweet D"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "175",
+    "birthday": "march 31, 1952",
+    "birthplace": "westbury, new york US",
+    "college": "syracuse",
+    "high school": " westbury in westbury, new york",
+    "draft": "washington bullets, 2nd round (12th pick, 30th overall), 1974 nba draft",
+    "debut": "october 19, 1974",
+    "career_summary": {
+        "G": "50",
+        "PTS": "1.9",
+        "TRB": "0.6",
+        "AST": "0.7",
+        "FG%": "36.1",
+        "FT%": "66.7",
+        "PER": "11.2",
+        "WS": "0.0"
+    }
+}

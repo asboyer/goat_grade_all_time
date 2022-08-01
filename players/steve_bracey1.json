@@ -1,0 +1,26 @@
+{
+    "name": "Stephen Henry Bracey",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "175",
+    "birthday": "august 1, 1950",
+    "birthplace": "brooklyn, new york US",
+    "college": "tulsa",
+    "high school": " midwood in brooklyn, new york",
+    "draft": "atlanta hawks, 2nd round (8th pick, 21st overall), 1972 nba draft",
+    "debut": "october 10, 1972",
+    "accomplishments": [
+        "1975 nba champ"
+    ],
+    "career_summary": {
+        "G": "187",
+        "PTS": "6.1",
+        "TRB": "1.6",
+        "AST": "2.2",
+        "FG%": "46.6",
+        "FT%": "68.4",
+        "PER": "12.6",
+        "WS": "3.9"
+    }
+}

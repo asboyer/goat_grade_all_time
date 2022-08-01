@@ -1,0 +1,30 @@
+{
+    "name": "Thomas Dwight Eddleman",
+    "nicknames": [
+        "Dwight"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "189",
+    "birthday": "december 27, 1922",
+    "birthplace": "centralia, illinois US",
+    "died": "august 1, 2001",
+    "college": "illinois",
+    "high school": " centralia in centralia, illinois",
+    "draft": "chicago stags, 3rd round, 1949 baa draft",
+    "debut": "october 29, 1949",
+    "accomplishments": [
+        "2x all star"
+    ],
+    "career_summary": {
+        "G": "267",
+        "PTS": "12.1",
+        "TRB": "4.5",
+        "AST": "2.1",
+        "FG%": "35.2",
+        "FT%": "63.0",
+        "PER": "11.0",
+        "WS": "7.3"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "John Joseph McMahon",
+    "nicknames": [
+        "Jack Mac",
+        "Irish"
+    ],
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "185",
+    "birthday": "december 3, 1928",
+    "birthplace": "brooklyn, new york US",
+    "died": "june 11, 1989",
+    "college": "st. john's",
+    "high school": " saint michael's in brooklyn, new york",
+    "draft": "rochester royals, 2nd round, 1952 nba draft",
+    "debut": "november 1, 1952",
+    "accomplishments": [
+        "1958 nba champ"
+    ],
+    "career_summary": {
+        "G": "524",
+        "PTS": "8.1",
+        "TRB": "2.7",
+        "AST": "3.7",
+        "FG%": "33.7",
+        "FT%": "63.7",
+        "PER": "9.6",
+        "WS": "6.2"
+    }
+}

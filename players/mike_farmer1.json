@@ -1,0 +1,23 @@
+{
+    "name": "Don Michael Farmer",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "210",
+    "birthday": "september 26, 1936",
+    "birthplace": "oklahoma city, oklahoma US",
+    "college": "san francisco",
+    "high school": " richmond in richmond, california",
+    "draft": "new york knicks, 1st round (3rd pick, 3rd overall), 1958 nba draft",
+    "debut": "october 25, 1958",
+    "career_summary": {
+        "G": "423",
+        "PTS": "6.7",
+        "TRB": "4.6",
+        "AST": "1.3",
+        "FG%": "39.3",
+        "FT%": "81.4",
+        "PER": "9.9",
+        "WS": "6.3"
+    }
+}

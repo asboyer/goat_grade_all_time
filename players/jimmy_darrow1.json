@@ -1,0 +1,24 @@
+{
+    "name": "James K. Darrow",
+    "position": "guard",
+    "shooting_hand": "right",
+    "height": "5-10",
+    "weight": "170",
+    "birthday": "september 25, 1937",
+    "birthplace": "akron, ohio US",
+    "died": "june 8, 1987",
+    "college": "bowling green",
+    "high school": " akron south in akron, ohio",
+    "draft": "st. louis hawks, 5th round (6th pick, 38th overall), 1960 nba draft",
+    "debut": "november 22, 1961",
+    "career_summary": {
+        "G": "5",
+        "PTS": "2.4",
+        "TRB": "1.4",
+        "AST": "1.2",
+        "FG%": "20.0",
+        "FT%": "85.7",
+        "PER": "6.0",
+        "WS": "-0.1"
+    }
+}

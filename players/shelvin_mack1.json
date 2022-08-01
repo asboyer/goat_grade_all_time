@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Shelvin Bernard Mack"
+    ],
+    "twitter": "ShelvinMack",
+    "instagram": "shelvin.mack",
+    "position": "point guard and shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "203",
+    "birthday": "april 22, 1990",
+    "birthplace": "lexington, kentucky US",
+    "college": "butler",
+    "high school": " bryan station in lexington, kentucky",
+    "draft": "washington wizards, 2nd round (4th pick, 34th overall), 2011 nba draft",
+    "debut": "december 26, 2011",
+    "career_summary": {
+        "G": "456",
+        "PTS": "6.6",
+        "TRB": "2.0",
+        "AST": "3.1",
+        "FG%": "42.3",
+        "FG3%": "33.0",
+        "FT%": "73.1",
+        "eFG%": "47.8",
+        "PER": "12.3",
+        "WS": "10.3"
+    }
+}

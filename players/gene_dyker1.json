@@ -1,0 +1,23 @@
+{
+    "name": "Eugene Walter Dyker",
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "225",
+    "birthday": "february 17, 1930",
+    "birthplace": "chicago, illinois US",
+    "college": "depaul",
+    "high school": " saint patrick in chicago, illinois",
+    "draft": "milwaukee hawks, 4th round, 1953 nba draft",
+    "debut": "december 5, 1953",
+    "career_summary": {
+        "G": "11",
+        "PTS": "1.5",
+        "TRB": "1.5",
+        "AST": "0.5",
+        "FG%": "23.1",
+        "FT%": "50.0",
+        "PER": "0.4",
+        "WS": "-0.3"
+    }
+}

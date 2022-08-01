@@ -1,0 +1,26 @@
+{
+    "name": "Charles Bradford Black Jr.",
+    "nicknames": [
+        "Hawk"
+    ],
+    "position": "forward/center",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "200",
+    "birthday": "june 15, 1921",
+    "birthplace": "arco, idaho US",
+    "died": "december 22, 1992",
+    "college": "kansas",
+    "high school": " highland park in topeka, kansas",
+    "debut": "november 1, 1948",
+    "career_summary": {
+        "G": "136",
+        "PTS": "9.2",
+        "TRB": "2.4",
+        "AST": "2.3",
+        "FG%": "28.3",
+        "FT%": "60.1",
+        "PER": "1.1",
+        "WS": "4.3"
+    }
+}

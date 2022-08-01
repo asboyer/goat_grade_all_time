@@ -1,0 +1,25 @@
+{
+    "name": "Adam Thomas Keefe",
+    "position": "power forward, center, and small forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "230",
+    "birthday": "february 22, 1970",
+    "birthplace": "irvine, california US",
+    "college": "stanford",
+    "high school": " woodbridge in irvine, california",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 1992 nba draft",
+    "debut": "november 6, 1992",
+    "career_summary": {
+        "G": "617",
+        "PTS": "5.0",
+        "TRB": "4.1",
+        "AST": "0.7",
+        "FG%": "50.2",
+        "FG3%": "7.1",
+        "FT%": "71.4",
+        "eFG%": "50.2",
+        "PER": "12.9",
+        "WS": "24.9"
+    }
+}

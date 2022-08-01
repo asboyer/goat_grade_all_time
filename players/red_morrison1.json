@@ -1,0 +1,23 @@
+{
+    "name": "Dwight W. Morrison",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "220",
+    "birthday": "april 26, 1932",
+    "birthplace": "fresno, california US",
+    "college": "idaho",
+    "high school": " walla walla in walla walla, washington",
+    "draft": "boston celtics, 2nd round (5th pick, 14th overall), 1954 nba draft",
+    "debut": "october 30, 1954",
+    "career_summary": {
+        "G": "155",
+        "PTS": "3.6",
+        "TRB": "5.3",
+        "AST": "0.9",
+        "FG%": "39.6",
+        "FT%": "57.2",
+        "PER": "10.8",
+        "WS": "2.2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Alfred Beard Jr.",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "185",
+    "birthday": "may 4, 1947",
+    "birthplace": "hardinsburg, kentucky US",
+    "college": "louisville",
+    "high school": " breckenridge county in hardinsburg, kentucky",
+    "draft": "atlanta hawks, 1st round (10th pick, 10th overall), 1969 nba draft",
+    "debut": "october 15, 1969",
+    "accomplishments": [
+        "1x all star",
+        "1975 nba champ"
+    ],
+    "career_summary": {
+        "G": "605",
+        "PTS": "9.3",
+        "TRB": "3.4",
+        "AST": "3.6",
+        "FG%": "48.7",
+        "FT%": "77.1",
+        "PER": "15.0",
+        "WS": "32.8"
+    }
+}

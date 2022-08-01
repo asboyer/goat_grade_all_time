@@ -1,0 +1,24 @@
+{
+    "name": "Eldridge David Recasner",
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "december 14, 1967",
+    "birthplace": "new orleans, louisiana US",
+    "college": "washington",
+    "high school": " alfred lawless in new orleans, louisiana",
+    "debut": "march 4, 1995",
+    "career_summary": {
+        "G": "296",
+        "PTS": "5.9",
+        "TRB": "1.8",
+        "AST": "1.8",
+        "FG%": "42.6",
+        "FG3%": "40.9",
+        "FT%": "88.7",
+        "eFG%": "50.6",
+        "PER": "11.7",
+        "WS": "8.8"
+    }
+}

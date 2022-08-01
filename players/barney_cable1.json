@@ -1,0 +1,23 @@
+{
+    "name": "Byrum William Cable",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "175",
+    "birthday": "july 29, 1935",
+    "birthplace": "rochester, pennsylvania US",
+    "college": "bradley",
+    "high school": " rochester in rochester, pennsylvania",
+    "draft": "detroit pistons, 2nd round (3rd pick, 11th overall), 1958 nba draft",
+    "debut": "october 19, 1958",
+    "career_summary": {
+        "G": "362",
+        "PTS": "6.6",
+        "TRB": "5.2",
+        "AST": "1.1",
+        "FG%": "42.0",
+        "FT%": "66.5",
+        "PER": "10.6",
+        "WS": "6.5"
+    }
+}

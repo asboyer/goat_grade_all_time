@@ -1,0 +1,25 @@
+{
+    "name": "John Gabriel Pinone Jr.",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "230",
+    "birthday": "february 19, 1961",
+    "birthplace": "hartford, connecticut US",
+    "college": "villanova",
+    "high school": " south catholic in hartford, connecticut",
+    "draft": "atlanta hawks, 3rd round (11th pick, 58th overall), 1983 nba draft",
+    "debut": "october 28, 1983",
+    "career_summary": {
+        "G": "7",
+        "PTS": "2.9",
+        "TRB": "1.4",
+        "AST": "0.4",
+        "FG%": "53.8",
+        "FG3%": "-",
+        "FT%": "60.0",
+        "eFG%": "53.8",
+        "PER": "7.8",
+        "WS": "0.1"
+    }
+}

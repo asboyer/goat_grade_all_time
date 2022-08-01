@@ -1,0 +1,28 @@
+{
+    "name": "Donald Nathaniel Boyce",
+    "nicknames": [
+        "Donny"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "196",
+    "birthday": "september 2, 1973",
+    "birthplace": "chicago, illinois US",
+    "college": "colorado",
+    "high school": " proviso east in maywood, illinois",
+    "draft": "atlanta hawks, 2nd round (13th pick, 42nd overall), 1995 nba draft",
+    "debut": "march 12, 1996",
+    "career_summary": {
+        "G": "30",
+        "PTS": "2.6",
+        "TRB": "0.8",
+        "AST": "0.5",
+        "FG%": "34.9",
+        "FG3%": "25.0",
+        "FT%": "50.0",
+        "eFG%": "38.4",
+        "PER": "9.3",
+        "WS": "-0.3"
+    }
+}

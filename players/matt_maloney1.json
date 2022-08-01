@@ -1,0 +1,30 @@
+{
+    "name": "Matthew Patrick Maloney",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "192",
+    "birthday": "december 6, 1971",
+    "birthplace": "silver spring, maryland US",
+    "colleges": [
+        "vanderbilt",
+        "penn"
+    ],
+    "high school": " memorial in haddonfield, new jersey",
+    "debut": "november 1, 1996",
+    "accomplishments": [
+        "1996-97 all-rookie"
+    ],
+    "career_summary": {
+        "G": "295",
+        "PTS": "7.4",
+        "TRB": "1.7",
+        "AST": "2.9",
+        "FG%": "40.8",
+        "FG3%": "37.2",
+        "FT%": "79.7",
+        "eFG%": "51.2",
+        "PER": "10.6",
+        "WS": "9.5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "John R. McConathy",
+    "nicknames": [
+        "Big John",
+        "Hound"
+    ],
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "april 9, 1930",
+    "birthplace": "sailes, louisiana US",
+    "died": "april 19, 2016",
+    "college": "northwestern state university",
+    "draft": "syracuse nationals, 1st round (5th pick, 5th overall), 1951 nba draft",
+    "debut": "november 3, 1951",
+    "career_summary": {
+        "G": "11",
+        "PTS": "1.3",
+        "TRB": "1.8",
+        "AST": "0.7",
+        "FG%": "13.8",
+        "FT%": "42.9",
+        "PER": "1.7",
+        "WS": "-0.5"
+    }
+}

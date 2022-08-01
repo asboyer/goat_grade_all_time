@@ -1,0 +1,25 @@
+{
+    "name": "Durand Macklin",
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "205",
+    "birthday": "february 19, 1958",
+    "birthplace": "louisville, kentucky US",
+    "college": "lsu",
+    "high school": " shawnee in louisville, kentucky",
+    "draft": "atlanta hawks, 3rd round (6th pick, 52nd overall), 1981 nba draft",
+    "debut": "october 31, 1981",
+    "career_summary": {
+        "G": "160",
+        "PTS": "6.4",
+        "TRB": "2.9",
+        "AST": "0.8",
+        "FG%": "44.9",
+        "FG3%": "0.0",
+        "FT%": "77.6",
+        "eFG%": "44.9",
+        "PER": "10.0",
+        "WS": "3.2"
+    }
+}

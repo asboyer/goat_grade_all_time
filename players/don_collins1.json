@@ -1,0 +1,28 @@
+{
+    "name": "Paul Douglas Collins",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "180",
+    "birthday": "july 28, 1951",
+    "birthplace": "christopher, illinois US",
+    "college": "illinois state",
+    "high school": " benton in benton, illinois",
+    "draft": "philadelphia 76ers, 1st round (1st pick, 1st overall), 1973 nba draft",
+    "debut": "october 10, 1973",
+    "accomplishments": [
+        "4x all star"
+    ],
+    "career_summary": {
+        "G": "415",
+        "PTS": "17.9",
+        "TRB": "3.2",
+        "AST": "3.3",
+        "FG%": "50.1",
+        "FG3%": "0.0",
+        "FT%": "83.3",
+        "eFG%": "50.1",
+        "PER": "16.1",
+        "WS": "38.0"
+    }
+}

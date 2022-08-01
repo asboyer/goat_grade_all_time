@@ -1,0 +1,30 @@
+{
+    "name": [
+        "Anthony Jarrad Morrow"
+    ],
+    "twitter": "MrAnthonyMorrow",
+    "nicknames": [
+        "Chocolate Reign"
+    ],
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "september 27, 1985",
+    "birthplace": "charlotte, north carolina US",
+    "college": "georgia tech",
+    "high school": " charlotte latin in charlotte, north carolina",
+    "debut": "november 9, 2008",
+    "career_summary": {
+        "G": "564",
+        "PTS": "9.4",
+        "TRB": "2.2",
+        "AST": "0.9",
+        "FG%": "44.7",
+        "FG3%": "41.7",
+        "FT%": "88.0",
+        "eFG%": "53.9",
+        "PER": "13.2",
+        "WS": "23.2"
+    }
+}

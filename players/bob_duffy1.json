@@ -1,0 +1,26 @@
+{
+    "name": "Robert John Duffy",
+    "nicknames": [
+        "Bob John"
+    ],
+    "position": "forward",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "175",
+    "birthday": "july 5, 1922",
+    "birthplace": "columbus, ohio US",
+    "died": "june 11, 1978",
+    "college": "tulane",
+    "high school": " st. charles prep in columbus, ohio",
+    "debut": "november 2, 1946",
+    "career_summary": {
+        "G": "17",
+        "PTS": "1.1",
+        "TRB": "-",
+        "AST": "0.0",
+        "FG%": "21.9",
+        "FT%": "71.4",
+        "PER": "-",
+        "WS": "0.0"
+    }
+}

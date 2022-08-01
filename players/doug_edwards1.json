@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Edwards",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "220",
+    "birthday": "january 21, 1971",
+    "birthplace": "miami, florida US",
+    "college": "florida state",
+    "high school": " miami senior in miami, florida",
+    "draft": "atlanta hawks, 1st round (15th pick, 15th overall), 1993 nba draft",
+    "debut": "december 28, 1993",
+    "career_summary": {
+        "G": "85",
+        "PTS": "2.4",
+        "TRB": "1.8",
+        "AST": "0.7",
+        "FG%": "37.8",
+        "FG3%": "0.0",
+        "FT%": "70.9",
+        "eFG%": "37.8",
+        "PER": "8.4",
+        "WS": "0.2"
+    }
+}

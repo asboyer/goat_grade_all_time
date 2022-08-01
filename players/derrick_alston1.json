@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Samuel Alston",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "225",
+    "birthday": "august 20, 1972",
+    "birthplace": "bronx, new york US",
+    "college": "duquesne",
+    "high school": " hoboken in hoboken, new jersey",
+    "draft": "philadelphia 76ers, 2nd round (6th pick, 33rd overall), 1994 nba draft",
+    "debut": "november 4, 1994",
+    "career_summary": {
+        "G": "139",
+        "PTS": "5.4",
+        "TRB": "3.8",
+        "AST": "0.7",
+        "FG%": "48.9",
+        "FG3%": "14.3",
+        "FT%": "48.7",
+        "eFG%": "49.0",
+        "PER": "11.7",
+        "WS": "2.6"
+    }
+}

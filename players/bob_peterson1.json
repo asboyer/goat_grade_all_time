@@ -1,0 +1,26 @@
+{
+    "name": "Robert Peterson",
+    "nicknames": [
+        "Blinky"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "210",
+    "birthday": "january 25, 1932",
+    "birthplace": "san mateo, california US",
+    "died": "july 30, 2011",
+    "college": "oregon",
+    "draft": "baltimore bullets, 11th round, 1952 nba draft, and baltimore bullets, 3rd round, 1953 nba draft",
+    "debut": "october 31, 1953",
+    "career_summary": {
+        "G": "103",
+        "PTS": "4.7",
+        "TRB": "3.8",
+        "AST": "0.8",
+        "FG%": "38.6",
+        "FT%": "66.9",
+        "PER": "12.2",
+        "WS": "1.5"
+    }
+}

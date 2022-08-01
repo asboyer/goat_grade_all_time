@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Chandler Evan Parsons"
+    ],
+    "twitter": "ChandlerParsons",
+    "instagram": "chandlerparsons",
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "230",
+    "birthday": "october 25, 1988",
+    "birthplace": "casselberry, florida US",
+    "college": "florida",
+    "high school": " lake howell in winter park, florida",
+    "draft": "houston rockets, 2nd round (8th pick, 38th overall), 2011 nba draft",
+    "debut": "december 29, 2011",
+    "accomplishments": [
+        "2011-12 all-rookie"
+    ],
+    "career_summary": {
+        "G": "440",
+        "PTS": "12.7",
+        "TRB": "4.5",
+        "AST": "2.7",
+        "FG%": "46.2",
+        "FG3%": "37.3",
+        "FT%": "71.3",
+        "eFG%": "53.6",
+        "PER": "14.7",
+        "WS": "28.9"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Wesley Joel Matthews Sr.",
+    "nicknames": [
+        "Wild Wild Wes"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "170",
+    "birthday": "august 24, 1959",
+    "birthplace": "sarasota, florida US",
+    "college": "wisconsin",
+    "high school": " harding in bridgeport, connecticut",
+    "draft": "washington bullets, 1st round (14th pick, 14th overall), 1980 nba draft",
+    "debut": "october 10, 1980",
+    "accomplishments": [
+        "2x nba champ"
+    ],
+    "career_summary": {
+        "G": "465",
+        "PTS": "7.9",
+        "TRB": "1.3",
+        "AST": "4.2",
+        "FG%": "47.8",
+        "FG3%": "22.5",
+        "FT%": "78.8",
+        "eFG%": "48.4",
+        "PER": "13.0",
+        "WS": "11.0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": [
+        "Antoine Labotte Carr"
+    ],
+    "twitter": "AntoineCarr55",
+    "nicknames": [
+        "A.C.",
+        "The Big Dog",
+        "Dr. Dunkenstein"
+    ],
+    "position": "power forward, small forward, and center",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "225",
+    "birthday": "july 23, 1961",
+    "birthplace": "oklahoma city, oklahoma US",
+    "college": "wichita state",
+    "high school": " wichita heights in wichita, kansas",
+    "draft": "detroit pistons, 1st round (8th pick, 8th overall), 1983 nba draft",
+    "debut": "october 26, 1984",
+    "career_summary": {
+        "G": "987",
+        "PTS": "9.3",
+        "TRB": "3.4",
+        "AST": "1.1",
+        "FG%": "50.3",
+        "FG3%": "13.0",
+        "FT%": "78.0",
+        "eFG%": "50.3",
+        "PER": "14.2",
+        "WS": "42.1"
+    }
+}

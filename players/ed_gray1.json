@@ -1,0 +1,28 @@
+{
+    "name": "Edward Gray Jr.",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "210",
+    "birthday": "september 27, 1975",
+    "birthplace": "riverside, california US",
+    "colleges": [
+        "tennessee",
+        "california"
+    ],
+    "high school": " north in riverside, california",
+    "draft": "atlanta hawks, 1st round (22nd pick, 22nd overall), 1997 nba draft",
+    "debut": "october 31, 1997",
+    "career_summary": {
+        "G": "60",
+        "PTS": "6.2",
+        "TRB": "1.2",
+        "AST": "0.8",
+        "FG%": "33.9",
+        "FG3%": "34.1",
+        "FT%": "81.4",
+        "eFG%": "37.8",
+        "PER": "9.6",
+        "WS": "0.1"
+    }
+}

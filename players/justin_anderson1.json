@@ -1,0 +1,32 @@
+{
+    "name": [
+        "Justin Lamar Anderson"
+    ],
+    "twitter": "JusAnderson1",
+    "instagram": "jusanderson1",
+    "nicknames": [
+        "Simba"
+    ],
+    "position": "small forward and shooting guard",
+    "shooting_hand": "left",
+    "height": "6-6",
+    "weight": "230",
+    "birthday": "november 19, 1993",
+    "birthplace": "montross, virginia US",
+    "college": "virginia",
+    "high school": " montrose christian school in rockville, maryland",
+    "draft": "dallas mavericks, 1st round (21st pick, 21st overall), 2015 nba draft",
+    "debut": "october 28, 2015",
+    "career_summary": {
+        "G": "242",
+        "PTS": "5.3",
+        "TRB": "2.6",
+        "AST": "0.8",
+        "FG%": "41.0",
+        "FG3%": "29.2",
+        "FT%": "77.5",
+        "eFG%": "48.2",
+        "PER": "12.4",
+        "WS": "4.9"
+    }
+}

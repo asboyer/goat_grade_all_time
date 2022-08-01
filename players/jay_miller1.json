@@ -1,0 +1,31 @@
+{
+    "name": "Jay Julian Miller",
+    "nicknames": [
+        "Jay Jay"
+    ],
+    "position": "small forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "205",
+    "birthday": "july 19, 1943",
+    "birthplace": "st. louis, missouri US",
+    "died": "april 5, 2001",
+    "college": "notre dame",
+    "high school": " goshen in goshen, indiana",
+    "debut": "october 14, 1967 &blacksquare aba debut",
+    "accomplishments": [
+        "1970 aba champ"
+    ],
+    "career_summary": {
+        "G": "117",
+        "PTS": "5.5",
+        "TRB": "1.8",
+        "AST": "0.4",
+        "FG%": "41.5",
+        "FG3%": "0.0",
+        "FT%": "71.7",
+        "eFG%": "41.5",
+        "PER": "11.9",
+        "WS": "1.4"
+    }
+}

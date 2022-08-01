@@ -1,0 +1,38 @@
+{
+    "name": "Cornelius Lance Hawkins",
+    "nicknames": [
+        "Hawk",
+        "The Man"
+    ],
+    "position": "small forward, power forward, and center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "210",
+    "birthday": "july 17, 1942",
+    "birthplace": "brooklyn, new york US",
+    "died": "october 6, 2017",
+    "college": "iowa",
+    "high school": " boys in brooklyn, new york",
+    "debut": "october 16, 1969 &blacksquare aba debut",
+    "accomplishments": [
+        "hall of fame",
+        "5x all star",
+        "1968 aba champ",
+        "1969-70 all-nba",
+        "2x all-aba",
+        "1967-68 mvp",
+        "aba all-time team"
+    ],
+    "career_summary": {
+        "G": "616",
+        "PTS": "18.7",
+        "TRB": "8.8",
+        "AST": "4.1",
+        "FG%": "47.9",
+        "FG3%": "16.1",
+        "FT%": "77.9",
+        "eFG%": "48.0",
+        "PER": "19.9",
+        "WS": "76.7"
+    }
+}

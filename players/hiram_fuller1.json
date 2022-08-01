@@ -1,0 +1,24 @@
+{
+    "name": "Hiram Fuller",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-9",
+    "weight": "240",
+    "birthday": "may 15, 1981",
+    "birthplace": "east st. louis, missouri US",
+    "college": "fresno state",
+    "high school": " stadium in tacoma, washington",
+    "debut": "february 27, 2004",
+    "career_summary": {
+        "G": "4",
+        "PTS": "2.0",
+        "TRB": "2.8",
+        "AST": "0.5",
+        "FG%": "37.5",
+        "FG3%": "-",
+        "FT%": "33.3",
+        "eFG%": "37.5",
+        "PER": "3.6",
+        "WS": "-0.1"
+    }
+}

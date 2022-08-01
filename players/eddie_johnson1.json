@@ -1,0 +1,25 @@
+{
+    "name": "Ed Lee Johnson",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "205",
+    "birthday": "june 17, 1944",
+    "birthplace": "atlanta, georgia US",
+    "died": "april 5, 2016",
+    "college": "tennessee state",
+    "high school": " david t. howard in atlanta, georgia",
+    "draft": "seattle supersonics, 3rd round (12th pick, 34th overall), 1968 nba draft",
+    "career_summary": {
+        "G": "166",
+        "PTS": "12.3",
+        "TRB": "10.2",
+        "AST": "1.1",
+        "FG%": "47.4",
+        "FG3%": "33.3",
+        "FT%": "55.4",
+        "eFG%": "47.4",
+        "PER": "14.0",
+        "WS": "8.5"
+    }
+}

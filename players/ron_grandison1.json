@@ -1,0 +1,32 @@
+{
+    "name": "Ron Calvin Grandison",
+    "nicknames": [
+        "Ronnie"
+    ],
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-6",
+    "weight": "215",
+    "birthday": "july 9, 1964",
+    "birthplace": "los angeles, california US",
+    "colleges": [
+        "university of california",
+        "irvine",
+        "new orleans"
+    ],
+    "high school": " saint bernard in playa del rey, california",
+    "draft": "denver nuggets, 5th round (8th pick, 100th overall), 1987 nba draft",
+    "debut": "november 4, 1988",
+    "career_summary": {
+        "G": "105",
+        "PTS": "2.4",
+        "TRB": "1.6",
+        "AST": "0.6",
+        "FG%": "40.4",
+        "FG3%": "16.7",
+        "FT%": "71.3",
+        "eFG%": "41.3",
+        "PER": "9.8",
+        "WS": "1.2"
+    }
+}

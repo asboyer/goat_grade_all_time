@@ -1,0 +1,25 @@
+{
+    "name": "Armond G. Hill",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-4",
+    "weight": "190",
+    "birthday": "march 31, 1953",
+    "birthplace": "brooklyn, new york US",
+    "college": "princeton",
+    "high school": " bishop ford in brooklyn, new york",
+    "draft": "atlanta hawks, 1st round (9th pick, 9th overall), 1976 nba draft",
+    "debut": "october 21, 1976",
+    "career_summary": {
+        "G": "468",
+        "PTS": "6.9",
+        "TRB": "2.0",
+        "AST": "4.7",
+        "FG%": "40.8",
+        "FG3%": "7.7",
+        "FT%": "82.9",
+        "eFG%": "40.8",
+        "PER": "10.2",
+        "WS": "11.3"
+    }
+}

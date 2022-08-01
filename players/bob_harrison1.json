@@ -1,0 +1,27 @@
+{
+    "name": "Robert Anderson Harris",
+    "nicknames": [
+        "Gabby"
+    ],
+    "position": "small forward and power forward",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "195",
+    "birthday": "march 16, 1927",
+    "birthplace": "linden, tennessee US",
+    "died": "april 10, 1977",
+    "college": "oklahoma state",
+    "high school": " battle ground academy in franklin, tennessee",
+    "draft": "fort wayne pistons, 1st round (3rd pick, 3rd overall), 1949 baa draft",
+    "debut": "november 3, 1949",
+    "career_summary": {
+        "G": "325",
+        "PTS": "6.8",
+        "TRB": "6.9",
+        "AST": "1.5",
+        "FG%": "38.5",
+        "FT%": "62.8",
+        "PER": "12.6",
+        "WS": "15.7"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Thomas Kevin Barker",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "225",
+    "birthday": "march 11, 1955",
+    "birthplace": "harlingen, texas US",
+    "college": "hawaii",
+    "high school": " weslaco in weslaco, texas",
+    "draft": "atlanta hawks, 4th round (2nd pick, 53rd overall), 1976 nba draft",
+    "debut": "october 21, 1976",
+    "career_summary": {
+        "G": "98",
+        "PTS": "6.5",
+        "TRB": "5.3",
+        "AST": "0.8",
+        "FG%": "42.2",
+        "FT%": "69.2",
+        "PER": "10.9",
+        "WS": "1.3"
+    }
+}

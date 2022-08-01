@@ -1,0 +1,32 @@
+{
+    "name": "Joe C. Meriweather",
+    "nicknames": [
+        "Joe C."
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "215",
+    "birthday": "october 26, 1953",
+    "birthplace": "phenix city, alabama US",
+    "died": "october 13, 2013",
+    "college": "southern illinois",
+    "high school": " central in phenix city, alabama",
+    "draft": "houston rockets, 1st round (11th pick, 11th overall), 1975 nba draft",
+    "debut": "october 24, 1975",
+    "accomplishments": [
+        "1975-76 all-rookie"
+    ],
+    "career_summary": {
+        "G": "670",
+        "PTS": "8.1",
+        "TRB": "5.6",
+        "AST": "0.9",
+        "FG%": "51.1",
+        "FG3%": "33.3",
+        "FT%": "68.7",
+        "eFG%": "51.1",
+        "PER": "12.7",
+        "WS": "27.6"
+    }
+}

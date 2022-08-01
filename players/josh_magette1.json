@@ -1,0 +1,28 @@
+{
+    "name": [
+        "Josh Magette"
+    ],
+    "twitter": "joshmagette",
+    "instagram": "joshmagette",
+    "position": "point guard",
+    "shooting_hand": "left",
+    "height": "6-1",
+    "weight": "160",
+    "birthday": "november 28, 1989",
+    "birthplace": "birmingham, alabama US",
+    "college": "alabama-huntsville",
+    "high school": " spain park in hoover, alabama",
+    "debut": "october 18, 2017",
+    "career_summary": {
+        "G": "26",
+        "PTS": "2.2",
+        "TRB": "1.0",
+        "AST": "2.4",
+        "FG%": "32.8",
+        "FG3%": "34.6",
+        "FT%": "90.0",
+        "eFG%": "40.2",
+        "PER": "10.9",
+        "WS": "0.3"
+    }
+}

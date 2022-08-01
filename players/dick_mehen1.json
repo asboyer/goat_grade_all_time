@@ -1,0 +1,23 @@
+{
+    "name": "Richard Peter Mehen",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-5",
+    "weight": "195",
+    "birthday": "may 20, 1922",
+    "birthplace": "wheeling, west virginia US",
+    "died": "december 14, 1986",
+    "college": "tennessee",
+    "high school": " wheeling park in wheeling, west virginia",
+    "debut": "november 2, 1949",
+    "career_summary": {
+        "G": "193",
+        "PTS": "10.7",
+        "TRB": "3.9",
+        "AST": "2.5",
+        "FG%": "38.1",
+        "FT%": "70.9",
+        "PER": "10.7",
+        "WS": "8.1"
+    }
+}

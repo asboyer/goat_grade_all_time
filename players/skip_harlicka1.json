@@ -1,0 +1,22 @@
+{
+    "name": "Jules Peter Harlicka",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "185",
+    "birthday": "october 14, 1946",
+    "college": "south carolina",
+    "high school": " notre dame in lawrence township, new jersey",
+    "draft": "atlanta hawks, 1st round (13th pick, 13th overall), 1968 nba draft",
+    "debut": "november 9, 1968",
+    "career_summary": {
+        "G": "26",
+        "PTS": "4.1",
+        "TRB": "0.6",
+        "AST": "1.4",
+        "FG%": "45.6",
+        "FT%": "77.4",
+        "PER": "14.8",
+        "WS": "0.5"
+    }
+}

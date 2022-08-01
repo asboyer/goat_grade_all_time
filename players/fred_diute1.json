@@ -1,0 +1,24 @@
+{
+    "name": "Fred Homer Diute",
+    "position": "shooting guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "210",
+    "birthday": "january 9, 1929",
+    "birthplace": "binghamton, new york US",
+    "died": "july 19, 2004",
+    "college": "st. bonaventure",
+    "high school": " central in binghamton, new york",
+    "draft": "rochester royals, 3rd round (8th pick, 28th overall), 1951 nba draft",
+    "debut": "november 30, 1954",
+    "career_summary": {
+        "G": "7",
+        "PTS": "1.6",
+        "TRB": "1.9",
+        "AST": "0.6",
+        "FG%": "9.5",
+        "FT%": "58.3",
+        "PER": "-2.3",
+        "WS": "-0.3"
+    }
+}

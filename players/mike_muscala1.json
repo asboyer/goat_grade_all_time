@@ -1,0 +1,33 @@
+{
+    "name": [
+        "Mike Muscala"
+    ],
+    "twitter": "mikemuscala",
+    "nicknames": [
+        "Jawz",
+        "Moose",
+        "Musky"
+    ],
+    "position": "center and power forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "240",
+    "birthday": "july 1, 1991",
+    "birthplace": "st. louis park, minnesota US",
+    "college": "bucknell",
+    "high school": " roseville in roseville, minnesota",
+    "draft": "dallas mavericks, 2nd round (14th pick, 44th overall), 2013 nba draft",
+    "debut": "march 2, 2014",
+    "career_summary": {
+        "G": "432",
+        "PTS": "6.2",
+        "TRB": "3.2",
+        "AST": "0.9",
+        "FG%": "45.8",
+        "FG3%": "37.7",
+        "FT%": "84.7",
+        "eFG%": "55.6",
+        "PER": "14.1",
+        "WS": "16.6"
+    }
+}

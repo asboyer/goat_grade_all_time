@@ -1,0 +1,28 @@
+{
+    "name": "Andrew Charles Lang Jr.",
+    "nicknames": [
+        "Drew"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-11",
+    "weight": "245",
+    "birthday": "june 28, 1966",
+    "birthplace": "pine bluff, arkansas US",
+    "college": "arkansas",
+    "high school": " dollarway in pine bluff, arkansas",
+    "draft": "phoenix suns, 2nd round (3rd pick, 28th overall), 1988 nba draft",
+    "debut": "november 4, 1988",
+    "career_summary": {
+        "G": "737",
+        "PTS": "6.0",
+        "TRB": "4.8",
+        "AST": "0.6",
+        "FG%": "47.0",
+        "FG3%": "25.0",
+        "FT%": "74.4",
+        "eFG%": "47.1",
+        "PER": "11.7",
+        "WS": "28.6"
+    }
+}

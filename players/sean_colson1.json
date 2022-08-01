@@ -1,0 +1,27 @@
+{
+    "name": "Sean Tyree Colson",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-0",
+    "weight": "175",
+    "birthday": "july 1, 1975",
+    "birthplace": "philadelphia, pennsylvania US",
+    "colleges": [
+        "rhode island",
+        "unc charlotte"
+    ],
+    "high school": ": john bartram in philadelphia, pennsylvania, franklin learning center in philadelphia, pennsylvania, maine central institute in pittsfield, maine",
+    "debut": "january 18, 2001",
+    "career_summary": {
+        "G": "13",
+        "PTS": "1.2",
+        "TRB": "0.5",
+        "AST": "0.8",
+        "FG%": "25.0",
+        "FG3%": "20.0",
+        "FT%": "50.0",
+        "eFG%": "27.1",
+        "PER": "6.8",
+        "WS": "-0.1"
+    }
+}

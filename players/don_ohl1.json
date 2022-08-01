@@ -1,0 +1,29 @@
+{
+    "name": "Donald Jay Ohl",
+    "nicknames": [
+        "Waxie"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "april 18, 1936",
+    "birthplace": "murphysboro, illinois US",
+    "college": "illinois",
+    "high school": " edwardsville in edwardsville, illinois",
+    "draft": "philadelphia warriors, 5th round (5th pick, 37th overall), 1958 nba draft",
+    "debut": "october 22, 1960",
+    "accomplishments": [
+        "5x all star"
+    ],
+    "career_summary": {
+        "G": "727",
+        "PTS": "15.9",
+        "TRB": "3.0",
+        "AST": "3.1",
+        "FG%": "43.4",
+        "FT%": "73.2",
+        "PER": "13.2",
+        "WS": "30.2"
+    }
+}

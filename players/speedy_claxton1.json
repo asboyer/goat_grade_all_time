@@ -1,0 +1,31 @@
+{
+    "name": [
+        "Craig Claxton"
+    ],
+    "twitter": "speeddeamon",
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "5-11",
+    "weight": "166",
+    "birthday": "may 8, 1978",
+    "birthplace": "queens, new york US",
+    "college": "hofstra",
+    "high school": " christ the king in queens, new york",
+    "draft": "philadelphia 76ers, 1st round (20th pick, 20th overall), 2000 nba draft",
+    "debut": "october 30, 2001",
+    "accomplishments": [
+        "2003 nba champ"
+    ],
+    "career_summary": {
+        "G": "334",
+        "PTS": "9.3",
+        "TRB": "2.5",
+        "AST": "4.3",
+        "FG%": "40.9",
+        "FG3%": "19.3",
+        "FT%": "76.2",
+        "eFG%": "41.7",
+        "PER": "14.5",
+        "WS": "14.2"
+    }
+}

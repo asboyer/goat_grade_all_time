@@ -1,0 +1,22 @@
+{
+    "name": "Wilbur Holland",
+    "position": "shooting guard",
+    "shooting_hand": "left",
+    "height": "6-0",
+    "weight": "175",
+    "birthday": "november 8, 1951",
+    "birthplace": "columbus, georgia US",
+    "college": "new orleans",
+    "draft": "atlanta hawks, 5th round (3rd pick, 75th overall), 1975 nba draft",
+    "debut": "october 23, 1975",
+    "career_summary": {
+        "G": "276",
+        "PTS": "13.6",
+        "TRB": "3.1",
+        "AST": "3.3",
+        "FG%": "45.2",
+        "FT%": "79.9",
+        "PER": "14.2",
+        "WS": "14.0"
+    }
+}

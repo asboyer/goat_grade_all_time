@@ -1,0 +1,26 @@
+{
+    "name": "Donald F. Otten",
+    "nicknames": [
+        "Big Don"
+    ],
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "240",
+    "birthday": "april 18, 1921",
+    "birthplace": "bellefontaine, ohio US",
+    "died": "september 18, 1985",
+    "college": "bowling green",
+    "high school": " bellefontaine in bellefontaine, ohio",
+    "debut": "october 29, 1949",
+    "career_summary": {
+        "G": "219",
+        "PTS": "10.5",
+        "TRB": "6.0",
+        "AST": "1.4",
+        "FG%": "35.7",
+        "FT%": "76.1",
+        "PER": "19.6",
+        "WS": "20.9"
+    }
+}

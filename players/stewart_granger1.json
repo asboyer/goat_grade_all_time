@@ -1,0 +1,29 @@
+{
+    "name": "Stewart Francis Granger",
+    "nicknames": [
+        "Stew",
+        "Stew-Stew"
+    ],
+    "position": "point guard",
+    "shooting_hand": "right",
+    "height": "6-3",
+    "weight": "190",
+    "birthday": "october 27, 1961",
+    "birthplace": "montreal, quebec CA",
+    "college": "villanova",
+    "high school": " nazareth regional in brooklyn, new york",
+    "draft": "cleveland cavaliers, 1st round (24th pick, 24th overall), 1983 nba draft",
+    "debut": "october 29, 1983",
+    "career_summary": {
+        "G": "80",
+        "PTS": "4.0",
+        "TRB": "1.0",
+        "AST": "2.2",
+        "FG%": "41.4",
+        "FG3%": "23.5",
+        "FT%": "74.2",
+        "eFG%": "42.1",
+        "PER": "8.4",
+        "WS": "-0.1"
+    }
+}

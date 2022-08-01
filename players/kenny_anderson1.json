@@ -1,0 +1,34 @@
+{
+    "name": [
+        "Kenneth Anderson"
+    ],
+    "twitter": "chibbs_1",
+    "nicknames": [
+        "Mr. Chibbs"
+    ],
+    "position": "point guard",
+    "shooting_hand": "left",
+    "height": "6-0",
+    "weight": "168",
+    "birthday": "october 9, 1970",
+    "birthplace": "queens, new york US",
+    "college": "georgia tech",
+    "high school": " archbishop molloy in queens, new york",
+    "draft": "new jersey nets, 1st round (2nd pick, 2nd overall), 1991 nba draft",
+    "debut": "november 9, 1991",
+    "accomplishments": [
+        "1x all star"
+    ],
+    "career_summary": {
+        "G": "858",
+        "PTS": "12.6",
+        "TRB": "3.1",
+        "AST": "6.1",
+        "FG%": "42.1",
+        "FG3%": "34.6",
+        "FT%": "79.0",
+        "eFG%": "44.9",
+        "PER": "16.4",
+        "WS": "62.5"
+    }
+}

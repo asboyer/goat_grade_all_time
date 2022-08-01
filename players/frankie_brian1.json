@@ -1,0 +1,30 @@
+{
+    "name": "Frank Sands Brian",
+    "nicknames": [
+        "Flash"
+    ],
+    "position": "shooting guard and point guard",
+    "shooting_hand": "right",
+    "height": "6-1",
+    "weight": "180",
+    "birthday": "may 1, 1923",
+    "birthplace": "zachary, louisiana US",
+    "died": "may 14, 2017",
+    "college": "lsu",
+    "high school": " zachary in zachary, louisiana",
+    "debut": "november 3, 1949",
+    "accomplishments": [
+        "2x all star",
+        "2x all-nba"
+    ],
+    "career_summary": {
+        "G": "438",
+        "PTS": "12.3",
+        "TRB": "2.4",
+        "AST": "2.6",
+        "FG%": "34.0",
+        "FT%": "82.1",
+        "PER": "14.0",
+        "WS": "30.1"
+    }
+}

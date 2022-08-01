@@ -1,0 +1,30 @@
+{
+    "name": "Matthew Gordon Bullard",
+    "position": "power forward and small forward",
+    "shooting_hand": "right",
+    "height": "6-10",
+    "weight": "215",
+    "birthday": "june 5, 1967",
+    "birthplace": "des moines, iowa US",
+    "colleges": [
+        "colorado",
+        "iowa"
+    ],
+    "high school": " valley in west des moines, iowa",
+    "debut": "january 5, 1991",
+    "accomplishments": [
+        "1994 nba champ"
+    ],
+    "career_summary": {
+        "G": "615",
+        "PTS": "5.3",
+        "TRB": "2.0",
+        "AST": "0.9",
+        "FG%": "41.8",
+        "FG3%": "38.4",
+        "FT%": "76.8",
+        "eFG%": "52.1",
+        "PER": "11.9",
+        "WS": "16.8"
+    }
+}

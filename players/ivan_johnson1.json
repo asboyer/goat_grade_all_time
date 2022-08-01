@@ -1,0 +1,27 @@
+{
+    "name": "Ivan W. Johnson",
+    "position": "power forward",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "230",
+    "birthday": "april 10, 1984",
+    "birthplace": "san antonio, texas US",
+    "colleges": [
+        "oregon",
+        "cal state san bernardino"
+    ],
+    "high school": " fox tech in san antonio, texas",
+    "debut": "december 27, 2011",
+    "career_summary": {
+        "G": "125",
+        "PTS": "6.5",
+        "TRB": "3.9",
+        "AST": "0.6",
+        "FG%": "51.7",
+        "FG3%": "15.8",
+        "FT%": "66.2",
+        "eFG%": "51.9",
+        "PER": "15.1",
+        "WS": "4.5"
+    }
+}

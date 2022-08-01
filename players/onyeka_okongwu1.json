@@ -1,0 +1,29 @@
+{
+    "name": [
+        "Onyeka Okongwu"
+    ],
+    "twitter": "BigO21_",
+    "instagram": "big0",
+    "position": "center",
+    "shooting_hand": "right",
+    "height": "6-8",
+    "weight": "235",
+    "birthday": "december 11, 2000",
+    "birthplace": "los angeles, california US",
+    "college": "usc",
+    "high school": " chino hills in chino hills, california",
+    "draft": "atlanta hawks, 1st round (6th pick, 6th overall), 2020 nba draft",
+    "debut": "january 15, 2021",
+    "career_summary": {
+        "G": "98",
+        "PTS": "6.3",
+        "TRB": "4.6",
+        "AST": "0.7",
+        "FG%": "67.2",
+        "FG3%": "0.0",
+        "FT%": "69.5",
+        "eFG%": "67.2",
+        "PER": "18.7",
+        "WS": "6.1"
+    }
+}

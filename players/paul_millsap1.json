@@ -1,0 +1,37 @@
+{
+    "name": [
+        "Paul Millsap"
+    ],
+    "twitter": "Paulmillsap4",
+    "instagram": "paulmillsap4",
+    "nicknames": [
+        "The Anchorman"
+    ],
+    "position": "power forward and center",
+    "shooting_hand": "right",
+    "height": "6-7",
+    "weight": "257",
+    "birthday": "february 10, 1985",
+    "birthplace": "monroe, louisiana US",
+    "college": "louisiana tech",
+    "high school": " grambling in grambling, louisiana",
+    "draft": "utah jazz, 2nd round (17th pick, 47th overall), 2006 nba draft",
+    "debut": "november 1, 2006",
+    "accomplishments": [
+        "4x all star",
+        "2006-07 all-rookie",
+        "2015-16 all-defensive"
+    ],
+    "career_summary": {
+        "G": "1085",
+        "PTS": "13.4",
+        "TRB": "7.1",
+        "AST": "2.2",
+        "FG%": "48.9",
+        "FG3%": "34.1",
+        "FT%": "73.6",
+        "eFG%": "51.3",
+        "PER": "18.7",
+        "WS": "95.4"
+    }
+}
